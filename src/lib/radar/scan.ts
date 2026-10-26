@@ -23,14 +23,19 @@ export interface ScanResult {
   removed: number;
 }
 
+/** Zapis paczkami (jedno zapytanie na 200 ogłoszeń): baza bywa daleko od serwera, a każde zapytanie to osobna podróż. */
 async function saveListings(listings: Listing[]): Promise<Listing[]> {
   const saved: Listing[] = [];
-  for (const l of listings) {
-    const r = await db.run(
+  for (let i = 0; i < listings.length; i += 200) {
+    const chunk = listings.slice(i, i + 200);
+    const rows = await db.all<{ source: string; external_id: string }>(
       `INSERT INTO listings (id, source, external_id, title, price, url, image, location, condition, category, length_cm, size, family, ski_slug, posted_at, seen_at)
-       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) ON CONFLICT (source, external_id) DO NOTHING`,
-      l.id, l.source, l.external_id, l.title, l.price, l.url, l.image, l.location, l.condition, l.category, l.length_cm, l.size, l.family, l.ski_slug, l.posted_at, l.seen_at);
-    if (r.changes) saved.push(l);
+       VALUES ${chunk.map(() => "(?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)").join(", ")}
+       ON CONFLICT (source, external_id) DO NOTHING RETURNING source, external_id`,
+      ...chunk.flatMap((l) => [l.id, l.source, l.external_id, l.title, l.price, l.url, l.image, l.location, l.condition, l.category, l.length_cm, l.size, l.family, l.ski_slug, l.posted_at, l.seen_at]),
+    );
+    const added = new Set(rows.map((r) => `${r.source}:${r.external_id}`));
+    saved.push(...chunk.filter((l) => added.has(`${l.source}:${l.external_id}`)));
   }
   return saved;
 }
@@ -124,11 +129,16 @@ export async function runScan(opts: { userId?: string; demoCount?: number } = {}
     const since =
       watch.last_run_at ?? new Date(Date.now() - FIRST_RUN_LOOKBACK_DAYS * 86_400_000).toISOString();
     const candidates = await db.all("SELECT * FROM listings WHERE seen_at > ?", since) as unknown as Listing[];
-    const found: Listing[] = [];
-    for (const l of candidates) {
-      if (!matches(watch, l)) continue;
-      const r = await db.run("INSERT INTO watch_matches (watch_id, listing_id, created_at) VALUES (?, ?, ?) ON CONFLICT (watch_id, listing_id) DO NOTHING", watch.id, l.id, now);
-      if (r.changes) found.push(l);
+    const hits = candidates.filter((l) => matches(watch, l));
+    let found: Listing[] = [];
+    if (hits.length) {
+      const added = await db.all<{ listing_id: string }>(
+        `INSERT INTO watch_matches (watch_id, listing_id, created_at) VALUES ${hits.map(() => "(?, ?, ?)").join(", ")}
+         ON CONFLICT (watch_id, listing_id) DO NOTHING RETURNING listing_id`,
+        ...hits.flatMap((l) => [watch.id, l.id, now]),
+      );
+      const ids = new Set(added.map((r) => r.listing_id));
+      found = hits.filter((l) => ids.has(l.id));
     }
     await db.run("UPDATE watches SET last_run_at = ? WHERE id = ?", now, watch.id);
     newMatches += found.length;

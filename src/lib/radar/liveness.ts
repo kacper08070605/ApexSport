@@ -18,7 +18,7 @@ export async function checkListing(l: Pick<Listing, "id" | "source" | "url">): P
   const state: Liveness = !res ? "unknown" : res.status === 404 || res.status === 410 ? "removed" : res.status < 400 ? "alive" : "unknown";
   if (state !== "unknown") {
     const now = new Date().toISOString();
-    await db.run("UPDATE listings SET checked_at = ?, removed_at = CASE WHEN ? THEN COALESCE(removed_at, ?) ELSE NULL END WHERE id = ?", now, state === "removed" ? 1 : 0, now, l.id);
+    await db.run("UPDATE listings SET checked_at = ?, removed_at = CASE WHEN ? THEN COALESCE(removed_at, ?) ELSE NULL END WHERE id = ?", now, state === "removed", now, l.id);
   }
   return state;
 }
