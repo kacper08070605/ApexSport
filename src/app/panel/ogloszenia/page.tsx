@@ -33,7 +33,7 @@ async function Listings({
     ? (raw as Status)
     : "active";
   const sort = parseSort(sp.sort);
-  const items = listMatches(user.id, { status, sort });
+  const items = await listMatches(user.id, { status, sort });
 
   return (
     <>

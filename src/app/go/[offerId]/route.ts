@@ -1,4 +1,4 @@
-import { getDb } from "@/lib/db";
+import { db } from "@/lib/db";
 import { livePrices } from "@/lib/live-prices";
 
 /**
@@ -11,9 +11,7 @@ export async function GET(_request: Request, ctx: RouteContext<"/go/[offerId]">)
   const offer = livePrices(slug)?.offers.find((o) => o.id === offerId);
   if (!offer) return new Response("Nie ma takiej oferty", { status: 404 });
 
-  getDb()
-    .prepare("INSERT INTO clicks (offer_id, product_slug, shop, price, created_at) VALUES (?, ?, ?, ?, ?)")
-    .run(offer.id, slug, offer.shop, offer.price, new Date().toISOString());
+  await db.run("INSERT INTO clicks (offer_id, product_slug, shop, price, created_at) VALUES (?, ?, ?, ?, ?)", offer.id, slug, offer.shop, offer.price, new Date().toISOString());
 
   return new Response(null, {
     status: 302,

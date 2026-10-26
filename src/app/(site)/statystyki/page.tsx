@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { connection } from "next/server";
 import { Suspense } from "react";
 import { getShop, getShops } from "@/lib/catalog";
-import { getDb } from "@/lib/db";
+import { db } from "@/lib/db";
 import { getSki, skiName } from "@/lib/skis";
 
 export const metadata: Metadata = {
@@ -17,17 +17,10 @@ const zl = (n: number) => `${Math.round(n).toLocaleString("pl-PL")} zł`;
 
 async function Stats() {
   await connection();
-  const db = getDb();
 
-  const byShop = db
-    .prepare("SELECT shop, COUNT(*) AS clicks, AVG(price) AS avg_price FROM clicks GROUP BY shop ORDER BY clicks DESC")
-    .all() as { shop: string; clicks: number; avg_price: number }[];
-  const byProduct = db
-    .prepare("SELECT product_slug, COUNT(*) AS clicks FROM clicks GROUP BY product_slug ORDER BY clicks DESC LIMIT 10")
-    .all() as { product_slug: string; clicks: number }[];
-  const alerts = db
-    .prepare("SELECT status, COUNT(*) AS n FROM alerts GROUP BY status")
-    .all() as { status: string; n: number }[];
+  const byShop = await db.all("SELECT shop, COUNT(*) AS clicks, AVG(price) AS avg_price FROM clicks GROUP BY shop ORDER BY clicks DESC") as { shop: string; clicks: number; avg_price: number }[];
+  const byProduct = await db.all("SELECT product_slug, COUNT(*) AS clicks FROM clicks GROUP BY product_slug ORDER BY clicks DESC LIMIT 10") as { product_slug: string; clicks: number }[];
+  const alerts = await db.all("SELECT status, COUNT(*) AS n FROM alerts GROUP BY status") as { status: string; n: number }[];
 
   const totalClicks = byShop.reduce((n, r) => n + r.clicks, 0);
   const expected = byShop.reduce((sum, r) => {

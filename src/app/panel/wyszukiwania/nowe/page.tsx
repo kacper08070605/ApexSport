@@ -4,7 +4,7 @@ import { Suspense } from "react";
 import { PageHeader, PanelSkeleton } from "@/components/radar/PageHeader";
 import { WatchForm } from "@/components/radar/WatchForm";
 import { requireUser } from "@/lib/auth";
-import { getDb } from "@/lib/db";
+import { db } from "@/lib/db";
 import { familyOptions } from "@/lib/radar/families";
 import { PLANS } from "@/lib/radar/plans";
 
@@ -13,7 +13,7 @@ export const metadata: Metadata = { title: "Nowe wyszukiwanie" };
 async function NewWatch({ searchParams }: { searchParams: Promise<{ pierwsze?: string }> }) {
   const user = await requireUser();
   const plan = PLANS[user.plan];
-  const count = (getDb().prepare("SELECT COUNT(*) AS n FROM watches WHERE user_id = ?").get(user.id) as { n: number }).n;
+  const count = (await db.get("SELECT COUNT(*) AS n FROM watches WHERE user_id = ?", user.id) as { n: number }).n;
   const first = (await searchParams).pierwsze === "1";
 
   if (count >= plan.maxWatches) {

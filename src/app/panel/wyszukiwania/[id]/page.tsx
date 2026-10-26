@@ -21,9 +21,9 @@ async function WatchDetail({ params, searchParams }: { params: Promise<{ id: str
   const user = await requireUser();
   const { id } = await params;
   const sort = parseSort((await searchParams).sort);
-  const watch = getWatch(user.id, id);
+  const watch = await getWatch(user.id, id);
   if (!watch) notFound();
-  const items = listMatches(user.id, { watchId: id, status: "active", sort });
+  const items = await listMatches(user.id, { watchId: id, status: "active", sort });
   const prices = items.filter((i) => !i.removed_at).map((i) => i.price);
 
   const criteria: [string, string][] = [

@@ -9,7 +9,7 @@ import { getWatch } from "@/lib/radar/repo";
 
 async function EditWatch({ params }: { params: Promise<{ id: string }> }) {
   const user = await requireUser();
-  const watch = getWatch(user.id, (await params).id);
+  const watch = await getWatch(user.id, (await params).id);
   if (!watch) notFound();
   return (
     <>

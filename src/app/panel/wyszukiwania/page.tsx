@@ -18,7 +18,7 @@ const NOTIFY = { instant: "od razu", daily: "raz dziennie", off: "wyłączone" }
 
 async function Watches() {
   const user = await requireUser();
-  const watches = listWatches(user.id);
+  const watches = await listWatches(user.id);
   const plan = PLANS[user.plan];
   const full = watches.length >= plan.maxWatches;
 

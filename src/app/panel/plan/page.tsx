@@ -4,7 +4,7 @@ import { Suspense } from "react";
 import { PageHeader, PanelSkeleton } from "@/components/radar/PageHeader";
 import { CancelPlanButton, UpgradeBox } from "@/components/radar/PlanButtons";
 import { requireUser } from "@/lib/auth";
-import { getDb } from "@/lib/db";
+import { db } from "@/lib/db";
 import { PLANS } from "@/lib/radar/plans";
 
 export const metadata: Metadata = { title: "Plan i płatności" };
@@ -13,7 +13,7 @@ async function PlanContent({ searchParams }: { searchParams: Promise<{ aktywowan
   const user = await requireUser();
   const activated = (await searchParams).aktywowano === "1";
   const plan = PLANS[user.plan];
-  const used = (getDb().prepare("SELECT COUNT(*) AS n FROM watches WHERE user_id = ?").get(user.id) as { n: number }).n;
+  const used = (await db.get("SELECT COUNT(*) AS n FROM watches WHERE user_id = ?", user.id) as { n: number }).n;
 
   return (
     <>

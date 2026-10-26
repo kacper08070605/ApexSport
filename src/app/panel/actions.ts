@@ -4,7 +4,7 @@ import { randomUUID } from "node:crypto";
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { loginUser, logoutUser, registerUser, requireUser } from "@/lib/auth";
-import { getDb } from "@/lib/db";
+import { db } from "@/lib/db";
 import { isDiscordWebhook, sendDiscord } from "@/lib/radar/discord";
 import type { Listing } from "@/lib/radar/match";
 import { keywordPhrases } from "@/lib/radar/match";
@@ -63,7 +63,6 @@ const dec = (v: FormDataEntryValue | null) => {
 
 export async function saveWatchAction(_: FormState, form: FormData): Promise<FormState> {
   const user = await requireUser();
-  const db = getDb();
   const id = String(form.get("id") ?? "");
   const plan = PLANS[user.plan];
 
@@ -115,23 +114,17 @@ export async function saveWatchAction(_: FormState, form: FormData): Promise<For
 
   let watchId = id;
   if (id) {
-    const r = db
-      .prepare(
-        `UPDATE watches SET name=?, category=?, gender=?, families=?, keywords=?, min_price=?, max_price=?, len_min=?, len_max=?, size_min=?, size_max=?, conditions=?, sources=?, notify=?, last_run_at=NULL
-         WHERE id = ? AND user_id = ?`,
-      )
-      .run(...values, id, user.id);
+    const r = await db.run(`UPDATE watches SET name=?, category=?, gender=?, families=?, keywords=?, min_price=?, max_price=?, len_min=?, len_max=?, size_min=?, size_max=?, conditions=?, sources=?, notify=?, last_run_at=NULL
+         WHERE id = ? AND user_id = ?`, ...values, id, user.id);
     if (!r.changes) return { error: "Nie znaleziono wyszukiwania." };
   } else {
-    const count = (db.prepare("SELECT COUNT(*) AS n FROM watches WHERE user_id = ?").get(user.id) as { n: number }).n;
+    const count = (await db.get("SELECT COUNT(*) AS n FROM watches WHERE user_id = ?", user.id) as { n: number }).n;
     if (count >= plan.maxWatches) {
       return { error: `Plan ${plan.name} pozwala na ${plan.maxWatches} wyszukiwania. Przejdź na Pro, żeby dodać więcej.` };
     }
     watchId = randomUUID();
-    db.prepare(
-      `INSERT INTO watches (id, user_id, name, category, gender, families, keywords, min_price, max_price, len_min, len_max, size_min, size_max, conditions, sources, notify, created_at)
-       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
-    ).run(watchId, user.id, ...values, new Date().toISOString());
+    await db.run(`INSERT INTO watches (id, user_id, name, category, gender, families, keywords, min_price, max_price, len_min, len_max, size_min, size_max, conditions, sources, notify, created_at)
+       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`, watchId, user.id, ...values, new Date().toISOString());
   }
   // od razu przeszukujemy ostatnie 7 dni, żeby użytkownik zobaczył wyniki
   await runScan({ userId: user.id, demoCount: 10 });
@@ -141,24 +134,20 @@ export async function saveWatchAction(_: FormState, form: FormData): Promise<For
 
 export async function deleteWatchAction(id: string) {
   const user = await requireUser();
-  getDb().prepare("DELETE FROM watches WHERE id = ? AND user_id = ?").run(id, user.id);
+  await db.run("DELETE FROM watches WHERE id = ? AND user_id = ?", id, user.id);
   revalidatePath("/panel", "layout");
   redirect("/panel/wyszukiwania");
 }
 
 export async function toggleWatchAction(id: string, active: boolean) {
   const user = await requireUser();
-  getDb().prepare("UPDATE watches SET active = ? WHERE id = ? AND user_id = ?").run(active ? 1 : 0, id, user.id);
+  await db.run("UPDATE watches SET active = ? WHERE id = ? AND user_id = ?", active ? 1 : 0, id, user.id);
   revalidatePath("/panel", "layout");
 }
 
 export async function setMatchStatusAction(matchId: number, status: "new" | "saved" | "dismissed") {
   const user = await requireUser();
-  getDb()
-    .prepare(
-      "UPDATE watch_matches SET status = ? WHERE id = ? AND watch_id IN (SELECT id FROM watches WHERE user_id = ?)",
-    )
-    .run(status, matchId, user.id);
+  await db.run("UPDATE watch_matches SET status = ? WHERE id = ? AND watch_id IN (SELECT id FROM watches WHERE user_id = ?)", status, matchId, user.id);
   revalidatePath("/panel", "layout");
 }
 
@@ -187,23 +176,22 @@ export async function upgradePlanAction(period: "month" | "year") {
   const user = await requireUser();
   const days = period === "year" ? 365 : 30;
   const until = new Date(Date.now() + days * 86_400_000).toISOString();
-  getDb().prepare("UPDATE users SET plan = 'pro', plan_until = ? WHERE id = ?").run(until, user.id);
+  await db.run("UPDATE users SET plan = 'pro', plan_until = ? WHERE id = ?", until, user.id);
   revalidatePath("/panel", "layout");
   redirect("/panel/plan?aktywowano=1");
 }
 
 export async function cancelPlanAction() {
   const user = await requireUser();
-  const db = getDb();
-  db.prepare("UPDATE users SET plan = 'free', plan_until = NULL WHERE id = ?").run(user.id);
+  await db.run("UPDATE users SET plan = 'free', plan_until = NULL WHERE id = ?", user.id);
   // plan Free nie ma powiadomień natychmiastowych
-  db.prepare("UPDATE watches SET notify = 'daily' WHERE user_id = ? AND notify = 'instant'").run(user.id);
+  await db.run("UPDATE watches SET notify = 'daily' WHERE user_id = ? AND notify = 'instant'", user.id);
   revalidatePath("/panel", "layout");
 }
 
 export async function updateProfileAction(_: FormState, form: FormData): Promise<FormState> {
   const user = await requireUser();
-  getDb().prepare("UPDATE users SET name = ? WHERE id = ?").run(String(form.get("name") ?? "").trim() || null, user.id);
+  await db.run("UPDATE users SET name = ? WHERE id = ?", String(form.get("name") ?? "").trim() || null, user.id);
   revalidatePath("/panel", "layout");
   return { ok: "Zapisano." };
 }
@@ -215,7 +203,7 @@ export async function saveDiscordAction(_: FormState, form: FormData): Promise<F
     return { error: "To nie jest adres webhooka Discorda. Powinien zaczynać się od https://discord.com/api/webhooks/." };
   const ok = await sendDiscord(url, "Apex Radar połączony z tym kanałem. Tutaj będą trafiać nowe ogłoszenia.", []);
   if (!ok) return { error: "Discord odrzucił wiadomość. Sprawdź, czy webhook nie został usunięty." };
-  getDb().prepare("UPDATE users SET discord_webhook = ? WHERE id = ?").run(url, user.id);
+  await db.run("UPDATE users SET discord_webhook = ? WHERE id = ?", url, user.id);
   revalidatePath("/panel", "layout");
   return { ok: "Połączono. Na kanale powinna być wiadomość od Apex Radar." };
 }
@@ -224,12 +212,8 @@ export async function saveDiscordAction(_: FormState, form: FormData): Promise<F
 export async function testDiscordAction(): Promise<FormState> {
   const user = await requireUser();
   if (!user.discordWebhook) return { error: "Najpierw połącz kanał Discorda." };
-  const items = getDb()
-    .prepare(
-      `SELECT l.* FROM watch_matches m JOIN watches w ON w.id = m.watch_id JOIN listings l ON l.id = m.listing_id
-       WHERE w.user_id = ? AND m.status != 'dismissed' ORDER BY m.created_at DESC, l.price LIMIT 3`,
-    )
-    .all(user.id) as unknown as Listing[];
+  const items = await db.all(`SELECT l.* FROM watch_matches m JOIN watches w ON w.id = m.watch_id JOIN listings l ON l.id = m.listing_id
+       WHERE w.user_id = ? AND m.status != 'dismissed' ORDER BY m.created_at DESC, l.price LIMIT 3`, user.id) as unknown as Listing[];
   const heading = items.length
     ? `**Test powiadomienia:** ${items.length} ostatnio znalezione ogłoszenia`
     : "**Test powiadomienia.** Nie masz jeszcze znalezionych ogłoszeń, więc wysyłamy samą wiadomość.";
@@ -239,7 +223,7 @@ export async function testDiscordAction(): Promise<FormState> {
 
 export async function removeDiscordAction(): Promise<FormState> {
   const user = await requireUser();
-  getDb().prepare("UPDATE users SET discord_webhook = NULL WHERE id = ?").run(user.id);
+  await db.run("UPDATE users SET discord_webhook = NULL WHERE id = ?", user.id);
   revalidatePath("/panel", "layout");
   return { ok: "Odłączono Discorda." };
 }
@@ -247,6 +231,6 @@ export async function removeDiscordAction(): Promise<FormState> {
 export async function deleteAccountAction() {
   const user = await requireUser();
   await logoutUser();
-  getDb().prepare("DELETE FROM users WHERE id = ?").run(user.id);
+  await db.run("DELETE FROM users WHERE id = ?", user.id);
   redirect("/radar");
 }

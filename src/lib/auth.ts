@@ -3,7 +3,7 @@ import { createHash, randomBytes, randomUUID, scrypt as scryptCb, timingSafeEqua
 import { promisify } from "node:util";
 import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
-import { getDb } from "./db";
+import { db } from "./db";
 import { effectivePlan, type PlanId } from "./radar/plans";
 
 const scrypt = promisify(scryptCb) as (password: string, salt: Buffer, keylen: number) => Promise<Buffer>;
@@ -62,9 +62,7 @@ const hashToken = (token: string) => createHash("sha256").update(token).digest("
 async function startSession(userId: string) {
   const token = randomBytes(32).toString("base64url");
   const expires = new Date(Date.now() + SESSION_DAYS * 86_400_000);
-  getDb()
-    .prepare("INSERT INTO sessions (id, user_id, expires_at) VALUES (?, ?, ?)")
-    .run(hashToken(token), userId, expires.toISOString());
+  await db.run("INSERT INTO sessions (id, user_id, expires_at) VALUES (?, ?, ?)", hashToken(token), userId, expires.toISOString());
   (await cookies()).set(COOKIE, token, {
     httpOnly: true,
     sameSite: "lax",
@@ -75,14 +73,12 @@ async function startSession(userId: string) {
 }
 
 export async function registerUser(email: string, password: string, name: string): Promise<{ error?: string }> {
-  const db = getDb();
   const normalized = email.trim().toLowerCase();
-  if (db.prepare("SELECT 1 FROM users WHERE email = ?").get(normalized)) {
+  if (await db.get("SELECT 1 FROM users WHERE email = ?", normalized)) {
     return { error: "Konto z tym adresem już istnieje. Zaloguj się." };
   }
   const id = randomUUID();
-  db.prepare("INSERT INTO users (id, email, name, password_hash, created_at) VALUES (?, ?, ?, ?, ?)").run(
-    id,
+  await db.run("INSERT INTO users (id, email, name, password_hash, created_at) VALUES (?, ?, ?, ?, ?)", id,
     normalized,
     name.trim() || null,
     await hashPassword(password),
@@ -93,9 +89,7 @@ export async function registerUser(email: string, password: string, name: string
 }
 
 export async function loginUser(email: string, password: string): Promise<{ error?: string }> {
-  const row = getDb()
-    .prepare("SELECT * FROM users WHERE email = ?")
-    .get(email.trim().toLowerCase()) as UserRow | undefined;
+  const row = await db.get("SELECT * FROM users WHERE email = ?", email.trim().toLowerCase()) as UserRow | undefined;
   if (!row || !(await verifyPassword(password, row.password_hash))) {
     return { error: "Nieprawidłowy e-mail lub hasło." };
   }
@@ -106,7 +100,7 @@ export async function loginUser(email: string, password: string): Promise<{ erro
 export async function logoutUser() {
   const store = await cookies();
   const token = store.get(COOKIE)?.value;
-  if (token) getDb().prepare("DELETE FROM sessions WHERE id = ?").run(hashToken(token));
+  if (token) await db.run("DELETE FROM sessions WHERE id = ?", hashToken(token));
   store.delete(COOKIE);
 }
 
@@ -114,11 +108,7 @@ export async function logoutUser() {
 export async function getCurrentUser(): Promise<User | null> {
   const token = (await cookies()).get(COOKIE)?.value;
   if (!token) return null;
-  const row = getDb()
-    .prepare(
-      "SELECT u.* FROM sessions s JOIN users u ON u.id = s.user_id WHERE s.id = ? AND s.expires_at > ?",
-    )
-    .get(hashToken(token), new Date().toISOString()) as UserRow | undefined;
+  const row = await db.get("SELECT u.* FROM sessions s JOIN users u ON u.id = s.user_id WHERE s.id = ? AND s.expires_at > ?", hashToken(token), new Date().toISOString()) as UserRow | undefined;
   return row ? toUser(row) : null;
 }
 

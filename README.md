@@ -18,7 +18,14 @@ npm install
 npm run dev              # http://localhost:3000
 ```
 
-Wymaga Node 22+ (wbudowany `node:sqlite`). Baza `data/apex.db` tworzy się sama przy pierwszym użyciu.
+Wymaga Node 22+ i bazy Postgres (Supabase). W pliku `.env.local` ustaw
+`DATABASE_URL` (Supabase → Connect → Direct → Transaction pooler, port 6543), potem raz:
+
+```bash
+npm run db:setup         # zakłada tabele z data/schema.sql
+```
+
+Wdrożenie: Vercel, import repozytorium z GitHuba, zmienna środowiskowa `DATABASE_URL`.
 
 ## Jak przetestować alert cenowy
 
@@ -29,7 +36,7 @@ Strony, z których nie udało się odczytać ceny, skrypt wypisuje na końcu; ic
 ceną i datą. Skrypt uruchamia się ręcznie. Docelowo ceny przychodziłyby z feedów sieci afiliacyjnych.
 
 Test alertu bez czekania na prawdziwą obniżkę: załóż alert na stronie produktu, podnieś jego próg w bazie
-(`UPDATE alerts SET target_price = 99999` w `data/apex.db`) i uruchom `npm run prices:update -- <slug>`.
+(`UPDATE alerts SET target_price = 99999` w SQL Editorze Supabase) i uruchom `npm run prices:update -- <slug>`.
 Bez `RESEND_API_KEY` e-mail trafia tylko do bazy, a status widać na `/alerty`.
 
 ## Strefa narciarska
@@ -59,7 +66,7 @@ Strona `/radar`, konto `/radar/rejestracja`, panel `/panel`: wyszukiwania (model
 
 - Next.js 16 (App Router, Cache Components) + TypeScript + Tailwind CSS 4
 - UI: shadcn/ui na Radix (`src/components/ui/`, dodawanie: `npx shadcn@latest add <komponent>`), ikony Lucide, animacje Motion, karuzele Embla, wyszukiwarka cmdk (Ctrl+K). Motyw w `src/app/globals.css`, font Onest.
-- SQLite przez `node:sqlite`: alerty, kliknięcia w oferty, wysłane powiadomienia
+- Postgres (Supabase) przez bibliotekę `postgres`: alerty, kliknięcia w oferty, powiadomienia, konta i dane Radaru
 - MapLibre GL + kafelki OpenFreeMap (mapy ośrodków)
 
 ## Dane
@@ -70,7 +77,7 @@ Strona `/radar`, konto `/radar/rejestracja`, panel `/panel`: wyszukiwania (model
 | `data/shops.json` | Sklepy partnerskie: sieć afiliacyjna, prowizja, długość cookie |
 | `data/offers.json` | Oferty sklepów (adres karty produktu, cena, data sprawdzenia) i historia najniższej ceny |
 | `data/resorts.curated.json` → `data/resorts.json` | Ośrodki; statystyki z OpenSkiData (`npm run resorts:import`) |
-| `data/schema.sql` | Schemat bazy SQLite |
+| `data/schema.sql` | Schemat bazy Postgres |
 | `src/content/articles.ts` | Artykuły redakcyjne |
 
 Zasady: specyfikacje tylko od producentów (lub z archiwum ich stron i testów z danego sezonu),

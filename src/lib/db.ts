@@ -1,36 +1,48 @@
 import "server-only";
-import { readFileSync } from "node:fs";
-import path from "node:path";
-import { DatabaseSync } from "node:sqlite";
+import postgres from "postgres";
 
-// APEX_DB pozwala uruchomić drugą instancję na kopii bazy (np. do nagrań i testów)
-const DB_PATH = process.env.APEX_DB ?? path.join(process.cwd(), "data/apex.db");
+/**
+ * Baza Postgres (Supabase). Adres w DATABASE_URL: pooler w trybie transakcji (port 6543),
+ * dlatego bez prepared statements. Schemat: data/schema.sql, zakładany przez scripts/db-setup.mjs.
+ */
+const g = globalThis as unknown as { __apexSql?: postgres.Sql };
 
-let db: DatabaseSync | undefined;
-
-/** Połączenie z bazą SQLite; schemat tworzy się przy pierwszym użyciu. */
-export function getDb(): DatabaseSync {
-  if (!db) {
-    db = new DatabaseSync(DB_PATH);
-    db.exec("PRAGMA foreign_keys = ON; PRAGMA journal_mode = WAL;");
-    db.exec(readFileSync(path.join(process.cwd(), "data/schema.sql"), "utf-8"));
-    // migracja istniejących baz: kolumny dodane po utworzeniu tabel
-    const addColumn = (table: string, column: string, def: string) => {
-      const cols = (db!.prepare(`PRAGMA table_info(${table})`).all() as { name: string }[]).map((c) => c.name);
-      if (!cols.includes(column)) db!.exec(`ALTER TABLE ${table} ADD COLUMN ${column} ${def}`);
-    };
-    addColumn("users", "discord_webhook", "TEXT");
-    addColumn("watches", "category", "TEXT NOT NULL DEFAULT 'skis'");
-    addColumn("watches", "gender", "TEXT NOT NULL DEFAULT 'all'");
-    addColumn("watches", "size_min", "REAL");
-    addColumn("watches", "size_max", "REAL");
-    addColumn("listings", "category", "TEXT NOT NULL DEFAULT 'skis'");
-    addColumn("listings", "size", "REAL");
-    addColumn("listings", "checked_at", "TEXT");
-    addColumn("listings", "removed_at", "TEXT");
-  }
-  return db;
+function client() {
+  if (!process.env.DATABASE_URL) throw new Error("Brak DATABASE_URL (ustaw w .env.local albo w zmiennych środowiska hostingu).");
+  return postgres(process.env.DATABASE_URL, {
+    prepare: false,
+    max: 5,
+    idle_timeout: 20,
+    onnotice: () => {},
+    // COUNT/SUM/AVG zwracają w Postgresie bigint/numeric; w aplikacji chcemy zwykłe liczby
+    types: { bigint: { to: 20, from: [20, 1700], serialize: (x: number) => String(x), parse: (x: string) => Number(x) } },
+  });
 }
+
+const sql = () => (g.__apexSql ??= client());
+
+/** Zapytania pisane z „?” jak w SQLite; zamieniamy na $1, $2… */
+const pg = (q: string) => {
+  let i = 0;
+  return q.replace(/\?/g, () => `$${++i}`);
+};
+
+type Param = string | number | boolean | null | undefined;
+const params = (p: Param[]) => p.map((x) => (x === undefined ? null : x)) as (string | number | boolean | null)[];
+
+export const db = {
+  async get<T>(q: string, ...p: Param[]): Promise<T | undefined> {
+    return (await sql().unsafe(pg(q), params(p)))[0] as T | undefined;
+  },
+  async all<T>(q: string, ...p: Param[]): Promise<T[]> {
+    return (await sql().unsafe(pg(q), params(p))) as unknown as T[];
+  },
+  /** INSERT/UPDATE/DELETE; zwraca liczbę zmienionych wierszy. */
+  async run(q: string, ...p: Param[]): Promise<{ changes: number }> {
+    const r = await sql().unsafe(pg(q), params(p));
+    return { changes: r.count };
+  },
+};
 
 export interface AlertRow {
   id: string;

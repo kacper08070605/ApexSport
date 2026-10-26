@@ -1,6 +1,6 @@
 import "server-only";
 import { bestOffer } from "../catalog";
-import { getDb } from "../db";
+import { db } from "../db";
 import { sendEmail } from "../mail";
 import { allegroEnabled, fetchAllegroListings } from "./allegro";
 import { generateDemoListings } from "./demo-source";
@@ -23,15 +23,13 @@ export interface ScanResult {
   removed: number;
 }
 
-function saveListings(listings: Listing[]): Listing[] {
-  const db = getDb();
-  const insert = db.prepare(
-    `INSERT OR IGNORE INTO listings (id, source, external_id, title, price, url, image, location, condition, category, length_cm, size, family, ski_slug, posted_at, seen_at)
-     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
-  );
+async function saveListings(listings: Listing[]): Promise<Listing[]> {
   const saved: Listing[] = [];
   for (const l of listings) {
-    const r = insert.run(l.id, l.source, l.external_id, l.title, l.price, l.url, l.image, l.location, l.condition, l.category, l.length_cm, l.size, l.family, l.ski_slug, l.posted_at, l.seen_at);
+    const r = await db.run(
+      `INSERT INTO listings (id, source, external_id, title, price, url, image, location, condition, category, length_cm, size, family, ski_slug, posted_at, seen_at)
+       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) ON CONFLICT (source, external_id) DO NOTHING`,
+      l.id, l.source, l.external_id, l.title, l.price, l.url, l.image, l.location, l.condition, l.category, l.length_cm, l.size, l.family, l.ski_slug, l.posted_at, l.seen_at);
     if (r.changes) saved.push(l);
   }
   return saved;
@@ -73,13 +71,10 @@ async function notify(to: Recipient, watch: Watch, items: Listing[]) {
     const ok = await sendDiscord(to.discord_webhook, `**${subject}**`, items, `${SITE}/panel/wyszukiwania/${watch.id}`);
     channels.push(ok ? "discord" : "discord_error");
   }
-  const db = getDb();
   const now = new Date().toISOString();
-  db.prepare(
-    "INSERT INTO radar_notifications (user_id, watch_id, subject, body, matches, channel, created_at) VALUES (?, ?, ?, ?, ?, ?, ?)",
-  ).run(to.user_id, watch.id, subject, body, items.length, channels.join(","), now);
+  await db.run("INSERT INTO radar_notifications (user_id, watch_id, subject, body, matches, channel, created_at) VALUES (?, ?, ?, ?, ?, ?, ?)", to.user_id, watch.id, subject, body, items.length, channels.join(","), now);
   for (const l of items)
-    db.prepare("UPDATE watch_matches SET notified_at = ? WHERE watch_id = ? AND listing_id = ?").run(now, watch.id, l.id);
+    await db.run("UPDATE watch_matches SET notified_at = ? WHERE watch_id = ? AND listing_id = ?", now, watch.id, l.id);
 }
 
 /**
@@ -87,14 +82,9 @@ async function notify(to: Recipient, watch: Watch, items: Listing[]) {
  * wyszukiwań i wysyła powiadomienia „od razu” (plan Pro). Podsumowania dzienne: sendDigests().
  */
 export async function runScan(opts: { userId?: string; demoCount?: number } = {}): Promise<ScanResult> {
-  const db = getDb();
   /* eslint-disable @typescript-eslint/no-explicit-any */
-  const rows = db
-    .prepare(
-      `SELECT w.*, u.email, u.plan, u.plan_until, u.discord_webhook FROM watches w JOIN users u ON u.id = w.user_id
-       WHERE w.active = 1 ${opts.userId ? "AND w.user_id = ?" : ""}`,
-    )
-    .all(...(opts.userId ? [opts.userId] : [])) as any[];
+  const rows = await db.all(`SELECT w.*, u.email, u.plan, u.plan_until, u.discord_webhook FROM watches w JOIN users u ON u.id = w.user_id
+       WHERE w.active = 1 ${opts.userId ? "AND w.user_id = ?" : ""}`, ...(opts.userId ? [opts.userId] : [])) as any[];
   /* eslint-enable @typescript-eslint/no-explicit-any */
 
   // 1. pobranie ogłoszeń
@@ -123,7 +113,7 @@ export async function runScan(opts: { userId?: string; demoCount?: number } = {}
   if (olxSnapshotEnabled()) incoming.push(...olxSnapshotListings());
   if (vintedEnabled()) incoming.push(...(await fetchVintedListings(queriesFor("vinted")).catch(() => [])));
   if (allegroEnabled()) incoming.push(...(await fetchAllegroListings(phrasesFor("allegro")).catch(() => [])));
-  saveListings(incoming);
+  await saveListings(incoming);
 
   // 2. dopasowanie
   let newMatches = 0;
@@ -133,16 +123,14 @@ export async function runScan(opts: { userId?: string; demoCount?: number } = {}
     const watch = watchFromRow(row);
     const since =
       watch.last_run_at ?? new Date(Date.now() - FIRST_RUN_LOOKBACK_DAYS * 86_400_000).toISOString();
-    const candidates = db.prepare("SELECT * FROM listings WHERE seen_at > ?").all(since) as unknown as Listing[];
+    const candidates = await db.all("SELECT * FROM listings WHERE seen_at > ?", since) as unknown as Listing[];
     const found: Listing[] = [];
     for (const l of candidates) {
       if (!matches(watch, l)) continue;
-      const r = db
-        .prepare("INSERT OR IGNORE INTO watch_matches (watch_id, listing_id, created_at) VALUES (?, ?, ?)")
-        .run(watch.id, l.id, now);
+      const r = await db.run("INSERT INTO watch_matches (watch_id, listing_id, created_at) VALUES (?, ?, ?) ON CONFLICT (watch_id, listing_id) DO NOTHING", watch.id, l.id, now);
       if (r.changes) found.push(l);
     }
-    db.prepare("UPDATE watches SET last_run_at = ? WHERE id = ?").run(now, watch.id);
+    await db.run("UPDATE watches SET last_run_at = ? WHERE id = ?", now, watch.id);
     newMatches += found.length;
 
     // 3. powiadomienie natychmiastowe tylko w planie Pro
@@ -159,24 +147,15 @@ export async function runScan(opts: { userId?: string; demoCount?: number } = {}
 
 /** Podsumowanie dzienne: wszystkie niewysłane dopasowania, jeden e-mail na wyszukiwanie. */
 export async function sendDigests(opts: { userId?: string } = {}): Promise<number> {
-  const db = getDb();
   /* eslint-disable @typescript-eslint/no-explicit-any */
-  const rows = db
-    .prepare(
-      `SELECT w.*, u.email, u.plan, u.plan_until, u.discord_webhook FROM watches w JOIN users u ON u.id = w.user_id
-       WHERE w.active = 1 AND w.notify != 'off' ${opts.userId ? "AND w.user_id = ?" : ""}`,
-    )
-    .all(...(opts.userId ? [opts.userId] : [])) as any[];
+  const rows = await db.all(`SELECT w.*, u.email, u.plan, u.plan_until, u.discord_webhook FROM watches w JOIN users u ON u.id = w.user_id
+       WHERE w.active = 1 AND w.notify != 'off' ${opts.userId ? "AND w.user_id = ?" : ""}`, ...(opts.userId ? [opts.userId] : [])) as any[];
   /* eslint-enable @typescript-eslint/no-explicit-any */
   let sent = 0;
   for (const row of rows) {
     const watch = watchFromRow(row);
-    const pending = db
-      .prepare(
-        `SELECT l.* FROM watch_matches m JOIN listings l ON l.id = m.listing_id
-         WHERE m.watch_id = ? AND m.notified_at IS NULL AND m.status != 'dismissed' ORDER BY l.price`,
-      )
-      .all(watch.id) as unknown as Listing[];
+    const pending = await db.all(`SELECT l.* FROM watch_matches m JOIN listings l ON l.id = m.listing_id
+         WHERE m.watch_id = ? AND m.notified_at IS NULL AND m.status != 'dismissed' ORDER BY l.price`, watch.id) as unknown as Listing[];
     if (!pending.length) continue;
     await notify(row, watch, pending);
     sent++;

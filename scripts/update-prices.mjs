@@ -12,10 +12,8 @@
 // Wysyłka e-maili: jeśli ustawiono RESEND_API_KEY, przez Resend; inaczej powiadomienie
 // trafia tylko do tabeli notifications (widać je na stronie /alerty).
 
-import { readFileSync } from "node:fs";
-import path from "node:path";
-import { DatabaseSync } from "node:sqlite";
-import { isoDay, minPrice, OFFERS_PATH, readJson, root, writeJson } from "./lib/prices.mjs";
+import postgres from "postgres";
+import { isoDay, minPrice, OFFERS_PATH, readJson, writeJson } from "./lib/prices.mjs";
 
 const UA = "ApexSport/0.1 (porownywarka cen nart, projekt studencki)";
 const PAUSE_MS = 1500;
@@ -114,10 +112,12 @@ console.log(`Ceny na ${day}: sprawdzono ${checked} ofert, zmienionych ${changed}
 if (failed.length) console.log(`Nie udało się odczytać (${failed.length}):\n  ${failed.join("\n  ")}`);
 
 // --- alerty ---
-const db = new DatabaseSync(path.join(root, "data/apex.db"));
-db.exec(readFileSync(path.join(root, "data/schema.sql"), "utf-8"));
-
-const active = db.prepare("SELECT * FROM alerts WHERE status = 'active'").all();
+if (!process.env.DATABASE_URL) {
+  console.log("Alerty pominięte: brak DATABASE_URL.");
+  process.exit(0);
+}
+const sql = postgres(process.env.DATABASE_URL, { prepare: false, onnotice: () => {} });
+const active = await sql`SELECT * FROM alerts WHERE status = 'active'`;
 let sent = 0;
 
 for (const alert of active) {
@@ -135,15 +135,12 @@ for (const alert of active) {
   ].join("\n");
 
   await sendEmail(alert.email, subject, body);
-  db.prepare("INSERT INTO notifications (alert_id, email, subject, body, created_at) VALUES (?, ?, ?, ?, ?)").run(
-    alert.id, alert.email, subject, body, now,
-  );
-  db.prepare("UPDATE alerts SET status = 'triggered', triggered_at = ?, triggered_price = ? WHERE id = ?").run(
-    now, p.min, alert.id,
-  );
+  await sql`INSERT INTO notifications (alert_id, email, subject, body, created_at) VALUES (${alert.id}, ${alert.email}, ${subject}, ${body}, ${now})`;
+  await sql`UPDATE alerts SET status = 'triggered', triggered_at = ${now}, triggered_price = ${p.min} WHERE id = ${alert.id}`;
   sent++;
 }
 console.log(`Alerty: ${active.length} aktywnych, wysłano ${sent} powiadomień.`);
+await sql.end();
 
 async function sendEmail(to, subject, text) {
   const key = process.env.RESEND_API_KEY;

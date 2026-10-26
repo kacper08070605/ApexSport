@@ -18,7 +18,7 @@ export const metadata: Metadata = { title: "Powiadomienia" };
 
 async function Notifications() {
   const user = await requireUser();
-  const items = listNotifications(user.id);
+  const items = await listNotifications(user.id);
   return (
     <>
       <PageHeader

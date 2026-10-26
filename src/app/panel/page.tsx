@@ -15,9 +15,9 @@ const fmtTime = (iso: string | null) =>
 
 async function Overview() {
   const user = await requireUser();
-  const stats = dashboardStats(user.id);
-  const watches = listWatches(user.id);
-  const latest = listMatches(user.id, { status: "active", limit: 6 });
+  const stats = await dashboardStats(user.id);
+  const watches = await listWatches(user.id);
+  const latest = await listMatches(user.id, { status: "active", limit: 6 });
   const plan = PLANS[user.plan];
 
   if (watches.length === 0) {

@@ -1,5 +1,5 @@
 import { NextResponse, type NextRequest } from "next/server";
-import { getDb } from "@/lib/db";
+import { db } from "@/lib/db";
 import { checkListing } from "@/lib/radar/liveness";
 import type { Listing } from "@/lib/radar/match";
 
@@ -9,7 +9,7 @@ import type { Listing } from "@/lib/radar/match";
  */
 export async function GET(req: NextRequest, ctx: RouteContext<"/panel/ogloszenie/[id]">) {
   const { id } = await ctx.params;
-  const l = getDb().prepare("SELECT id, source, url, removed_at FROM listings WHERE id = ?").get(id) as
+  const l = await db.get("SELECT id, source, url, removed_at FROM listings WHERE id = ?", id) as
     | (Pick<Listing, "id" | "source" | "url"> & { removed_at: string | null })
     | undefined;
   if (!l) return NextResponse.redirect(new URL("/panel/ogloszenia", req.url));

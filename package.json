@@ -7,14 +7,15 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "prices:update": "node --no-warnings scripts/update-prices.mjs",
+    "prices:update": "node --no-warnings --env-file-if-exists=.env.local scripts/update-prices.mjs",
     "resorts:import": "node scripts/import-resorts.mjs",
     "resorts:details": "node scripts/import-resort-details.mjs",
     "resorts:climate": "node scripts/import-climate.mjs",
     "postinstall": "node scripts/copy-maplibre-worker.mjs",
     "images:normalize": "node scripts/normalize-ski-images.mjs",
     "radar:scan": "node scripts/radar-scan.mjs",
-    "radar:digest": "node scripts/radar-scan.mjs --digest"
+    "radar:digest": "node scripts/radar-scan.mjs --digest",
+    "db:setup": "node --no-warnings --env-file-if-exists=.env.local scripts/db-setup.mjs"
   },
   "dependencies": {
     "class-variance-authority": "^0.7.1",
@@ -26,6 +27,7 @@
     "motion": "^14.6.0",
     "next": "16.4.3",
     "next-themes": "^0.4.6",
+    "postgres": "^3.4.7",
     "radix-ui": "^1.8.1",
     "react": "19.3.0",
     "react-dom": "19.3.0",

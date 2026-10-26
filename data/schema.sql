@@ -1,4 +1,4 @@
--- Baza serwisu (SQLite, plik data/apex.db). Wspólna dla aplikacji i skryptów.
+-- Baza serwisu (Postgres / Supabase). Zakładana przez scripts/db-setup.mjs, wspólna dla aplikacji i skryptów.
 
 CREATE TABLE IF NOT EXISTS alerts (
   id              TEXT PRIMARY KEY,
@@ -14,7 +14,7 @@ CREATE TABLE IF NOT EXISTS alerts (
 
 -- Kliknięcia w oferty sklepów: podstawa rozliczeń z sieciami afiliacyjnymi.
 CREATE TABLE IF NOT EXISTS clicks (
-  id           INTEGER PRIMARY KEY AUTOINCREMENT,
+  id           BIGSERIAL PRIMARY KEY,
   offer_id     TEXT NOT NULL,
   product_slug TEXT NOT NULL,
   shop         TEXT NOT NULL,
@@ -24,7 +24,7 @@ CREATE TABLE IF NOT EXISTS clicks (
 
 -- Wysłane (lub w trybie demo: zapisane) powiadomienia e-mail.
 CREATE TABLE IF NOT EXISTS notifications (
-  id         INTEGER PRIMARY KEY AUTOINCREMENT,
+  id         BIGSERIAL PRIMARY KEY,
   alert_id   TEXT NOT NULL,
   email      TEXT NOT NULL,
   subject    TEXT NOT NULL,
@@ -64,8 +64,8 @@ CREATE TABLE IF NOT EXISTS watches (
   max_price   INTEGER,
   len_min     INTEGER,
   len_max     INTEGER,
-  size_min    REAL,                            -- rozmiar EU (buty)
-  size_max    REAL,
+  size_min    DOUBLE PRECISION,                            -- rozmiar EU (buty)
+  size_max    DOUBLE PRECISION,
   conditions  TEXT NOT NULL DEFAULT '[]',      -- JSON: new | like_new | used | worn
   sources     TEXT NOT NULL DEFAULT '[]',      -- JSON: olx | allegro | vinted
   notify      TEXT NOT NULL DEFAULT 'instant', -- instant | daily | off
@@ -87,7 +87,7 @@ CREATE TABLE IF NOT EXISTS listings (
   condition   TEXT,
   category    TEXT NOT NULL DEFAULT 'skis',    -- skis | boots
   length_cm   INTEGER,
-  size        REAL,                            -- rozmiar EU (buty)
+  size        DOUBLE PRECISION,                            -- rozmiar EU (buty)
   family      TEXT,                            -- dopasowana linia modelu z katalogu
   ski_slug    TEXT,                            -- dopasowany rocznik (jeśli rozpoznany)
   posted_at   TEXT NOT NULL,
@@ -98,7 +98,7 @@ CREATE TABLE IF NOT EXISTS listings (
 );
 
 CREATE TABLE IF NOT EXISTS watch_matches (
-  id          INTEGER PRIMARY KEY AUTOINCREMENT,
+  id          BIGSERIAL PRIMARY KEY,
   watch_id    TEXT NOT NULL REFERENCES watches(id) ON DELETE CASCADE,
   listing_id  TEXT NOT NULL REFERENCES listings(id) ON DELETE CASCADE,
   created_at  TEXT NOT NULL,
@@ -108,7 +108,7 @@ CREATE TABLE IF NOT EXISTS watch_matches (
 );
 
 CREATE TABLE IF NOT EXISTS radar_notifications (
-  id         INTEGER PRIMARY KEY AUTOINCREMENT,
+  id         BIGSERIAL PRIMARY KEY,
   user_id    TEXT NOT NULL REFERENCES users(id) ON DELETE CASCADE,
   watch_id   TEXT,
   subject    TEXT NOT NULL,
@@ -117,3 +117,8 @@ CREATE TABLE IF NOT EXISTS radar_notifications (
   channel    TEXT NOT NULL DEFAULT 'email',
   created_at TEXT NOT NULL
 );
+
+CREATE INDEX IF NOT EXISTS sessions_user ON sessions (user_id);
+CREATE INDEX IF NOT EXISTS watches_user ON watches (user_id);
+CREATE INDEX IF NOT EXISTS matches_watch ON watch_matches (watch_id);
+CREATE INDEX IF NOT EXISTS listings_seen ON listings (seen_at);
