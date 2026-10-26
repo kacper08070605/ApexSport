@@ -1,0 +1,2661 @@
+{
+ "source": "Open-Meteo Historical Weather API (ERA5), CC BY 4.0",
+ "seasons": "2016/2017–2025/2026",
+ "resorts": {
+  "szczyrk-mountain-resort": {
+   "elevation_m": 899,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 18,
+     "snow_days": 4.4,
+     "temp_c": 1.4
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 40,
+     "snow_days": 9.2,
+     "temp_c": -2.5
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 45,
+     "snow_days": 10.8,
+     "temp_c": -4.3
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 31,
+     "snow_days": 7.3,
+     "temp_c": -2.4
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 17,
+     "snow_days": 4.9,
+     "temp_c": 1.2
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 15,
+     "snow_days": 3.3,
+     "temp_c": 5.2
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 160
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 162
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 206
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 128
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 192
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 213
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 215
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 163
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 97
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 126
+    }
+   ]
+  },
+  "kotelnica-bialczanska": {
+   "elevation_m": 824,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 18,
+     "snow_days": 4.8,
+     "temp_c": 2.8
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 39,
+     "snow_days": 9.2,
+     "temp_c": -0.6
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 41,
+     "snow_days": 9.6,
+     "temp_c": -2.1
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 31,
+     "snow_days": 7.9,
+     "temp_c": -0.5
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 21,
+     "snow_days": 5.6,
+     "temp_c": 2.5
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 19,
+     "snow_days": 4.4,
+     "temp_c": 6.4
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 179
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 161
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 196
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 154
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 179
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 258
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 202
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 143
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 83
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 147
+    }
+   ]
+  },
+  "czarna-gora": {
+   "elevation_m": 974,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 18,
+     "snow_days": 4.1,
+     "temp_c": 0.5
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 36,
+     "snow_days": 8.5,
+     "temp_c": -3
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 45,
+     "snow_days": 11.7,
+     "temp_c": -4.7
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 29,
+     "snow_days": 7.6,
+     "temp_c": -2.9
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 22,
+     "snow_days": 5.7,
+     "temp_c": 0.1
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 19,
+     "snow_days": 3.9,
+     "temp_c": 4.1
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 177
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 201
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 207
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 127
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 203
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 230
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 184
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 158
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 109
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 92
+    }
+   ]
+  },
+  "kasprowy-wierch": {
+   "elevation_m": 1499,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 44,
+     "snow_days": 8.1,
+     "temp_c": 0
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 63,
+     "snow_days": 12.3,
+     "temp_c": -3.9
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 65,
+     "snow_days": 13.5,
+     "temp_c": -5.6
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 65,
+     "snow_days": 13.6,
+     "temp_c": -4.5
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 49,
+     "snow_days": 10.9,
+     "temp_c": -2.5
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 54,
+     "snow_days": 10.2,
+     "temp_c": 0.8
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 334
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 351
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 361
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 304
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 306
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 430
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 434
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 417
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 189
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 273
+    }
+   ]
+  },
+  "pilsko": {
+   "elevation_m": 1078,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 21,
+     "snow_days": 5.4,
+     "temp_c": 0.5
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 47,
+     "snow_days": 9.6,
+     "temp_c": -3.3
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 49,
+     "snow_days": 10.6,
+     "temp_c": -5.1
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 35,
+     "snow_days": 8.3,
+     "temp_c": -3.4
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 19,
+     "snow_days": 5.2,
+     "temp_c": 0
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 15,
+     "snow_days": 3.9,
+     "temp_c": 4.1
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 191
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 161
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 240
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 175
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 179
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 237
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 222
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 194
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 118
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 143
+    }
+   ]
+  },
+  "dwie-doliny-wierchomla": {
+   "elevation_m": 790,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 13,
+     "snow_days": 3.6,
+     "temp_c": 1.7
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 26,
+     "snow_days": 7.8,
+     "temp_c": -2.1
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 30,
+     "snow_days": 8.4,
+     "temp_c": -3.9
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 18,
+     "snow_days": 5.4,
+     "temp_c": -1.8
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 10,
+     "snow_days": 2.3,
+     "temp_c": 1.7
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 8,
+     "snow_days": 1.9,
+     "temp_c": 5.9
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 98
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 124
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 128
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 67
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 134
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 112
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 133
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 88
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 79
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 101
+    }
+   ]
+  },
+  "szrenica": {
+   "elevation_m": 1010,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 23,
+     "snow_days": 5.7,
+     "temp_c": 0.7
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 45,
+     "snow_days": 10.3,
+     "temp_c": -2.5
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 61,
+     "snow_days": 12.7,
+     "temp_c": -4.1
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 37,
+     "snow_days": 7.8,
+     "temp_c": -2.7
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 26,
+     "snow_days": 7.2,
+     "temp_c": -0.1
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 14,
+     "snow_days": 3.5,
+     "temp_c": 3.6
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 216
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 251
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 300
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 169
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 203
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 281
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 217
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 190
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 149
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 89
+    }
+   ]
+  },
+  "jaworzyna-krynicka": {
+   "elevation_m": 876,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 16,
+     "snow_days": 4.8,
+     "temp_c": 1.4
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 34,
+     "snow_days": 8.8,
+     "temp_c": -2.5
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 38,
+     "snow_days": 9.3,
+     "temp_c": -4.3
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 24,
+     "snow_days": 6.4,
+     "temp_c": -2.3
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 15,
+     "snow_days": 4.3,
+     "temp_c": 1.3
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 13,
+     "snow_days": 2.5,
+     "temp_c": 5.5
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 116
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 158
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 164
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 112
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 166
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 155
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 178
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 122
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 95
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 128
+    }
+   ]
+  },
+  "slotwiny-arena": {
+   "elevation_m": 778,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 17,
+     "snow_days": 5,
+     "temp_c": 2.5
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 35,
+     "snow_days": 9,
+     "temp_c": -1.4
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 39,
+     "snow_days": 9.5,
+     "temp_c": -3.1
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 25,
+     "snow_days": 6.6,
+     "temp_c": -1.1
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 18,
+     "snow_days": 4.9,
+     "temp_c": 2.5
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 16,
+     "snow_days": 3.5,
+     "temp_c": 6.7
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 125
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 165
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 173
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 126
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 177
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 167
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 191
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 143
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 97
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 133
+    }
+   ]
+  },
+  "karpacz-ski-arena": {
+   "elevation_m": 1033,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 20,
+     "snow_days": 5,
+     "temp_c": 0.7
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 35,
+     "snow_days": 9.6,
+     "temp_c": -2.5
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 47,
+     "snow_days": 11.3,
+     "temp_c": -4.1
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 30,
+     "snow_days": 7.1,
+     "temp_c": -2.8
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 23,
+     "snow_days": 6.2,
+     "temp_c": -0.1
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 13,
+     "snow_days": 3.4,
+     "temp_c": 3.9
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 188
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 189
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 237
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 141
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 187
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 231
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 182
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 141
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 115
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 78
+    }
+   ]
+  },
+  "skrzyczne": {
+   "elevation_m": 892,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 18,
+     "snow_days": 4.4,
+     "temp_c": 1.5
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 40,
+     "snow_days": 9.2,
+     "temp_c": -2.5
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 45,
+     "snow_days": 10.8,
+     "temp_c": -4.2
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 31,
+     "snow_days": 7.3,
+     "temp_c": -2.4
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 17,
+     "snow_days": 4.9,
+     "temp_c": 1.2
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 15,
+     "snow_days": 3.2,
+     "temp_c": 5.2
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 160
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 162
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 206
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 128
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 192
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 213
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 215
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 163
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 97
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 126
+    }
+   ]
+  },
+  "zieleniec": {
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 16,
+     "snow_days": 4.3,
+     "temp_c": 1.1
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 28,
+     "snow_days": 7.4,
+     "temp_c": -2.3
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 40,
+     "snow_days": 9.9,
+     "temp_c": -4.1
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 23,
+     "snow_days": 6.2,
+     "temp_c": -2.4
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 15,
+     "snow_days": 4.3,
+     "temp_c": 1
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 10,
+     "snow_days": 2.6,
+     "temp_c": 5.1
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 121
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 176
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 168
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 86
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 149
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 194
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 135
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 135
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 79
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 77
+    }
+   ]
+  },
+  "jurgow-ski": {
+   "elevation_m": 921,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 22,
+     "snow_days": 5.5,
+     "temp_c": 2.3
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 40,
+     "snow_days": 9.7,
+     "temp_c": -1.3
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 43,
+     "snow_days": 9.9,
+     "temp_c": -3
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 33,
+     "snow_days": 8.5,
+     "temp_c": -1.6
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 31,
+     "snow_days": 7.1,
+     "temp_c": 1
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 26,
+     "snow_days": 5.7,
+     "temp_c": 5.1
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 177
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 210
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 217
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 180
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 203
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 241
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 244
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 183
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 111
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 197
+    }
+   ]
+  },
+  "czorsztyn-ski": {
+   "elevation_m": 687,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 14,
+     "snow_days": 4.4,
+     "temp_c": 2.7
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 27,
+     "snow_days": 7.9,
+     "temp_c": -0.8
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 32,
+     "snow_days": 8.1,
+     "temp_c": -2.5
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 19,
+     "snow_days": 5.5,
+     "temp_c": -0.6
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 14,
+     "snow_days": 3.6,
+     "temp_c": 2.6
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 13,
+     "snow_days": 3.3,
+     "temp_c": 6.6
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 130
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 115
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 142
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 89
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 141
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 140
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 140
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 109
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 74
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 115
+    }
+   ]
+  },
+  "ski-sun-swieradow": {
+   "elevation_m": 833,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 22,
+     "snow_days": 5.3,
+     "temp_c": 1.9
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 40,
+     "snow_days": 9.4,
+     "temp_c": -1.2
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 60,
+     "snow_days": 12.6,
+     "temp_c": -2.8
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 37,
+     "snow_days": 8.3,
+     "temp_c": -1.4
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 28,
+     "snow_days": 7.2,
+     "temp_c": 1.3
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 16,
+     "snow_days": 4.3,
+     "temp_c": 5.2
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 213
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 241
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 295
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 165
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 211
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 267
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 225
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 183
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 137
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 89
+    }
+   ]
+  },
+  "czantoria": {
+   "elevation_m": 620,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 17,
+     "snow_days": 4.5,
+     "temp_c": 3.3
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 36,
+     "snow_days": 8.5,
+     "temp_c": -0.6
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 43,
+     "snow_days": 10.4,
+     "temp_c": -2.3
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 29,
+     "snow_days": 7.2,
+     "temp_c": -0.4
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 17,
+     "snow_days": 4.8,
+     "temp_c": 3.2
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 16,
+     "snow_days": 3.7,
+     "temp_c": 7.2
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 150
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 160
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 192
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 127
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 189
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 188
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 199
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 160
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 86
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 119
+    }
+   ]
+  },
+  "zwardon-ski": {
+   "elevation_m": 821,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 20,
+     "snow_days": 4.7,
+     "temp_c": 2.3
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 45,
+     "snow_days": 10.3,
+     "temp_c": -1.6
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 50,
+     "snow_days": 11,
+     "temp_c": -3.3
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 33,
+     "snow_days": 8.2,
+     "temp_c": -1.4
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 18,
+     "snow_days": 5.1,
+     "temp_c": 2
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 15,
+     "snow_days": 3.9,
+     "temp_c": 6.1
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 198
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 168
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 244
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 162
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 175
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 233
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 202
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 188
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 103
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 128
+    }
+   ]
+  },
+  "master-ski-tylicz": {
+   "elevation_m": 626,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 14,
+     "snow_days": 3.7,
+     "temp_c": 2.5
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 29,
+     "snow_days": 8.6,
+     "temp_c": -1.4
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 34,
+     "snow_days": 8.7,
+     "temp_c": -3.3
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 20,
+     "snow_days": 5.8,
+     "temp_c": -1.2
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 13,
+     "snow_days": 3.5,
+     "temp_c": 2.4
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 11,
+     "snow_days": 2.8,
+     "temp_c": 6.8
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 107
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 136
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 143
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 97
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 148
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 121
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 154
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 111
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 81
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 106
+    }
+   ]
+  },
+  "gora-zar": {
+   "elevation_m": 607,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 11,
+     "snow_days": 2.8,
+     "temp_c": 3.1
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 23,
+     "snow_days": 6,
+     "temp_c": -0.8
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 28,
+     "snow_days": 8.1,
+     "temp_c": -2.5
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 16,
+     "snow_days": 4.2,
+     "temp_c": -0.6
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 8,
+     "snow_days": 2.9,
+     "temp_c": 2.8
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 8,
+     "snow_days": 2,
+     "temp_c": 7
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 97
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 99
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 95
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 44
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 132
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 105
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 140
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 97
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 51
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 83
+    }
+   ]
+  },
+  "harenda": {
+   "elevation_m": 867,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 15,
+     "snow_days": 4.2,
+     "temp_c": 2.3
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 33,
+     "snow_days": 8,
+     "temp_c": -1.1
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 39,
+     "snow_days": 8.9,
+     "temp_c": -2.7
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 29,
+     "snow_days": 6.8,
+     "temp_c": -1.1
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 19,
+     "snow_days": 5.3,
+     "temp_c": 1.9
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 14,
+     "snow_days": 2.9,
+     "temp_c": 5.8
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 118
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 146
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 167
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 131
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 164
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 224
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 201
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 129
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 77
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 130
+    }
+   ]
+  },
+  "polana-szymoszkowa": {
+   "elevation_m": 995,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 19,
+     "snow_days": 5.1,
+     "temp_c": 2.8
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 43,
+     "snow_days": 8.8,
+     "temp_c": -0.9
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 48,
+     "snow_days": 9.8,
+     "temp_c": -2.7
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 35,
+     "snow_days": 8,
+     "temp_c": -1.3
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 27,
+     "snow_days": 5.8,
+     "temp_c": 1.1
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 22,
+     "snow_days": 4.7,
+     "temp_c": 4.9
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 191
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 209
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 209
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 193
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 201
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 258
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 230
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 155
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 107
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 177
+    }
+   ]
+  },
+  "bania-bialka": {
+   "elevation_m": 734,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 18,
+     "snow_days": 4.8,
+     "temp_c": 2.9
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 39,
+     "snow_days": 9.2,
+     "temp_c": -0.5
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 41,
+     "snow_days": 9.6,
+     "temp_c": -2.1
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 31,
+     "snow_days": 7.9,
+     "temp_c": -0.5
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 21,
+     "snow_days": 5.6,
+     "temp_c": 2.5
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 19,
+     "snow_days": 4.4,
+     "temp_c": 6.4
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 179
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 161
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 196
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 154
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 179
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 258
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 202
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 143
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 83
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 147
+    }
+   ]
+  },
+  "rusin-ski": {
+   "elevation_m": 857,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 17,
+     "snow_days": 4.7,
+     "temp_c": 2.8
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 38,
+     "snow_days": 9.2,
+     "temp_c": -0.6
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 41,
+     "snow_days": 9.6,
+     "temp_c": -2.1
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 31,
+     "snow_days": 7.9,
+     "temp_c": -0.5
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 21,
+     "snow_days": 5.6,
+     "temp_c": 2.5
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 19,
+     "snow_days": 4.4,
+     "temp_c": 6.4
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 159
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 161
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 196
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 154
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 179
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 258
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 202
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 143
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 83
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 147
+    }
+   ]
+  },
+  "witow-ski": {
+   "elevation_m": 903,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 17,
+     "snow_days": 4.6,
+     "temp_c": 3.1
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 36,
+     "snow_days": 7.9,
+     "temp_c": -0.7
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 45,
+     "snow_days": 9.7,
+     "temp_c": -2.4
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 30,
+     "snow_days": 7.5,
+     "temp_c": -0.9
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 22,
+     "snow_days": 5,
+     "temp_c": 1.8
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 16,
+     "snow_days": 3.5,
+     "temp_c": 5.7
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 161
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 175
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 179
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 151
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 172
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 231
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 208
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 141
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 91
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 147
+    }
+   ]
+  },
+  "laskowa-kamionna": {
+   "elevation_m": 614,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 11,
+     "snow_days": 2.9,
+     "temp_c": 3
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 21,
+     "snow_days": 6.1,
+     "temp_c": -0.3
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 26,
+     "snow_days": 7.4,
+     "temp_c": -2.1
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 14,
+     "snow_days": 4.6,
+     "temp_c": -0.3
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 10,
+     "snow_days": 2.6,
+     "temp_c": 3.2
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 9,
+     "snow_days": 1.7,
+     "temp_c": 7.3
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 82
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 97
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 96
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 44
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 114
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 98
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 138
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 82
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 53
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 104
+    }
+   ]
+  },
+  "mosorny-gron": {
+   "elevation_m": 879,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 22,
+     "snow_days": 5.8,
+     "temp_c": 2.3
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 47,
+     "snow_days": 9.9,
+     "temp_c": -1.6
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 50,
+     "snow_days": 11.1,
+     "temp_c": -3.3
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 38,
+     "snow_days": 8.6,
+     "temp_c": -1.7
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 24,
+     "snow_days": 6.1,
+     "temp_c": 1.6
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 20,
+     "snow_days": 4.8,
+     "temp_c": 5.7
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 214
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 175
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 236
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 181
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 199
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 262
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 250
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 216
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 127
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 153
+    }
+   ]
+  },
+  "donovaly": {
+   "elevation_m": 1131,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 21,
+     "snow_days": 4.2,
+     "temp_c": 0.5
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 48,
+     "snow_days": 10.9,
+     "temp_c": -3.4
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 44,
+     "snow_days": 11,
+     "temp_c": -5.1
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 32,
+     "snow_days": 6.8,
+     "temp_c": -3.1
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 18,
+     "snow_days": 4.3,
+     "temp_c": 0.1
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 8,
+     "snow_days": 2.4,
+     "temp_c": 4.3
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 157
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 256
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 199
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 152
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 177
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 198
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 200
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 163
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 85
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 131
+    }
+   ]
+  },
+  "vratna": {
+   "elevation_m": 1071,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 19,
+     "snow_days": 5.1,
+     "temp_c": 0.3
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 44,
+     "snow_days": 9.9,
+     "temp_c": -3.5
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 47,
+     "snow_days": 11.4,
+     "temp_c": -5.2
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 30,
+     "snow_days": 7.1,
+     "temp_c": -3.1
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 14,
+     "snow_days": 3.6,
+     "temp_c": 0.3
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 9,
+     "snow_days": 2.5,
+     "temp_c": 4.4
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 173
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 163
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 219
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 136
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 147
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 205
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 185
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 206
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 95
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 114
+    }
+   ]
+  },
+  "spindleruv-mlyn": {
+   "elevation_m": 963,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 25,
+     "snow_days": 6,
+     "temp_c": 1.3
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 48,
+     "snow_days": 10.1,
+     "temp_c": -1.9
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 64,
+     "snow_days": 13.8,
+     "temp_c": -3.5
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 41,
+     "snow_days": 9.2,
+     "temp_c": -2
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 29,
+     "snow_days": 7.7,
+     "temp_c": 0.6
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 18,
+     "snow_days": 4.8,
+     "temp_c": 4.3
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 243
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 265
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 320
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 183
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 208
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 305
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 238
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 225
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 158
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 100
+    }
+   ]
+  },
+  "cerna-hora-pec": {
+   "elevation_m": 922,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 24,
+     "snow_days": 5.7,
+     "temp_c": 1
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 46,
+     "snow_days": 9.8,
+     "temp_c": -2.2
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 63,
+     "snow_days": 13.7,
+     "temp_c": -3.9
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 38,
+     "snow_days": 8.9,
+     "temp_c": -2.3
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 28,
+     "snow_days": 7.2,
+     "temp_c": 0.3
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 15,
+     "snow_days": 4.3,
+     "temp_c": 4.1
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 209
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 262
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 289
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 177
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 195
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 304
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 214
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 238
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 158
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 101
+    }
+   ]
+  },
+  "kitzsteinhorn-kaprun": {
+   "elevation_m": 1895,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 82,
+     "snow_days": 10.8,
+     "temp_c": -2.2
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 97,
+     "snow_days": 14.2,
+     "temp_c": -5
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 93,
+     "snow_days": 13.7,
+     "temp_c": -7
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 78,
+     "snow_days": 11.6,
+     "temp_c": -4.6
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 77,
+     "snow_days": 12.4,
+     "temp_c": -3.1
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 69,
+     "snow_days": 11.6,
+     "temp_c": -0.1
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 447
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 543
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 670
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 547
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 471
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 512
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 517
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 662
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 309
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 301
+    }
+   ]
+  },
+  "nassfeld": {
+   "elevation_m": 1304,
+   "months": [
+    {
+     "month": 11,
+     "snowfall_cm": 42,
+     "snow_days": 5.8,
+     "temp_c": 1
+    },
+    {
+     "month": 12,
+     "snowfall_cm": 57,
+     "snow_days": 6.8,
+     "temp_c": -2.6
+    },
+    {
+     "month": 1,
+     "snowfall_cm": 47,
+     "snow_days": 6.2,
+     "temp_c": -4.4
+    },
+    {
+     "month": 2,
+     "snowfall_cm": 57,
+     "snow_days": 6.2,
+     "temp_c": -1.9
+    },
+    {
+     "month": 3,
+     "snowfall_cm": 43,
+     "snow_days": 6.5,
+     "temp_c": 0.9
+    },
+    {
+     "month": 4,
+     "snowfall_cm": 22,
+     "snow_days": 3,
+     "temp_c": 5
+    }
+   ],
+   "seasons": [
+    {
+     "season": "2016/17",
+     "snowfall_cm": 139
+    },
+    {
+     "season": "2017/18",
+     "snowfall_cm": 404
+    },
+    {
+     "season": "2018/19",
+     "snowfall_cm": 218
+    },
+    {
+     "season": "2019/20",
+     "snowfall_cm": 308
+    },
+    {
+     "season": "2020/21",
+     "snowfall_cm": 438
+    },
+    {
+     "season": "2021/22",
+     "snowfall_cm": 242
+    },
+    {
+     "season": "2022/23",
+     "snowfall_cm": 243
+    },
+    {
+     "season": "2023/24",
+     "snowfall_cm": 309
+    },
+    {
+     "season": "2024/25",
+     "snowfall_cm": 170
+    },
+    {
+     "season": "2025/26",
+     "snowfall_cm": 213
+    }
+   ]
+  }
+ }
+}

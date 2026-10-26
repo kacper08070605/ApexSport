@@ -1,0 +1,17 @@
+[
+  {"id":"bikesystem","name":"Bikesystem.pl","url":"https://www.bikesystem.pl"},
+  {"id":"energysports","name":"Energysports.pl","url":"https://www.energysports.pl"},
+  {"id":"kmsport","name":"KM Sport","url":"https://kmsport.pl"},
+  {"id":"mcksport","name":"MCK Sport","url":"https://mcksport.pl"},
+  {"id":"nartywarszawa","name":"Narty Warszawa","url":"https://www.nartywarszawa.pl"},
+  {"id":"nartykrakow","name":"NartyKraków.pl","url":"https://nartykrakow.pl"},
+  {"id":"nartyok","name":"NartyOK.pl","url":"https://nartyok.pl"},
+  {"id":"skatepro","name":"SkatePro.com.pl","url":"https://www.skatepro.com.pl"},
+  {"id":"skiracecenter","name":"Ski Race Center","url":"https://skiracecenter.pl"},
+  {"id":"skisport","name":"Ski-Sport Bielsko-Biała","url":"https://www.skisport.com.pl"},
+  {"id":"skiland","name":"Skiland","url":"https://skiland.pl"},
+  {"id":"snowcountry","name":"Snowcountry","url":"https://www.snowcountry.pl"},
+  {"id":"snowsport","name":"SnowSport.pl","url":"https://snowsport.pl"},
+  {"id":"sportano","name":"Sportano.pl","url":"https://sportano.pl"},
+  {"id":"wrosport","name":"Wrosport.pl","url":"https://wrosport.pl"}
+]

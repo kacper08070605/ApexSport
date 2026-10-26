@@ -1,0 +1,1470 @@
+[
+ {
+  "slug": "szczyrk-mountain-resort",
+  "summary": "Największy ośrodek w Beskidach, z gondolą na Halę Skrzyczeńską i ponad 20 km tras po północnych stokach Małego Skrzycznego. Dobry wybór na weekend dla średnio zaawansowanych i rodzin, a we wspólnym skipassie z COS Skrzyczne i Beskid Sport Arena tras jest blisko 40 km.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Ośrodek podaje ponad 20 km tras zjazdowych, rozpiętych między szczytem Małego Skrzycznego (1211 m n.p.m.) a dolnymi stacjami Szczyrk Gondola i Solisko. Większość to trasy niebieskie i czerwone. Najbardziej znane są czerwona Golgota (nr 11) i czarna Bieńkula. Według Wikipedii najdłuższy zjazd ma około 4,9 km. Naśnieżanie zasila zbiornik o pojemności 100 tys. m³ na Hali Skrzyczeńskiej."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Główna oś to 10-osobowa gondola A1 z Szczyrk Gondola na Halę Skrzyczeńską. Wyżej i na Solisku pracują trzy 6-osobowe kanapy. Starych orczyków już nie ma, zlikwidowano je po przejęciu ośrodka przez Tatry Mountain Resorts w 2014 roku."
+   },
+   {
+    "title": "Jazda wieczorna",
+    "text": "Oświetlone są trasy nr 1 i nr 3, razem około 4 km. Wieczorem jeździ się od 18:00 do 21:00, do góry wozi gondola A1, a parking jest wtedy bezpłatny. Na wieczór potrzebny jest osobny karnet, ten sam obowiązuje też na wieczornej jeździe w Beskid Sport Arena. Pod koniec sezonu 2025/26 jazdę wieczorną zawieszano z powodu pogody, więc przed wyjazdem warto sprawdzić komunikat."
+   },
+   {
+    "title": "Dla początkujących i dzieci",
+    "text": "Szczyrk Ski School ma biuro przy Szczyrk Gondola i osobną strefę dla początkujących MAXILAND. Dla dzieci działa Akademia Misia Maxa. Początkującym ośrodek poleca kolej na Zbójnicką Kopę, skąd zaczyna się łagodniejsza trasa. Wypożyczalnia, serwis i przechowalnia są w budynku przy dolnej stacji gondoli."
+   },
+   {
+    "title": "Dojazd i parking",
+    "text": "Przy Szczyrk Gondola (ul. Salmopolska 53B) są dwa bezpłatne parkingi na 230 i 290 aut, przy Czyrnej (ul. Narciarska 10) kolejne 150 miejsc. Dodatkowe 130 miejsc ma Centrum Przesiadkowe Skalite. Autobusy i kampery nie mogą stawać na P1 do P3. Bez auta najprościej pociągiem do Bielska-Białej, a dalej autobusem Komunikacji Beskidzkiej, który zatrzymuje się pod gondolą i pod Soliskiem."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 219,
+   "skipass_currency": "PLN",
+   "address": "ul. Salmopolska 53B, 43-370 Szczyrk (Szczyrk Gondola)",
+   "night_skiing": true,
+   "night_skiing_hours": "18:00-21:00, trasy nr 1 i 3 (osobny karnet)",
+   "opening_hours": "8:30-16:00 (jazda dzienna)",
+   "snowmaking": "tak, zbiornik 100 000 m³ na Hali Skrzyczeńskiej; wg Wikipedii ok. 80% tras",
+   "snowpark": false,
+   "ski_school": true,
+   "rental": true,
+   "parking": "bezpłatny, P1 230 + P2 290 (Salmopolska), P3 150 (Narciarska), Skalite 130",
+   "longest_run": "ok. 4,9 km (wg Wikipedii)",
+   "season": "sezon 2025/26: 5.12.2025-15.03.2026",
+   "website": "https://www.szczyrkowski.pl",
+   "skipass_season": "2025/26",
+   "skipass_source_url": "https://www.skiinfo.fr/silesie/szczyrk-czyrna-solisko/forfaits-de-ski",
+   "skipass_note": "Cena kasowa przekazana przez ośrodek do Skiinfo (aktualizacja 25.11.2025); na oficjalnej stronie cennik ładuje się dynamicznie z GOPASS. Online ceny rosną w miarę zbliżania się terminu. Karnet 1-6 dni ważny w SMR, COS Skrzyczne i Beskid Sport Arena."
+  },
+  "sources": [
+   "https://www.szczyrkowski.pl/resort/o-osrodku",
+   "https://www.szczyrkowski.pl/resort/dojazd-i-parkingi",
+   "https://szczyrkowski.pl/en/attractions/night-skiing",
+   "https://www.szczyrkowski.pl/en/resort/szczyrk-news/szczyrk-mountain-resort-komunikat-narciarski",
+   "https://www.szczyrkowski.pl/en/price-list/winter/ski-pass-price-list",
+   "https://pl.wikipedia.org/wiki/Szczyrk_Mountain_Resort",
+   "https://www.skiinfo.fr/silesie/szczyrk-czyrna-solisko/forfaits-de-ski"
+  ]
+ },
+ {
+  "slug": "kotelnica-bialczanska",
+  "summary": "Najbardziej rozbudowany ośrodek w Białce Tatrzańskiej: siedem kanap, około 14 km tras, w całości naśnieżanych i oświetlonych. Pewny wybór na rodzinny wyjazd i dla osób, które chcą jeździć do wieczora, mniej dla szukających stromizny.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Tras jest kilkanaście, łącznie około 14,3 km, na zboczach Kotelnicy, Jankulakowskiego Wierchu i Wysokiego Wierchu (700 do 934 m n.p.m.). Przeważają szerokie trasy niebieskie. Czerwone to m.in. nr 1 i 2 z homologacją FIS oraz 6a, najbardziej stroma w ośrodku (około 24%). Najdłuższa jest niebieska siódemka, 1900 m. Różnice wysokości nie przekraczają około 210 m, więc zjazdy są krótkie, za to można ich zrobić dużo."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Siedem kolei krzesełkowych, w tym cztery 6-osobowe: Kotelnica Express, Pasieka Express, Jankulakowski i Remiaszów. Do tego dwa talerzyki i orczyk, jeden z nich przy snowparku. Przepustowość samej Kotelnicy przekracza 19 tys. osób na godzinę."
+   },
+   {
+    "title": "Skipass Tatry Super Ski",
+    "text": "Kotelnica sprzedaje karnety Tatry Super Ski, ważne też na Bani, Kaniówce, Horników Wierchu i w kilkunastu innych ośrodkach na Podhalu i Spiszu, także słowackich. Cena zależy od okresu: w sezonie 2026/27 dzienny karnet normalny kosztuje 165 zł przed świętami, 200 zł w okresie świątecznym i 185 zł w sezonie wysokim (7.01-7.03.2027). Jest też tańszy karnet po 16:00."
+   },
+   {
+    "title": "Dla kogo",
+    "text": "Dobra baza dla początkujących i rodzin: szkoła STOK (licencja SITN, około 120 instruktorów), wypożyczalnia z serwisem, snowpark z łatwą i średnią linią. Wszystkie trasy są oświetlone, więc w krótkie zimowe dni można jeździć po zmroku. Zaawansowani szybko wyjeżdżą tu wszystkie warianty."
+   },
+   {
+    "title": "Parking i po nartach",
+    "text": "Główny parking dla aut i autokarów stoi u podnóża Kotelnicy przy ul. Środkowej 181b, drugi przy górnej stacji kolei VIII Jankulakowski, z dojazdem od Bukowiny. Parkingi są bezpłatne, Wikipedia podaje około 2000 miejsc. Obok stoków działa Terma Białka z basenami termalnymi."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 185,
+   "skipass_currency": "PLN",
+   "address": "ul. Środkowa 181b, 34-405 Białka Tatrzańska",
+   "night_skiing": true,
+   "snowmaking": "100% tras naśnieżanych",
+   "snowpark": true,
+   "ski_school": true,
+   "rental": true,
+   "parking": "bezpłatny, ok. 2000 miejsc (główny przy ul. Środkowej 181b, drugi przy górnej stacji kolei VIII)",
+   "longest_run": "trasa nr 7, 1900 m",
+   "season": "sezon 2025/26: 29.11.2025-13.04.2026",
+   "website": "https://bialkatatrzanska.pl",
+   "skipass_season": "2026/27",
+   "skipass_source_url": "https://bialkatatrzanska.pl/zima/cennik/",
+   "skipass_note": "Karnet Tatry Super Ski, sezon wysoki 7.01-7.03.2027. Okres świąteczny 25.12-6.01: 200 zł, przed 24.12: 165 zł, od 8.03: 180 zł."
+  },
+  "sources": [
+   "https://bialkatatrzanska.pl/zima/",
+   "https://bialkatatrzanska.pl/zima/cennik/",
+   "https://tatrysuperski.pl/api/pricelist.json",
+   "https://bialkatatrzanska.pl/en/directions/access-by-car/",
+   "https://pl.wikipedia.org/wiki/Ośrodek_Narciarski_Kotelnica_Białczańska_w_Białce_Tatrzańskiej"
+  ]
+ },
+ {
+  "slug": "czarna-gora",
+  "summary": "Ośrodek w Siennej na stokach Czarnej Góry (1205 m n.p.m.), z różnicą wysokości około 380 m na głównych trasach. Dla średnio zaawansowanych i zaawansowanych, choć krótsze wyciągi talerzykowe nadają się też do nauki.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Trasy oznaczone są literami od A do N, łącznie około 10,6 km plus dojazdówki i łączniki. Najdłuższe to B (FIS), 1680 m, i A, 1600 m, obie z różnicą wysokości 380 m. Trasa A jest czarna i należy do kilkunastu najtrudniejszych tras w Polsce."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Na szczyt wozi 6-osobowa kolej Luxtorpeda (1370 m). Na Żmijowiec jedzie 4-osobowa Żmija, a przy parkingu stoi krótka kanapa Efka. Uzupełnieniem jest sześć talerzyków: Proca, Baba, Jaga, Bartuś, Biba i Jędruś. Część talerzyków obsługuje stoki szkoleniowe."
+   },
+   {
+    "title": "Karnety",
+    "text": "W sezonie 2026/27 ośrodek nie sprzedaje klasycznego karnetu jednodniowego. Najdłuższy karnet na jeden dzień to 7 godzin za 160 zł, 4 godziny kosztują 140 zł. Jest też karnet punktowy (wjazd Luxtorpedą kosztuje 12 punktów, po 7 zł za punkt) i rodzinne pakiety 7-godzinne. W przedsprzedaży jesienią rabaty sięgają 20%."
+   },
+   {
+    "title": "Jazda wieczorna",
+    "text": "Część polan jest oświetlona, a trasa B (FIS) ma profesjonalne oświetlenie od sezonu 2016. Godziny jazdy nocnej ośrodek podaje na bieżąco w komunikacie narciarskim."
+   },
+   {
+    "title": "Dojazd i parking",
+    "text": "Główny parking przy dolnej stacji Efki ma około 1400 miejsc i kosztuje 20 zł za dobę. Z Wrocławia to około 120 km, przez Kłodzko i drogę 33. Na miejscu są trzy wypożyczalnie (największa z serwisem przy Efce), szkoła Snowup, a po nartach lodowisko i tor saneczkowy Czarna Żmija (alpine coaster)."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 160,
+   "skipass_currency": "PLN",
+   "address": "Sienna 11, 57-550 Stronie Śląskie",
+   "night_skiing": true,
+   "snowmaking": "tak, wszystkie polany naśnieżane",
+   "ski_school": true,
+   "rental": true,
+   "parking": "płatny, 20 zł/doba, ok. 1400 miejsc przy dolnej stacji Efki",
+   "longest_run": "trasa B (FIS), 1680 m",
+   "website": "https://czarnagora.pl",
+   "skipass_season": "2026/27",
+   "skipass_source_url": "https://czarnagora.pl/sprawdz-cene/",
+   "skipass_note": "Brak karnetu 1-dniowego w cenniku; podana cena dotyczy karnetu 7-godzinnego (ceny regularne). Przedsprzedaż do -20%."
+  },
+  "sources": [
+   "https://czarnagora.pl",
+   "https://czarnagora.pl/sprawdz-cene/",
+   "https://czarnagora.pl/dojazd-i-parkowanie/",
+   "https://czarnagora.pl/wypozyczalnie-cgr",
+   "https://czarnagora.pl/komunikat-narciarski/",
+   "https://pl.wikipedia.org/wiki/Czarna_Góra_(ośrodek_narciarski)"
+  ]
+ },
+ {
+  "slug": "kasprowy-wierch",
+  "summary": "Jedyne w Polsce trasy wysokogórskie, na naturalnym śniegu, z górną stacją na 1987 m n.p.m. Dla pewnie jeżdżących narciarzy, którzy akceptują zmienne warunki, ograniczoną przepustowość kolei i brak naśnieżania.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Są dwie trasy w kotłach: Gąsienicowym (1200 m) i Goryczkowym (2100 m), do tego nartostrada z Hali Goryczkowej do Kuźnic, około 3,5 km. Żadna nie jest naśnieżana ani oświetlona. Kocioł Goryczkowy otwiera się zwykle później, bo potrzebuje grubej pokrywy, żeby przykryć kamienie i kosodrzewinę. Przy słabym śniegu trasy bywają muldziaste i oblodzone."
+   },
+   {
+    "title": "Koleje",
+    "text": "Kolej linowa z Kuźnic ma 4261 m, jedzie około 20 minut z przesiadką na Myślenickich Turniach, wagon mieści 60 osób. W kotłach pracują dwie kanapy: Gąsienicowa (4-osobowa, 1155 m) i Goryczkowa (2-osobowa, 1736 m). To przepustowość dużo mniejsza niż w ośrodkach na dole, dlatego wjazd koleją linową wymaga rezerwacji godziny."
+   },
+   {
+    "title": "Skipassy",
+    "text": "PKL sprzedaje skipassy dzienne i 4-godzinne, taniej online i z wyprzedzeniem co najmniej 7 dni. W sezonie 2024/25 dzienny normalny online kosztował 185 zł, kupiony tydzień wcześniej 159 zł. Posiadacze karnetu sezonowego PKL muszą dodatkowo rezerwować tzw. miejscówkę (45 zł). Aktualny cennik zimowy pojawia się na pkl.pl przed otwarciem tras."
+   },
+   {
+    "title": "Dla kogo",
+    "text": "Dla narciarzy, którzy swobodnie jeżdżą po czerwonych trasach i nie boją się nieprzygotowanego terenu na brzegach. Początkujący i rodziny z małymi dziećmi lepiej się poczują w Białce czy na Polanie Szymoszkowej."
+   },
+   {
+    "title": "Dojazd",
+    "text": "Do Kuźnic nie wjedzie się samochodem. Auto trzeba zostawić w Zakopanem, np. przy ul. Karłowicza lub Bronisława Czecha, i podjechać komunikacją miejską albo dojść pieszo z ronda Jana Pawła II (około 40 minut). Do kolei trzeba być 15 minut przed godziną odjazdu z biletu."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 185,
+   "skipass_currency": "PLN",
+   "address": "dolna stacja kolei w Kuźnicach, Zakopane",
+   "night_skiing": false,
+   "snowmaking": "brak, trasy na naturalnym śniegu",
+   "snowpark": false,
+   "parking": "brak wjazdu do Kuźnic; parkingi w Zakopanem",
+   "longest_run": "nartostrada z Hali Goryczkowej, ok. 3500 m; trasa w Kotle Goryczkowym 2100 m",
+   "season": "zależny od naturalnej pokrywy śnieżnej",
+   "website": "https://www.pkl.pl/kasprowy-wierch.html",
+   "skipass_season": "2024/25",
+   "skipass_source_url": "https://www.radiokrakow.pl/aktualnosci/nowy-sacz/podhale/dobre-wiadomosci-dla-narciarzy-ktorzy-wybieraja-sie-na-podhale",
+   "skipass_note": "Skipass całodzienny normalny online (PAP/Radio Kraków, styczeń 2025). Z 7-dniowym wyprzedzeniem 159 zł. Nowszego cennika narciarskiego PKL nie znaleziono."
+  },
+  "sources": [
+   "https://www.pkl.pl/kasprowy-wierch/koleje-i-trasy.html",
+   "https://www.pkl.pl/kasprowy-wierch/trasy-narciarskie.html",
+   "https://www.pkl.pl/kasprowy-wierch/cennik-kasprowy.html",
+   "https://www.pkl.pl/kasprowy-wierch/faq-kasprowy-wierch.html",
+   "https://www.radiokrakow.pl/aktualnosci/nowy-sacz/podhale/dobre-wiadomosci-dla-narciarzy-ktorzy-wybieraja-sie-na-podhale",
+   "https://www.rmf24.pl/regiony/zakopane/news-rusza-sprzedaz-sezonowych-skipassow-promocyjne-ceny-do-konca,nId,8024162"
+  ]
+ },
+ {
+  "slug": "pilsko",
+  "summary": "Najwyżej położony ośrodek poza Tatrami, z trasami schodzącymi spod szczytu Pilska (1557 m n.p.m.) do Korbielowa. Dla narciarzy, którzy cenią długie zjazdy i naturalny teren bardziej niż nowoczesną infrastrukturę.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Najdłuższy zjazd to trasa nr 5 z Pilska przez Halę Szczawiny, ponad 3,3 km i około 700 m różnicy wysokości. Trasa nr 1 z Buczynki do Kamiennej ma 2,5 km. Górne trasy na Hali Miziowej i pod szczytem nie są naśnieżane, więc ich otwarcie zależy od zimy."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Z Kamiennej jadą dwie 4-osobowe kanapy: Jontek do Buczynki (około 1,5 km) i krótka Kamienna do Soliska (700 m). Z Polany Strugi na Halę Szczawiny wozi kolej 2-osobowa, a wyżej pracują orczyki: podwójny na Halę Miziową i jeden pod sam szczyt Pilska. Na szczyt dojeżdża się z przesiadkami."
+   },
+   {
+    "title": "Dla początkujących i wieczorem",
+    "text": "Naśnieżane są trasy 1, 1a i 2, oświetlone 1a i 2 przy Solisku. Tam też działa szkoła Pilsko Ski Academy z przedszkolem narciarskim i małym wyciągiem. Wypożyczalnia Pilsko Ski&Bike współpracuje z Salomonem, ma centrum testowe Salomon i Atomic oraz sprzęt skiturowy i splitboardy."
+   },
+   {
+    "title": "Skipass",
+    "text": "Na sezon 2026/27 karnet całodzienny w sklepie e-skipass kosztuje 200 zł, w przedsprzedaży z rabatem 5% 190 zł. Karnety wielodniowe liczone są na kolejne dni."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 200,
+   "skipass_currency": "PLN",
+   "address": "ul. Narciarska 1, Korbielów (kasy przy kolei Kamienna-Solisko)",
+   "night_skiing": true,
+   "night_skiing_hours": "trasy 1a i 2 oświetlone; godzin nie podano",
+   "snowmaking": "trasy 1, 1a, 2",
+   "ski_school": true,
+   "rental": true,
+   "longest_run": "trasa nr 5 Pilsko-Hala Szczawiny-Kamienna, ok. 3,4 km",
+   "website": "https://pilsko.org",
+   "skipass_season": "2026/27",
+   "skipass_source_url": "https://pilsko-jontek.e-skipass.pl/",
+   "skipass_note": "Cena bazowa w sklepie online; w przedsprzedaży 190 zł (-5%)."
+  },
+  "sources": [
+   "https://pilsko.org/stacja-narciarska/",
+   "https://pilsko-jontek.e-skipass.pl/",
+   "https://pl.wikipedia.org/wiki/Ośrodek_Narciarski_Pilsko_w_Korbielowie"
+  ]
+ },
+ {
+  "slug": "dwie-doliny-wierchomla",
+  "summary": "Ośrodek w Wierchomli Małej, przy hotelu Wierchomla, z jedną długą kanapą i kilkoma orczykami. Dla rodzin i osób, którym wystarczy kilka tras w zamian za mniejszy ośrodek.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Główna trasa Wierchomla 1 ma około 1800 m, jej dolna część jest czerwona. Obok są szeroka, łagodna Polanki (1000 m), czerwony Toczek (550 m) i ośla łączka Stonoga (110 m). Wszystkie trasy są oświetlone. Jest też tor Playcross i snowpark."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Oś ośrodka to 4-osobowa kanapa Wierchomla 1 (1600 m, wjazd około 12 minut). Uzupełniają ją orczyki Polanki (940 m) i Toczek (470 m) oraz krótki wyciąg Stonoga dla początkujących."
+   },
+   {
+    "title": "Co z drugą doliną",
+    "text": "Nazwa pochodzi z czasów, gdy ośrodek obejmował też stoki w Szczawniku koło Muszyny, połączone z Wierchomlą. Stacja w Szczawniku jest zamknięta, a gmina Muszyna szuka inwestora pod nową. Starsze opisy z 11 wyciągami i ponad 10 km tras są więc nieaktualne."
+   },
+   {
+    "title": "Dojazd i zaplecze",
+    "text": "Dolna stacja stoi przy hotelu Wierchomla (Wierchomla Mała 42), parking pod stokiem jest bezpłatny. Na miejscu działa szkółka narciarska i wypożyczalnia sprzętu. Karnety kupuje się online lub w kasie, szczegóły cennika podaje hotel pod numerem (18) 414 31 30."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 137,
+   "skipass_currency": "PLN",
+   "address": "Wierchomla Mała 42, 33-350 Piwniczna-Zdrój",
+   "night_skiing": true,
+   "snowmaking": "trasy Wierchomla 1 i Stonoga",
+   "snowpark": true,
+   "ski_school": true,
+   "rental": true,
+   "parking": "bezpłatny, przy dolnej stacji",
+   "longest_run": "Wierchomla 1, ok. 1800 m",
+   "website": "https://www.wierchomla.com.pl",
+   "skipass_season": "2025/26",
+   "skipass_source_url": "https://www.onthesnow.co.uk/lesser-poland/dwie-doliny-muszyna-wierchomla/skipass",
+   "skipass_note": "Wg OnTheSnow/Skiinfo (aktualizacja 26.11.2025); oficjalny cennik zimowy na stronie ośrodka jest pusty. Do potwierdzenia."
+  },
+  "sources": [
+   "https://www.wierchomla.com.pl/stacja-narciarska-zima/wyciagi-i-trasy",
+   "https://www.wierchomla.com.pl/stacja-narciarska-zima/cennik-karnetow",
+   "https://pl.wikipedia.org/wiki/Stacja_Narciarska_Dwie_Doliny_Muszyna-Wierchomla",
+   "https://www.radiokrakow.pl/aktualnosci/nowy-sacz/kiedy-narciarze-wroca-do-szczawnika-budowa-moze-ruszyc-w-przyszlym-roku",
+   "https://www.onthesnow.co.uk/lesser-poland/dwie-doliny-muszyna-wierchomla/skipass"
+  ]
+ },
+ {
+  "slug": "szrenica",
+  "summary": "Największy ośrodek w polskich Karkonoszach, z trasami od Hali Szrenickiej (ok. 1300 m n.p.m.) do Szklarskiej Poręby i 600 m różnicy wysokości. Dobre miejsce dla zaawansowanych, początkujący mają tu do dyspozycji głównie Puchatka i Halę Szrenicką.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Ośrodek podaje 12 km tras, w 100% naśnieżanych. Najdłuższa jest Lolobrygida, 4,4 km z górnych partii do dolnej stacji. FIS (2 km) to trasa bardzo trudna, z odcinkami o nachyleniu do 50%. Śnieżynka jest trudna, a łatwe są Puchatek przy dolnej stacji i szeroka Hala Szrenicka na górze."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Najważniejszy jest 6-osobowy Karkonosz Express (prawie 2,4 km, około 500 m przewyższenia). Równolegle działają starsze 2-osobowe krzesła Szrenica I i II. Na górze pracują orczyki Ściana, Świąteczny Kamień i dwa na Hali Szrenickiej, przy dolnej stacji jest Baby Lift dla dzieci."
+   },
+   {
+    "title": "Jazda wieczorna",
+    "text": "Wieczorem oświetlony jest tylko Puchatek, łatwa trasa na dole, od 18:00 do 21:00. W sezonie 2025/26 karnet wieczorny kosztował 115 zł. Dla zaawansowanych to raczej dodatek niż powód do przyjazdu."
+   },
+   {
+    "title": "Dojazd i parking",
+    "text": "Dolna stacja jest przy ul. Turystycznej 25a w Szklarskiej Porębie. Parkingi miejskie i prywatne przy stacji są płatne, kilkadziesiąt płatnych miejsc jest też przy ul. Uroczej koło Muzeum Mineralogicznego. Karnety dzienne obowiązują od 8:30 do 16:00, a ostatni zjazd jest o 15:30."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 185,
+   "skipass_currency": "PLN",
+   "address": "ul. Turystyczna 25a, 58-580 Szklarska Poręba",
+   "night_skiing": true,
+   "night_skiing_hours": "18:00-21:00, tylko trasa Puchatek",
+   "opening_hours": "8:30-16:00, ostatni zjazd 15:30",
+   "snowmaking": "100% tras naśnieżanych",
+   "parking": "płatny, parkingi miejskie i prywatne przy dolnej stacji oraz przy ul. Uroczej",
+   "longest_run": "Lolobrygida, 4400 m",
+   "season": "sezon 2025/26: 6.12.2025-6.04.2026",
+   "website": "https://szrenicaskiarena.pl",
+   "skipass_season": "2025/26",
+   "skipass_source_url": "https://szrenicaskiarena.pl/zima/cennik/",
+   "skipass_note": "Karnet 1-dniowy ważny 8:30-16:00. Cennika 2026/27 jeszcze nie opublikowano."
+  },
+  "sources": [
+   "https://szrenicaskiarena.pl/zima/cennik/",
+   "https://szrenicaskiarena.pl/koleje-i-wyciagi/",
+   "https://szrenicaskiarena.pl/lato/parking-i-dojazd/",
+   "https://pl.wikipedia.org/wiki/Szrenica_Ski_Arena"
+  ]
+ },
+ {
+  "slug": "jaworzyna-krynicka",
+  "summary": "Ośrodek PKL na Jaworzynie Krynickiej (1114 m n.p.m.) z gondolą i około 15 km tras, w tym 2,6-kilometrowym zjazdem oświetlonym wieczorem. Rozsądny wybór dla średnio zaawansowanych, a dla początkujących jest osobna strefa przy szczycie.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Ośrodek podaje 14 tras o łącznej długości około 15 km, cztery z homologacją FIS. Najdłuższa jest trasa nr 1 od szczytu do Czarnego Potoku, 2,6 km i ponad 460 m różnicy wysokości. Trasa nr 5 jest najtrudniejsza. Na górze leży niebieska siódemka (450 m) i łatwy Żółwik, dobre miejsca do nauki."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Z Czarnego Potoku na szczyt jedzie 6-osobowa gondola (około 2,2 km). Obok pracują kanapy: 6-osobowa Jaworzyna Express, nowa 6-osobowa Doppelmayra na trasie nr 2 (podgrzewane siedzenia, osłony) i 4-osobowa przy trasie szkoleniowej nr 7."
+   },
+   {
+    "title": "Jazda wieczorna",
+    "text": "Od 18:00 do 21:00 czynne są dolna część trasy nr 1 i trasa nr 6, po ratrakowaniu między 16:00 a 18:00. Wieczorem pracuje tylko kanapa Jaworzyna Express. Skipassy 1 do 6 dni obejmują jazdę wieczorną, jest też osobny karnet wieczorny."
+   },
+   {
+    "title": "Dla początkujących",
+    "text": "Skipass Żółwik obejmuje jeden wjazd i zjazd gondolą oraz bez limitu wyciąg szkoleniowy na górze. Działa szkoła Jaworzyna Ski&Snowboard, wypożyczalnia, serwis Wintersteiger i centrum testowe nart. Dzieci urodzone po 1.01.2022 jeżdżą za 1 zł z opiekunem, który ma taki sam skipass."
+   },
+   {
+    "title": "Dojazd",
+    "text": "Dolna stacja gondoli jest w Czarnym Potoku (ul. Czarny Potok 75), w dolinie poza centrum Krynicy. Pod stokiem są duże parkingi, dojeżdża też bezpłatna komunikacja miejska Krynicy."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 145,
+   "skipass_currency": "PLN",
+   "address": "ul. Czarny Potok 75, 33-380 Krynica-Zdrój",
+   "night_skiing": true,
+   "night_skiing_hours": "18:00-21:00, trasa 1 (dolna część) i 6, ok. 25.12-9.03",
+   "opening_hours": "skipass dzienny 9:00-16:00",
+   "snowmaking": "tak, wszystkie trasy (wg Wikipedii)",
+   "ski_school": true,
+   "rental": true,
+   "longest_run": "trasa nr 1, 2,6 km",
+   "website": "https://jaworzynakrynicka.pl",
+   "skipass_season": "2025/26",
+   "skipass_source_url": "https://jaworzynakrynicka.pl/cennik-skipassow-2/",
+   "skipass_note": "Cena w kasie. Pełny cennik z cenami online poniżej."
+  },
+  "sources": [
+   "https://jaworzynakrynicka.pl/cennik-skipassow-2/",
+   "https://jaworzynakrynicka.pl/oferta-zimowa/",
+   "https://www.jaworzynakrynicka.pl",
+   "https://pl.wikipedia.org/wiki/Stacja_Narciarska_Jaworzyna_Krynicka"
+  ]
+ },
+ {
+  "slug": "slotwiny-arena",
+  "summary": "Kompaktowy ośrodek w Krynicy-Zdroju z dwiema 6-osobowymi kanapami, oświetlonymi trasami i snowparkiem, który ośrodek nazywa największym w tej części Polski. Dla rodzin, freestyle'owców i tych, którzy lubią jeździć do 21:00.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Najdłuższa jest niebieska dwójka, 2000 m. Do tego czerwone trasy nr 1 i 3 (po 880 m, różnica wysokości 164-184 m) i kilka krótszych niebieskich. Wszystko jest raczej łagodne, więc ośrodek sprawdza się przy nauce i dla dzieci. Oświetlone są wszystkie trasy poza parkiem L."
+   },
+   {
+    "title": "Snowpark",
+    "text": "DrWitt Snowpark ma trzy linie: S dla początkujących (150 m), M (450 m, kilkanaście przeszkód) i L z trzema skoczniami 10-14 m. Jest też tor Playcross z bandami i rollerami. Park L naśnieża system TechnoAlpin, więc zwykle rusza wcześnie w sezonie."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Dwie 6-osobowe kanapy wyprzęgane Doppelmayra, w tym Słotwinka, oraz dwa przenośniki taśmowe dla początkujących. Jeden z nich, dwuosobowy i zadaszony, doszedł w sezonie 2025/26."
+   },
+   {
+    "title": "Karnety i godziny",
+    "text": "Na sezon 2026/27 karnet dzienny normalny kosztuje 205 zł i obejmuje jazdę dzienną i wieczorną od 8:00 do 21:00. Karnety kupuje się w kasie lub online w systemie e-skipass Grupy Pingwina."
+   },
+   {
+    "title": "Parking i po nartach",
+    "text": "Parking nad dolną stacją kanapy mieści ponad 300 aut i jest bezpłatny, także dla autokarów. Kampery płacą 90 zł za dobę za dwie osoby. Obok stoi drewniana wieża widokowa (49,5 m) z ponad kilometrową ścieżką przyrodniczą i tężnia solankowa. Na miejscu działa szkoła narciarska i wypożyczalnia."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 205,
+   "skipass_currency": "PLN",
+   "address": "Słotwiny, Krynica-Zdrój (parking GPS 49°25'58.6\"N 20°56'08.8\"E)",
+   "night_skiing": true,
+   "night_skiing_hours": "do 21:00, wszystkie trasy poza snowparkiem L",
+   "opening_hours": "8:00-21:00 (ważność karnetu dziennego)",
+   "snowpark": true,
+   "ski_school": true,
+   "rental": true,
+   "parking": "bezpłatny, ponad 300 miejsc; kampery 90 zł/doba",
+   "longest_run": "trasa nr 2, 2000 m",
+   "website": "https://slotwinyarena.pl",
+   "skipass_season": "2026/27",
+   "skipass_source_url": "https://slotwinyarena.pl/cennik-karnetow-narciarskich/",
+   "skipass_note": "Karnet 1-dniowy 8:00-21:00 (dzień + wieczór)."
+  },
+  "sources": [
+   "https://slotwinyarena.pl/mapa-tras-narciarskich/",
+   "https://slotwinyarena.pl/cennik-karnetow-narciarskich/",
+   "https://slotwinyarena.pl/snowpark/",
+   "https://slotwinyarena.pl/parking/",
+   "https://slotwinyarena.pl"
+  ]
+ },
+ {
+  "slug": "karpacz-ski-arena",
+  "summary": "Ośrodek na stoku Kopy w Karpaczu, z kanapą Zbyszek wywożącą na ponad 1300 m n.p.m. i około 7 km tras. Dla średnio zaawansowanych i zaawansowanych, którzy chcą krótkiego, stromego zjazdu, bez jazdy wieczornej.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Łącznie około 7 km. Najdłuższa jest czarna trasa z Kopy wzdłuż kolei Zbyszek (około 2,2 km i ponad 500 m różnicy wysokości). Czarna jest też krótsza Liczyrzepa, a czerwony Grosik. Łatwiejsze niebieskie trasy biegną przy wyciągach Liczykrupa, Euro, Jan i Złotówka."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Kanapa 4-osobowa Zbyszek (2278 m) jedzie z dolnej stacji na Kopę. W dolnej i środkowej części pracują 2-osobowa Liczykrupa, pomy Euro i Jan oraz orczyki Grosik i Złotówka. Dla dzieci i początkujących są taśmy Kubuś, Leniuch i Leniuch II."
+   },
+   {
+    "title": "Dla kogo",
+    "text": "Zaawansowani spędzą większość dnia na górnych trasach z Kopy. Początkujący mają do dyspozycji taśmy i krótkie wyciągi w dolnej części. Trasy nie są oświetlone, więc dzień kończy się z zamknięciem wyciągów."
+   },
+   {
+    "title": "Dojazd i parking",
+    "text": "Ośrodek leży w górnej części Karpacza, nad ul. Olimpijską. Własny parking ma około 100 miejsc, więcej jest na parkingach miejskich i prywatnych w okolicy. Mikrostacja Biały Jar poniżej drogi to osobny ośrodek i jej karnety tu nie działają."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 150,
+   "skipass_currency": "PLN",
+   "address": "okolice ul. Olimpijskiej, Karpacz",
+   "night_skiing": false,
+   "snowmaking": "większość tras (wg Wikipedii)",
+   "snowpark": false,
+   "parking": "ok. 100 miejsc przy stacji, dodatkowo parkingi miejskie i prywatne",
+   "longest_run": "trasa z Kopy wzdłuż kolei Zbyszek, ok. 2,2 km",
+   "website": "https://karpaczskiarena.pl",
+   "skipass_season": "2025/26",
+   "skipass_source_url": "https://www.skiinfo.fr/basse-silesie/karpacz-kopa/forfaits-de-ski",
+   "skipass_note": "Wg Skiinfo (aktualizacja 27.11.2025): 150 zł w weekend, 140 zł w dni robocze. Na stronie ośrodka brak zimowego cennika."
+  },
+  "sources": [
+   "https://karpaczskiarena.pl/zima/trasy-i-wyciagi/",
+   "https://karpaczskiarena.pl/lato/parking-i-dojazd/",
+   "https://pl.wikipedia.org/wiki/Kompleks_Narciarski_Kopa_w_Karpaczu",
+   "https://www.skiinfo.fr/basse-silesie/karpacz-kopa/forfaits-de-ski"
+  ]
+ },
+ {
+  "slug": "skrzyczne",
+  "summary": "Ośrodek Centralnego Ośrodka Sportu na Skrzycznem (1257 m n.p.m.), najwyższym szczycie Beskidu Śląskiego, z trasą FIS z ponad 600 m różnicy wysokości. Dla zaawansowanych i trenujących, bez jazdy wieczornej.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Wizytówką jest czarna trasa FIS ze szczytu do Szczyrku, według Wikipedii około 2,8 km i 650 m różnicy wysokości, z homologacją do zjazdu, supergiganta, giganta i slalomu. Dla mniej zaawansowanych są czerwone Kaskady oraz niebieskie Ondraszek i Widokowa (około 2,4 km). W dni robocze od 8:00 do 10:00 odcinek Grzebień do Doliny zajmują treningi klubów."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Dwuodcinkowa 4-osobowa kanapa Leitnera prowadzi ze Szczyrku na Halę Jaworzynę i dalej na Skrzyczne. Na stoku Doliny pracuje 6-osobowa kanapa Doliny III i orczyk Doliny II."
+   },
+   {
+    "title": "Wspólny skipass",
+    "text": "Karnet 1 do 6 dni działa w trzech ośrodkach: COS Skrzyczne, Szczyrk Mountain Resort i Beskid Sport Arena, łącznie blisko 40 km tras. Trasy Skrzycznego łączą się z trasami SMR. Lokalne karnety 4-godzinne ważne są tylko na Skrzycznem i w BSA."
+   },
+   {
+    "title": "Czego tu nie ma",
+    "text": "Trasy nie są oświetlone, naśnieżanie obejmuje tylko część terenu, nie ma snowparku. Na Jaworzynie i Skrzycznem płaci się wyłącznie kartą."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 219,
+   "skipass_currency": "PLN",
+   "address": "ul. Myśliwska 45, 43-370 Szczyrk",
+   "night_skiing": false,
+   "snowmaking": "częściowo (wg Wikipedii)",
+   "snowpark": false,
+   "longest_run": "trasa FIS, ok. 2,8 km (wg Wikipedii)",
+   "website": "https://skrzyczne.cos.pl",
+   "skipass_season": "2025/26",
+   "skipass_source_url": "https://www.szczyrkowski.pl/en/price-list/winter/ski-pass-price-list",
+   "skipass_note": "Wspólny karnet 1-6 dni SMR/COS/BSA; cena 219 zł to stawka kasowa SMR wg Skiinfo (25.11.2025). Osobnego cennika dziennego COS nie znaleziono."
+  },
+  "sources": [
+   "https://skrzyczne.cos.pl",
+   "https://skrzyczne.cos.pl/skrzyczne/trasa-fis",
+   "https://skrzyczne.cos.pl/cennik-1",
+   "https://www.szczyrkowski.pl/en/price-list/winter/ski-pass-price-list",
+   "https://pl.wikipedia.org/wiki/Ośrodek_Narciarski_COS_OPO_w_Szczyrku"
+  ]
+ },
+ {
+  "slug": "zieleniec",
+  "summary": "Największy ośrodek Kotliny Kłodzkiej: 23 km tras w Górach Orlickich i kilka stacji pod jednym skipassem. Dobry dla początkujących i rodzin, działa tu dziewięć szkół narciarskich.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Ośrodek podaje 23 km tras zjazdowych rozłożonych między kilka stacji: Bartuś, Diament, Grapa, Gryglówka, MCM, Mieszko, Nartorama i Winterpol. Ośrodek przedstawia się jako najczęściej wybierane w Polsce miejsce do nauki jazdy, co dobrze oddaje charakter większości tras."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Jeden karnet działa na wszystkich kolejach i wyciągach. Kanap jest siedem: 6-osobowe N2 (z gondolami) i W3 oraz 4-osobowe G1, G5, M1, W5 i D3. Pozostałe to kilkanaście talerzyków, orczyk W6 i kilka taśm."
+   },
+   {
+    "title": "Jazda wieczorna",
+    "text": "Większość tras jest oświetlona. Po zmroku pracuje kilkanaście wyciągów, m.in. kanapy D3, G1, G10, M1, N2, W3 i W5. W sezonie wysokim wyciągi działają codziennie od 9:00 do 21:00, poza nim od poniedziałku do czwartku do 16:00, a w weekendy do 20:00."
+   },
+   {
+    "title": "Karnety",
+    "text": "W sezonie 2026/27 cennik nie przewiduje karnetu 1-dniowego. W sezonie wysokim (19.12.2026 do 28.02.2027) 7 godzin kosztuje 165 zł, 4 godziny 140 zł, 2 dni 320 zł. Jest też karnet punktowy, gdzie przejazd kosztuje od 1 do 9 punktów."
+   },
+   {
+    "title": "Dojazd i parking",
+    "text": "Parkingów jest jedenaście, razem 3380 miejsc, wszystkie bezpłatne. Do Nartoramy można dojechać dolną drogą przez Duszniki-Zdrój (limit 3,5 t). Zieleniec to też dobra baza na biegówki, z ponad 200 km tras razem z czeską stroną granicy."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 165,
+   "skipass_currency": "PLN",
+   "address": "Zieleniec 72, 57-340 Duszniki-Zdrój",
+   "night_skiing": true,
+   "night_skiing_hours": "do 20:00 (w sezonie wysokim wyciągi do 21:00)",
+   "opening_hours": "sezon wysoki codziennie 9:00-21:00; poza nim pn-czw 9:00-16:00, pt-nd 9:00-20:00",
+   "ski_school": true,
+   "rental": true,
+   "parking": "bezpłatny, 11 parkingów, 3380 miejsc",
+   "season": "sezon wysoki 2026/27: 19.12.2026-28.02.2027",
+   "website": "https://zieleniec.pl",
+   "skipass_season": "2026/27",
+   "skipass_source_url": "https://zieleniec.pl/zima/cennik",
+   "skipass_note": "Brak karnetu 1-dniowego w cenniku; cena dotyczy karnetu 7-godzinnego w sezonie wysokim. Rabaty przy zakupie online."
+  },
+  "sources": [
+   "https://zieleniec.pl/zima/cennik",
+   "https://zieleniec.pl/zima/trasy-zjazdowe-i-biegowe",
+   "https://zieleniec.pl/zima/nocne-jazdy",
+   "https://zieleniec.pl/wiecej/parking",
+   "https://zieleniec.pl/zima/szkoly-narciarskie"
+  ]
+ },
+ {
+  "slug": "jurgow-ski",
+  "summary": "Mała stacja w Jurgowie z 4,5 km tras i widokiem na Tatry, w systemie Tatry Super Ski. Dla rodzin z dziećmi i początkujących. Uwaga: w sezonie 2025/26 stacja była nieczynna, operator zapowiada powrót w 2026/27.",
+  "sections": [
+   {
+    "title": "Trasy i wyciągi",
+    "text": "Dziewięć tras o łącznej długości 4,5 km, od zielonych po czerwoną i czarną, z górną stacją na 1045 m n.p.m. Pracuje siedem wyciągów, w tym kolej linowa B, orczyk C, wyciągi dziecięce i przenośnik taśmowy dla początkujących. Stoki są naśnieżane, oświetlone i ratrakowane."
+   },
+   {
+    "title": "Status stacji",
+    "text": "W grudniu 2025 stacja ogłosiła, że jest nieczynna, i zaprosiła narciarzy na sezon 2026/27. Przed wyjazdem warto sprawdzić zakładkę Warunki/kamery albo zadzwonić pod +48 696 232 312."
+   },
+   {
+    "title": "Skipass",
+    "text": "Jurgów należy do Tatry Super Ski, więc obowiązuje tu ten sam karnet co w Białce, Bukowinie czy na Polanie Szymoszkowej. W sezonie 2026/27 dzienny karnet normalny kosztuje 185 zł w sezonie wysokim, 200 zł w okresie świątecznym i 165 zł przed świętami. Seniorzy po 75. roku życia płacą 20 zł za dzień."
+   },
+   {
+    "title": "Zaplecze",
+    "text": "Przy stoku działają szkoła narciarska, wypożyczalnia nart i snowboardów oraz karczma widokowa. Parking jest bezpłatny. Dla zaawansowanych to raczej miejsce na pół dnia niż na cały pobyt."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 185,
+   "skipass_currency": "PLN",
+   "address": "ul. Podokólne 1, 34-532 Jurgów",
+   "night_skiing": true,
+   "snowmaking": "tak, trasy naśnieżane",
+   "ski_school": true,
+   "rental": true,
+   "parking": "bezpłatny",
+   "season": "nieczynna w sezonie 2025/26; otwarcie zapowiadane na 2026/27",
+   "website": "https://www.jurgowski.pl",
+   "skipass_season": "2026/27",
+   "skipass_source_url": "https://www.jurgowski.pl/cennik-jurgow-ski",
+   "skipass_note": "Karnet Tatry Super Ski, sezon wysoki 7.01-7.03.2027; okres świąteczny 200 zł, przedświąteczny 165 zł."
+  },
+  "sources": [
+   "https://www.jurgowski.pl",
+   "https://www.jurgowski.pl/stacja-narciarska-jurgow-ski",
+   "https://www.jurgowski.pl/cennik-jurgow-ski",
+   "https://www.jurgowski.pl/aktualnosci",
+   "https://tatrysuperski.pl/api/pricelist.json"
+  ]
+ },
+ {
+  "slug": "czorsztyn-ski",
+  "summary": "Średniej wielkości stacja na zboczu góry Wdżar w Kluszkowcach, z trzema kanapami i dziewięcioma trasami. Dobra na rodzinny wyjazd w Pieniny i na jazdę wieczorną, a karnet Tatry Super Ski działa tu tak samo jak w Białce.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Na mapie ośrodka jest dziewięć tras. Najdłuższa to niebieska jedynka (1100 m), a dla wymagających są dwie czerwone po 900 m, w tym trójka z homologacją FIS. Resztę stanowią krótsze odcinki średniej trudności (400 do 600 m), łatwa dwójka (460 m) oraz dwie małe trasy dla dzieci. Wszystkie trasy są naśnieżane i oświetlone."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Szkielet stacji to trzy czteroosobowe koleje krzesełkowe, które rozwożą ruch na kilka zboczy, więc kolejki rozkładają się lepiej niż na stokach z jednym wyciągiem. Do tego dochodzą dwa orczyki i dwie taśmy przy dolnych terenach szkoleniowych."
+   },
+   {
+    "title": "Dla kogo",
+    "text": "Dobry wybór dla rodzin i osób jeżdżących rekreacyjnie, które chcą mieć kilka różnych zjazdów w ciągu dnia. Kto szuka długich, stromych tras, po dwóch, trzech godzinach zna już każdy metr i lepiej pojedzie na tym samym karnecie do Białki. Przy dolnej stacji działa szkółka narciarska i snowboardowa, wypożyczalnia oraz serwis."
+   },
+   {
+    "title": "Dojazd i parking",
+    "text": "Stacja leży przy drodze 969 między Nowym Targiem a Szczawnicą, kilka kilometrów od Jeziora Czorsztyńskiego. Parkingi są pod samymi wyciągami i według Tatry Super Ski bezpłatne. Na dole stoi też hotel ośrodka."
+   },
+   {
+    "title": "Poza nartami",
+    "text": "Przy dobrej pokrywie wokół Wdżaru wytyczane są trasy biegowe. Latem działa tu tor saneczkowy, bike park i wyciąg krzesełkowy dla pieszych."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 185,
+   "skipass_currency": "PLN",
+   "address": "ul. Kamieniarska 30A, 34-440 Kluszkowce",
+   "night_skiing": true,
+   "snowmaking": "wszystkie trasy naśnieżane i oświetlone (wg ośrodka)",
+   "ski_school": true,
+   "rental": true,
+   "parking": "bezpłatny, przy wyciągach",
+   "longest_run": "trasa nr 1 (niebieska), 1100 m",
+   "website": "https://www.czorsztyn-ski.com.pl",
+   "skipass_season": "2026/27",
+   "skipass_source_url": "https://tatrysuperski.pl/cennik/",
+   "skipass_note": "Karnet Tatry Super Ski 1 dzień, normalny, sezon wysoki 07.01-07.03.2027. Okres świąteczny 25.12-06.01: 200 zł, do 24.12: 165 zł, od 08.03: 180 zł. Plus 10 zł kaucji za kartę."
+  },
+  "sources": [
+   "https://www.czorsztyn-ski.com.pl/osrodek-narciarski/trasy-i-wyciagi",
+   "https://www.czorsztyn-ski.com.pl/osrodek-narciarski/karnety",
+   "https://www.czorsztyn-ski.com.pl/images/design/mapa-osrodka-czorsztyn-ski-2025_2026.webp",
+   "https://www.czorsztyn-ski.com.pl/kontakt",
+   "https://tatrysuperski.pl/stacje-narciarskie/czorsztyn-ski",
+   "https://tatrysuperski.pl/api/pricelist.json"
+  ]
+ },
+ {
+  "slug": "ski-sun-swieradow",
+  "summary": "Jedna długa nartostrada (2500 m) obsługiwana ośmioosobową gondolą na Stóg Izerski. Dobra dla kogoś, kto lubi długie, równe zjazdy i jazdę wieczorną w Sudetach, słabsza dla szukających różnorodności tras.",
+  "sections": [
+   {
+    "title": "Trasa i gondola",
+    "text": "Cała jazda opiera się na jednej oświetlonej nartostradzie o długości 2500 m, z odcinkami oznaczonymi na czerwono i niebiesko, ratrakowanej dwa razy dziennie. Gondola Doppelmayra z 2008 roku ma 2172 m i pokonuje 443 m przewyższenia (617 do 1060 m n.p.m.) w około 8 minut, przy przepustowości 2400 osób na godzinę. Jeden zjazd z wjazdem to mniej więcej kwadrans, więc w pełny dzień robi się sporo kilometrów."
+   },
+   {
+    "title": "Dla początkujących",
+    "text": "Przy dolnej stacji jest wyciąg talerzykowy (160 m) z niebieską trasą 150 m oraz 80-metrowa taśma na stoku o nachyleniu 12%. Na te dwa wyciągi sprzedawane są osobne karnety punktowe (10, 20 lub 30 wjazdów), tańsze od czasowych. Dzieci do 4 lat jeżdżą bez karnetu."
+   },
+   {
+    "title": "Jazda wieczorna",
+    "text": "Ośrodek działa w dwóch blokach: 9:00-16:00 i 18:00-21:00. Karnety 2- i 3-godzinne obejmują także wieczór, dłuższe dotyczą tylko pory dziennej. Szkoła SKI&BIKE prowadzi lekcje również wieczorem, a wypożyczalnia jest otwarta do 21:30."
+   },
+   {
+    "title": "Szkoła, wypożyczalnia, serwis",
+    "text": "Dwa punkty wypożyczalni stoją przy dolnej stacji gondoli. Mają narty i deski m.in. Salomona, Fischera, Stöckli i Burtona, do tego sprzęt biegowy, a wypożyczenie nie wymaga rezerwacji. Lekcja indywidualna w sezonie 2025/26 kosztowała 160 zł za 50 minut. Serwis: smarowanie 40 zł, ostrzenie ze smarowaniem 80 zł."
+   },
+   {
+    "title": "Dojazd i parking",
+    "text": "Dolna stacja jest przy ul. Źródlanej w Świeradowie-Zdroju. Parking jest płatny (40 zł za dobę), toalety też (3 zł)."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 180,
+   "skipass_currency": "PLN",
+   "address": "ul. Źródlana 7, 59-850 Świeradów-Zdrój",
+   "night_skiing": true,
+   "night_skiing_hours": "codziennie 18:00-21:00",
+   "opening_hours": "9:00-16:00 oraz 18:00-21:00",
+   "snowmaking": "nartostrada naśnieżana, 42 armatki, fabryka śniegu",
+   "ski_school": true,
+   "rental": true,
+   "parking": "płatny, 40 zł za dobę",
+   "longest_run": "nartostrada przy gondoli, 2500 m",
+   "season": "start zwykle w pierwszej połowie grudnia (2025/26: 29.11.2025)",
+   "website": "https://skisun.pl",
+   "skipass_season": "2025/26",
+   "skipass_source_url": "https://skisun.pl/cennik/",
+   "skipass_note": "Karnet 7-godzinny 9:00-16:00, normalny, sezon wysoki (23.12-28.02 oraz weekendy). Cennik 2026/27 jeszcze nieopublikowany; przedsprzedaż 9-26.11.2026 z rabatem 30%."
+  },
+  "sources": [
+   "https://skisun.pl/zima/narciarstwo/",
+   "https://skisun.pl/uslugi/gondola/",
+   "https://skisun.pl/uslugi/wyciag-tasmowy-kidszone/",
+   "https://skisun.pl/zima/szkola-narciarska/",
+   "https://skisun.pl/zima/wypozyczalnia/",
+   "https://skisun.pl/cennik/",
+   "https://skisun.pl/fileadmin/user_upload/Cennik_slupy_20252026_Zima__80_x_160_cm___80_x_180_cm_.png",
+   "https://skisun.pl/eventy/kiedy-start-sezonu/",
+   "https://skisun.pl/kontakt/"
+  ]
+ },
+ {
+  "slug": "czantoria",
+  "summary": "Kolej krzesełkowa na Wielką Czantorię w Ustroniu i jedne z dłuższych zjazdów w Beskidzie Śląskim: czerwona trasa FIS (1900 m) i niebieska (2600 m). Dla średnio zaawansowanych i lepszych; początkujący mają osobny teren obok.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Główna jest czerwona trasa nr 1 z homologacją FIS: 1900 m, średnie nachylenie 24%, naśnieżana i oświetlona na całej długości. Niebieska dwójka ma 2600 m i średnio 18%, ale nie jest opisana jako naśnieżana, więc jej dostępność zależy od zimy. Krótsze odcinki to niebieska trasa przy orczyku Faturka (670 m) i stroma ściana przy talerzyku Solisko (340 m, 24%)."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Czteroosobowa kolej Doppelmayra ma 1640 m i 462 m przewyższenia, wjazd trwa około 8 minut, przepustowość 1800 osób na godzinę. Kanapy zwalniają przy peronie, co ułatwia wsiadanie dzieciom i osobom z ograniczoną sprawnością. Uzupełniają ją orczyk Faturka (670 m, 198 m przewyższenia) i talerzyk Solisko."
+   },
+   {
+    "title": "Dla początkujących",
+    "text": "Na głównych trasach Czantorii początkujący nie mają czego szukać. Kilkadziesiąt metrów od kolei jest Lisia Polana z taśmą i talerzykiem 140 m, gdzie działa licencjonowana szkoła narciarska. Tam też stoi wypożyczalnia QBL Wintergroup (ponad 200 kompletów, centrum testowe Völkl i Head, serwis)."
+   },
+   {
+    "title": "Dojazd i parking",
+    "text": "Dolna stacja jest przy ul. 3 Maja w Ustroniu Polanie. Parkingi mieszczą około 500 aut i 15 autokarów, za samochód osobowy płaci się 20 zł. Przy parkingu jest stacja ładowania Taurona."
+   },
+   {
+    "title": "Na górze",
+    "text": "Górna stacja stoi na polanie Stokłosica (851 m n.p.m.), jest tam punkt GOPR i bar na 50 osób. Na szczyt z wieżą widokową idzie się jeszcze około 30 minut."
+   }
+  ],
+  "facts": {
+   "address": "ul. 3 Maja 130, 43-450 Ustroń",
+   "snowmaking": "naśnieżane: trasa nr 1, trasa przy Faturce, trasa przy Solisku",
+   "ski_school": true,
+   "rental": true,
+   "parking": "płatny (EuroPark), ok. 500 aut i 15 autokarów, osobowy 20 zł",
+   "longest_run": "trasa nr 2 (niebieska), 2600 m; najdłuższa naśnieżana: trasa nr 1 FIS, 1900 m",
+   "website": "https://www.czantoria.net"
+  },
+  "sources": [
+   "https://www.czantoria.net/dla-narciarzy/",
+   "https://www.czantoria.net/wyciagi/",
+   "https://www.czantoria.net/cennik/",
+   "https://www.czantoria.net/wypozyczalnia-i-szkolenia-wintergroup-qbl/",
+   "https://www.czantoria.net/kontakt/"
+  ]
+ },
+ {
+  "slug": "zwardon-ski",
+  "summary": "Mała stacja na północnym stoku Rachowca w Zwardoniu, z kanapą czteroosobową i oświetloną trasą około 900 m. Dobra na tani dzień albo wieczór na nartach, z dojazdem pociągiem pod sam stok.",
+  "sections": [
+   {
+    "title": "Stok i wyciągi",
+    "text": "Główna trasa ma około 900 m i jest w pełni oświetlona. Wywozi na nią czteroosobowa kolej krzesełkowa, pierwsza taka w Beskidzie Żywieckim (stacja ruszyła w grudniu 2012). Przy dole działa baby lift i wydzielony teren zabaw dla dzieci. Śnieg robią armatki zasilane ze zbiornika na Małym Rachowcu (6,5 mln litrów wody)."
+   },
+   {
+    "title": "Jazda wieczorna",
+    "text": "Kolej pracuje codziennie od 9:00 do 21:00. Między 16:00 a 16:30 jest przerwa na ratrakowanie, więc wieczór zaczyna się na świeżo przygotowanym stoku. Osobny karnet wieczorny 16:00-21:00 kosztował w sezonie 2025/26 90 zł."
+   },
+   {
+    "title": "Ceny",
+    "text": "To jedna z tańszych opcji w regionie: dzienny karnet 9:00-16:00 za 115 zł, całodzienny do 21:00 za 135 zł (2025/26). Lekcja indywidualna kosztuje 120 zł za godzinę, komplet narciarski na dzień 55 zł. Karnety wielodniowe nie obejmują jazdy wieczornej."
+   },
+   {
+    "title": "Dojazd i parking",
+    "text": "Samochodem z Żywca drogą ekspresową S69 to 31 km. Stacja PKP Zwardoń jest 200 m od dolnej stacji, a słowackie Skalité-Serafínov około kilometra. Cztery parkingi mieszczą 350 aut, są bezpłatne i niestrzeżone."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 115,
+   "skipass_currency": "PLN",
+   "address": "34-373 Zwardoń (centrum, za mostem kolejowym)",
+   "night_skiing": true,
+   "night_skiing_hours": "codziennie 16:00-21:00 (przerwa techniczna 16:00-16:30)",
+   "opening_hours": "9:00-21:00",
+   "ski_school": true,
+   "rental": true,
+   "parking": "bezpłatny, 4 parkingi, ok. 350 miejsc",
+   "longest_run": "trasa główna, ok. 900 m",
+   "website": "https://www.zwardonski.pl",
+   "skipass_season": "2025/26",
+   "skipass_source_url": "https://www.zwardonski.pl/cennik",
+   "skipass_note": "Karnet dzienny 9:00-16:00, normalny; całodzienny 9:00-21:00 kosztuje 135 zł. Cennik bez podziału na sezony. Kaucja 10 zł (gotówka)."
+  },
+  "sources": [
+   "https://www.zwardonski.pl/cennik",
+   "https://www.zwardonski.pl/stacja-narciarska/mapa-osrodka",
+   "https://www.zwardonski.pl/informacje/informacje-ogolne",
+   "https://www.zwardonski.pl/jak-dojechac"
+  ]
+ },
+ {
+  "slug": "master-ski-tylicz",
+  "summary": "Największa stacja w Tyliczu koło Krynicy: sześcioosobowa i czteroosobowa kanapa, dwie nartostrady ponad 1200 m i sporo terenu dla dzieci. Dobra dla rodzin i do jazdy wieczornej, ceny wyraźnie niższe niż na Podhalu.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Ośrodek podaje łącznie około 10 km tras. Najdłuższe są nartostrady nr 7 (1350 m) i nr 8 (1200 m), a przy kanapie sześcioosobowej biegną trasy po 1000 m i 1200 m. Główna, szeroka trasa ma równe nachylenie i dobrze nadaje się do jazdy na krawędzi. Na mapie są też odcinek leśny „Czarodziejski las”, funpark, snowpark i trasa do jazdy na tyczkach (po 400 m)."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "W6 to sześcioosobowa kanapa z osłonami przeciwwiatrowymi (1000 m), W1 to czteroosobowa (700 m). Do tego dwa wyciągi orczykowe (600 m i 500 m) oraz dwie taśmy po 120 m, w tym Baby-Ski przy sześcioosobówce. Stok jest oświetlony i naśnieżany."
+   },
+   {
+    "title": "Dla rodzin",
+    "text": "Przy stoku jest zimowy plac zabaw z animatorem, poletko do jazdy na sankach i strefa malucha. Działa szkoła narciarska, przedszkole narciarskie i snowboardowe, wypożyczalnia z przechowalnią i serwis. Ratrak przejeżdża trasy 1, 2 i 10 codziennie między 14:45 a 15:00 i na ten kwadrans są one zamykane."
+   },
+   {
+    "title": "Ceny i godziny",
+    "text": "W cenniku 2026/27 karnet jednodniowy kosztuje 125 zł, a wieczorny 15:00-20:00 60 zł. Są też karty punktowe (wjazd W6 to 16 zł). W końcówce sezonu 2025/26 stok pracował w weekendy 8:00-16:00."
+   },
+   {
+    "title": "Dojazd i parking",
+    "text": "Stacja jest przy ul. Pułaskiego w Tyliczu, około 12 km od Muszyny. Parking jest bezpłatny. W sezonie kursują skibusy z Tylicza i z Krynicy (w poprzednim sezonie od 26 grudnia)."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 125,
+   "skipass_currency": "PLN",
+   "address": "ul. Kazimierza Pułaskiego 11a, 33-383 Tylicz",
+   "night_skiing": true,
+   "night_skiing_hours": "karnet wieczorny 15:00-20:00",
+   "snowmaking": "stok sztucznie naśnieżany",
+   "snowpark": true,
+   "ski_school": true,
+   "rental": true,
+   "parking": "bezpłatny",
+   "longest_run": "nartostrada nr 7, 1350 m",
+   "website": "https://master-ski.pl",
+   "skipass_season": "2026/27",
+   "skipass_source_url": "https://master-ski.pl/cennik/",
+   "skipass_note": "Karnet 1 dzień, normalny; cennik bez podziału na sezon wysoki i niski. Kaucja 10 zł."
+  },
+  "sources": [
+   "https://master-ski.pl/trasy-narciarskie/",
+   "https://master-ski.pl/wp-content/uploads/2023/11/Trasy-Master-Ski-2023.pdf",
+   "https://master-ski.pl/wp-content/uploads/2026/09/Cennik-2026_2027_Easy-Resize.com_.jpg",
+   "https://master-ski.pl/godziny-otwacia/",
+   "https://master-ski.pl/kontakt/"
+  ]
+ },
+ {
+  "slug": "gora-zar",
+  "summary": "Góra Żar nad Jeziorem Międzybrodzkim to dziś przede wszystkim kolej linowo-terenowa i bike park PKL. W aktualnym wykazie tras operatora nie ma tras zjazdowych, więc przed zimowym wyjazdem trzeba sprawdzić, czy stok w ogóle ruszy.",
+  "sections": [
+   {
+    "title": "Stan oferty narciarskiej",
+    "text": "Na stronie PKL (październik 2026) w zakładce „Koleje i trasy” widnieje tylko kolej, przenośnik taśmowy 130 m, trasa saneczkowa i tubing (po 140 m). Sezonowy skipass PKL na 2026/27 obejmuje Palenicę, Mosorny Groń, Gubałówkę, Kasprowy Wierch i Jaworzynę Krynicką, Żaru na tej liście nie ma. Serwisy narciarskie nadal opisują tu około 3 km tras, ale nie znaleźliśmy oficjalnego potwierdzenia, że będą przygotowane."
+   },
+   {
+    "title": "Kolej",
+    "text": "Kolej linowo-terenowa ma 1300 m i wjeżdża na szczyt (761 m n.p.m.) w 5,5 minuty. Jest dostępna dla wózków, a dziecięcy wózek przewozi się bezpłatnie. Wjazd góra-dół poza sezonem letnim kosztuje 32 zł online i 37 zł w kasie."
+   },
+   {
+    "title": "Zimą z dziećmi",
+    "text": "Jeśli celem są sanki, tubing i spacer z widokiem na jezioro i lądujące szybowce, Żar się sprawdzi. Na szczycie jest restauracja PKL, lunety i początek szlaków. Na narty w tej okolicy pewniejszym wyborem są stacje Beskidu Śląskiego i Żywieckiego."
+   },
+   {
+    "title": "Dojazd i parking",
+    "text": "Parking przy dolnej stacji jest prywatny, PKL nie ustala jego cen. Taniej można zostawić auto nieco wyżej przy drodze. Na szczyt prowadzi też zamknięta dla ruchu asfaltowa droga (około 6 km)."
+   }
+  ],
+  "facts": {
+   "website": "https://www.pkl.pl/gora-zar/gora-zar.html",
+   "parking": "prywatny przy dolnej stacji, płatny"
+  },
+  "sources": [
+   "https://www.pkl.pl/gora-zar/koleje-i-trasy.html",
+   "https://www.pkl.pl/gora-zar/faq-gora-zar.html",
+   "https://www.pkl.pl/gora-zar/kolej-linowo-terenowa-gora-zar-ceny.html",
+   "https://www.pkl.pl/mosorny-gron/skipassy-sezonowe.html",
+   "https://www.skiresort.com/en/ski-resort/gora-zar-miedzybrodzie-zywieckie/"
+  ]
+ },
+ {
+  "slug": "harenda",
+  "summary": "Zakopiańska stacja na stoku Gubałówki od strony Harendy, z kanapą Leitnera, krótką trasą FIS i kilkoma orczykami. Dobra na pół dnia jazdy z Zakopanego i do nauki, mniej ciekawa na cały urlop.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Najbardziej wymagająca jest trasa FIS (800 m, 197 m przewyższenia). Obok biegnie średnio trudna 900 m oraz dwie średnio łatwe, 500 m i 1000 m. Dla zaczynających są trasy 250 m i 100 m. Stok jest sztucznie naśnieżany, oświetlony i ratrakowany."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Główny wyciąg to czteroosobowa kolej Leitnera z taśmą przy wsiadaniu: około 600 do 650 m po stoku, ponad 200 m przewyższenia, 2400 osób na godzinę, przejazd niecałe 4 minuty. Pod nią pracują cztery orczyki (470, 320, 250 i 80 m) i taśma 70 m. Przy takiej przepustowości kanapy kolejki są krótkie, ale trasa FIS szybko robi się zjeżdżona."
+   },
+   {
+    "title": "Dla kogo",
+    "text": "Harenda nadaje się dla rodzin z dziećmi i na naukę: strefa dla początkujących jest oddzielona od głównego stoku. Doświadczony narciarz zrobi tu kilkanaście zjazdów i zechce zmienić miejsce, co na karnecie Tatry Super Ski nie stanowi problemu (Szymoszkowa jest kilka kilometrów dalej)."
+   },
+   {
+    "title": "Poza nartami",
+    "text": "Na terenie ośrodka jest lodowisko i wypożyczalnia sprzętu. Zjeść można w Karczmie Harenda przy dolnej stacji, w Szałasie u Curusia przy orczykach albo w barze z tarasem na górnej stacji kolei."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 185,
+   "skipass_currency": "PLN",
+   "address": "ul. Harenda 21A, 34-500 Zakopane",
+   "snowmaking": "stok sztucznie naśnieżany i oświetlony",
+   "ski_school": true,
+   "rental": true,
+   "longest_run": "trasa średnio łatwa, 1000 m",
+   "website": "https://www.harendazakopane.pl",
+   "skipass_season": "2026/27",
+   "skipass_source_url": "https://tatrysuperski.pl/cennik/",
+   "skipass_note": "Karnet Tatry Super Ski 1 dzień, normalny, sezon wysoki 07.01-07.03.2027 (25.12-06.01: 200 zł). Cennik lokalny Harendy na 2026/27 jeszcze nieopublikowany."
+  },
+  "sources": [
+   "https://www.harendazakopane.pl/oferta/trasy-narciarskie",
+   "https://www.harendazakopane.pl/oferta/wyciagi-narciarskie",
+   "https://www.harendazakopane.pl/kontakt",
+   "https://www.harendazakopane.pl/cennik-tatry-super-ski",
+   "https://tatrysuperski.pl/stacje-narciarskie/harenda",
+   "https://tatrysuperski.pl/api/pricelist.json"
+  ]
+ },
+ {
+  "slug": "polana-szymoszkowa",
+  "summary": "Stok na Gubałówce 1,5 km od Krupówek, z sześcioosobową kanapą i trasą 1322 m z widokiem na Giewont. Dobry dla średnio zaawansowanych mieszkających w Zakopanem; początkujący mają osobny krótki wyciąg i Kids Park.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Duża trasa A ma 1322 m, średnio 20% nachylenia i 261 m przewyższenia. Zjeżdża się z grzbietu Gubałówki prosto na panoramę Tatr. Mała trasa B (400 m, 10%, 60 m przewyższenia) kończy się w połowie stoku i służy do nauki."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Sześcioosobowa kolej A wjeżdża na górę w około 6 minut. Krótsza kolej B dociera do połowy stoku w 3,5 minuty. Przy dolnej stacji jest Kids Park z taśmą dla najmłodszych."
+   },
+   {
+    "title": "Dla kogo",
+    "text": "Najlepiej sprawdza się, gdy nocuje się w Zakopanem i chce pojeździć kilka godzin bez dojazdu do Białki. Jedna długa trasa to za mało na kilka dni z rzędu, ale karnet Tatry Super Ski pozwala zmieniać stacje. Na miejscu działa Szymoszkowa Ski School, wypożyczalnia sprzętu i odzieży oraz sklep Salomona."
+   },
+   {
+    "title": "Dojazd i parking",
+    "text": "Z Zakopianki jedzie się ul. Nowotarską i Nędzy-Kubińca, od strony Chyżnego ul. Królewską. Pod stokiem jest szeroki, bezpłatny parking. Można też podjechać od strony Kościeliska lub Dzianisza na parking przy górnej stacji. Dworce PKP i PKS są około 2,8 km od stacji."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 185,
+   "skipass_currency": "PLN",
+   "address": "ul. Szymaszkowa 2, 34-500 Zakopane",
+   "ski_school": true,
+   "rental": true,
+   "parking": "bezpłatny, pod stokiem",
+   "longest_run": "trasa A, 1322 m",
+   "opening_hours": "od 09.03.2026 9:00-16:00 (w szczycie sezonu dłużej, wg komunikatów)",
+   "website": "https://szymoszkowa.pl",
+   "skipass_season": "2026/27",
+   "skipass_source_url": "https://tatrysuperski.pl/cennik/",
+   "skipass_note": "Karnet Tatry Super Ski 1 dzień, normalny, sezon wysoki 07.01-07.03.2027 (25.12-06.01: 200 zł). W sezonie 2025/26 ten sam karnet w sezonie wysokim kosztował 170 zł; lokalny 3-godzinny 150 zł."
+  },
+  "sources": [
+   "https://szymoszkowa.pl/trasy-narciarskie-zakopane/",
+   "https://szymoszkowa.pl/cennik-skipassow/",
+   "https://szymoszkowa.pl/lokalizacja-i-dojazd/",
+   "https://szymoszkowa.pl/kontakt/",
+   "https://szymoszkowa.pl/",
+   "https://tatrysuperski.pl/api/pricelist.json"
+  ]
+ },
+ {
+  "slug": "bania-bialka",
+  "summary": "Mała stacja przy Hotelu i Termach Bania w Białce Tatrzańskiej, nastawiona na dzieci i naukę, połączona kanapą ze stokami Kotelnicy. Dobra na pierwsze dni na nartach; reszta jazdy odbywa się już na Kotelnicy.",
+  "sections": [
+   {
+    "title": "Teren i wyciągi",
+    "text": "Bania Ski to głównie łagodne, szerokie stoki szkoleniowe obsługiwane przez dwie taśmy. Czteroosobowa kolej krzesełkowa wywozi na sąsiednie trasy Kotelnicy Białczańskiej, więc z hotelu wjeżdża się prosto w największy ośrodek w Białce. Operator nie publikuje długości poszczególnych tras."
+   },
+   {
+    "title": "Dla kogo",
+    "text": "Dla rodzin z małymi dziećmi i osób, które jeszcze nie czują się pewnie. Na Bani uczy szkoła STOK (także programy feryjne dla dzieci), a Active Therapy prowadzi zajęcia dla osób z niepełnosprawnościami, z mono-ski i dualski. Zaawansowany narciarz potraktuje Banię jako wejście na Kotelnicę."
+   },
+   {
+    "title": "Budynek Bania Ski",
+    "text": "Przy stoku stoi trzykondygnacyjny budynek z kasami, szkołą, wypożyczalnią Waluś Ski, serwisem i sklepami. Narciarnia z suszeniem jest połączona z hotelem. Goście hotelu płacą za wyciągi zegarkiem, który jest też kluczem do pokoju."
+   },
+   {
+    "title": "Po nartach",
+    "text": "Termy Bania są tuż przy trasie. W cenniku Tatry Super Ski bywają pakiety karnet plus termy (w sezonie 2025/26 z wejściem w wybranych godzinach). Przy stoku działa bufetowa Karcma Bania."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 185,
+   "skipass_currency": "PLN",
+   "address": "ul. Środkowa 181, 34-405 Białka Tatrzańska",
+   "opening_hours": "zwykle 8:30-21:50, w sezonie niskim krócej (wg Tatry Super Ski)",
+   "ski_school": true,
+   "rental": true,
+   "website": "https://hotelbania.pl/narty/bania-ski",
+   "skipass_season": "2026/27",
+   "skipass_source_url": "https://tatrysuperski.pl/cennik/",
+   "skipass_note": "Karnet Tatry Super Ski 1 dzień, normalny, sezon wysoki 07.01-07.03.2027 (25.12-06.01: 200 zł). Ważny także na Kotelnicy i Kaniówce."
+  },
+  "sources": [
+   "https://hotelbania.pl/narty/bania-ski",
+   "https://hotelbania.pl/narty/szkola-narciarska",
+   "https://tatrysuperski.pl/stacje-narciarskie/bania-ski",
+   "https://visitmalopolska.pl/en_GB/obiekt/-/poi/osrodek-narciarski-bania",
+   "https://tatrysuperski.pl/api/pricelist.json"
+  ]
+ },
+ {
+  "slug": "rusin-ski",
+  "summary": "Rodzinna stacja na Wierchu Rusińskim w Bukowinie Tatrzańskiej: szerokie niebieskie trasy (do 1200 m) i szybka kanapa sześcioosobowa. Dobra do spokojnego carvingu i nauki, za mało wymagająca dla szukających stromizn.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Wszystkie trasy są oznaczone na niebiesko. Najdłuższe mają 1200 m (170 m przewyższenia) i 900 m (130 m), a ich szerokość sięga 150 do 200 m, więc nawet w ferie jest gdzie skręcać. Krótsze trasy mają 500, 220 i 120 m. Stoki są naśnieżane, oświetlone i ratrakowane."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Rusiń-Ski Express to sześcioosobowa kanapa w wersji Porsche Design: 1150 m i 2790 osób na godzinę. Obok pracuje czteroosobowa kolej 750 m, orczyki 500 i 200 m oraz taśma 100 m. Wyciąg szkoleniowy jest oddzielony od głównej trasy."
+   },
+   {
+    "title": "Dla kogo",
+    "text": "Dla rodzin i osób, które chcą poprawiać technikę na szerokim, równym stoku. Kto potrzebuje czerwonych i czarnych tras, pojedzie na tym samym karnecie Tatry Super Ski do Białki. Szkoła narciarska i przedszkole działają pod marką szkolanaferie.pl."
+   },
+   {
+    "title": "Karnety lokalne",
+    "text": "Oprócz Tatry Super Ski ośrodek ma własny cennik godzinowy. W sezonie wysokim 2025/26 karnet 3-godzinny kosztował 145 zł, karnet na ostatnie 3 godziny pracy stacji 115 zł, a godzina na baby lifcie 70 zł."
+   },
+   {
+    "title": "Poza nartami",
+    "text": "Jest tor do snowtubingu i karczma regionalna. Ze stoku widać Tatry, Gorce i Babią Górę. W sezonie kursuje skibus ośrodka."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 185,
+   "skipass_currency": "PLN",
+   "address": "Wierch Rusiński 70, 34-530 Bukowina Tatrzańska",
+   "snowmaking": "trasy sztucznie naśnieżane i oświetlone",
+   "ski_school": true,
+   "longest_run": "trasa niebieska, 1200 m",
+   "website": "https://www.rusin-ski.pl",
+   "skipass_season": "2026/27",
+   "skipass_source_url": "https://tatrysuperski.pl/cennik/",
+   "skipass_note": "Karnet Tatry Super Ski 1 dzień, normalny, sezon wysoki 07.01-07.03.2027 (25.12-06.01: 200 zł). Lokalny 3h w sezonie wysokim 2025/26: 145 zł."
+  },
+  "sources": [
+   "https://www.rusin-ski.pl/stacja-narciarska-rusin-ski",
+   "https://www.rusin-ski.pl/",
+   "https://www.rusin-ski.pl/cennik-lokalny-rusin-ski",
+   "https://www.rusin-ski.pl/kontakt",
+   "https://tatrysuperski.pl/stacje-narciarskie/rusin-ski",
+   "https://tatrysuperski.pl/api/pricelist.json"
+  ]
+ },
+ {
+  "slug": "witow-ski",
+  "summary": "Mała rodzinna stacja w Witowie, 14 km od Zakopanego, z czteroosobową kanapą 1000 m i dwiema trasami. Dobra dla początkujących i średnio zaawansowanych oraz na wieczorne „Białe Godziny”.",
+  "sections": [
+   {
+    "title": "Stok i wyciągi",
+    "text": "Czteroosobowa kolej ma 1000 m i obsługuje dwie trasy zjazdowe na szerokim stoku. Najmłodsi zaczynają na orczyku 110 m (15 m przewyższenia) i taśmie Sunkid 70 m o przepustowości 1250 osób na godzinę. Z górnej stacji widać Tatry Zachodnie."
+   },
+   {
+    "title": "Dla kogo",
+    "text": "Ośrodek sam kieruje ofertę do początkujących i średnio zaawansowanych i tak go trzeba traktować. Szkoła Sun School ma licencję SITN-PZN i specjalizuje się w dzieciach, prowadzi też kursy feryjne. Wypożyczalnia ma narty Rossignola."
+   },
+   {
+    "title": "Jazda wieczorna i karnety",
+    "text": "Wieczorem obowiązuje karnet „Białe Godziny” 17:00-20:00, który w sezonie 2025/26 kosztował 100 zł. Lokalny karnet 3-godzinny kosztował 140 zł. Działa też Tatry Super Ski."
+   },
+   {
+    "title": "Poza nartami",
+    "text": "Przy stacji są restauracje Witowianka, Karczma przy Stoku i Toprówka, sala zabaw dla dzieci oraz apartamenty. Do Oravic na Słowacji (Meander, ten sam karnet) jest niecałe pół godziny jazdy."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 185,
+   "skipass_currency": "PLN",
+   "address": "Witów 205c, 34-512 Witów",
+   "night_skiing": true,
+   "night_skiing_hours": "17:00-20:00 („Białe Godziny”)",
+   "ski_school": true,
+   "rental": true,
+   "longest_run": "trasa przy kolei krzesełkowej, ok. 1000 m",
+   "website": "https://www.witow-ski.pl",
+   "skipass_season": "2026/27",
+   "skipass_source_url": "https://tatrysuperski.pl/cennik/",
+   "skipass_note": "Karnet Tatry Super Ski 1 dzień, normalny, sezon wysoki 07.01-07.03.2027 (25.12-06.01: 200 zł). W 2025/26 ten sam karnet kosztował 170 zł."
+  },
+  "sources": [
+   "https://www.witow-ski.pl/",
+   "https://www.witow-ski.pl/narty/",
+   "https://www.witow-ski.pl/cennik/",
+   "https://www.witow-ski.pl/szkola-narciarska/",
+   "https://www.witow-ski.pl/wypozyczalnia/",
+   "https://www.witow-ski.pl/kontakt/",
+   "https://tatrysuperski.pl/stacje-narciarskie/witow-ski",
+   "https://tatrysuperski.pl/api/pricelist.json"
+  ]
+ },
+ {
+  "slug": "laskowa-kamionna",
+  "summary": "Stacja na Kamionnej w Beskidzie Wyspowym z najdłuższą trasą około 2 km i kanapą czteroosobową. Dobra na wyjazd z Krakowa czy Tarnowa (bliżej niż Podhale), z jazdą do 19:00 i hotelem przy stoku.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Cztery trasy zjazdowe mają łącznie około 4 km. Najdłuższa liczy około 2000 m, pozostałe 800, 700 i 500 m, a ośrodek ma zarówno odcinki dla początkujących, jak i dla zaawansowanych. Stok jest oświetlony i sztucznie naśnieżany. Ratrak pracuje po zamknięciu, więc w ciągu dnia nie ma przerwy technicznej."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Główny wyciąg to czteroosobowa kanapa TS-4 o długości 1550 m. Uzupełniają ją talerzyk H-180 (1250 m) i krótki talerzyk Stokfisz (240 m) przy terenie dla dzieci. Łączna przepustowość według ośrodka to około 4000 osób na godzinę."
+   },
+   {
+    "title": "Godziny i karnety",
+    "text": "Stok działa od niedzieli do czwartku 9:00-17:00, w piątki, soboty i okresy świąteczne do 19:00. Karnet dzienny 9:00-17:00 kosztuje 160 zł, wieczorny 16:00-19:00 105 zł. Dziecko do 5 lat dostaje taki sam karnet za 1 zł przy zakupie karnetu dla opiekuna."
+   },
+   {
+    "title": "Nocleg przy stoku",
+    "text": "U podnóża stoi Ośrodek Trawers z samoobsługowym zameldowaniem. Nocujący dostają rabat na karnety: 25% przy dwóch dobach, do 50% przy pobycie powyżej pięciu dni. Na miejscu działa szkoła i przedszkole narciarskie, wypożyczalnia, serwis i restauracja."
+   }
+  ],
+  "facts": {
+   "skipass_day_adult": 160,
+   "skipass_currency": "PLN",
+   "address": "Laskowa 697, 34-602 Laskowa",
+   "night_skiing": true,
+   "night_skiing_hours": "pt-sob i okresy świąteczne do 19:00 (karnet wieczorny 16:00-19:00)",
+   "opening_hours": "nd-czw 9:00-17:00, pt-sob 9:00-19:00",
+   "snowmaking": "stok oświetlony i sztucznie naśnieżany",
+   "ski_school": true,
+   "rental": true,
+   "longest_run": "trasa nr 1, ok. 2000 m",
+   "website": "https://www.laskowa-ski.pl",
+   "skipass_season": "2025/26",
+   "skipass_source_url": "https://www.laskowa-ski.pl/karnety-cennik/",
+   "skipass_note": "Karnet dzienny 9:00-17:00, normalny. Cennik na stronie nie ma oznaczenia sezonu ani podziału na sezon wysoki i niski; wisi od zakończenia sezonu 2025/26. Kaucja 10 zł."
+  },
+  "sources": [
+   "https://www.laskowa-ski.pl/stacja-narciarska/",
+   "https://www.laskowa-ski.pl/wyciagi-i-trasy-narciarskie/",
+   "https://www.laskowa-ski.pl/karnety-cennik/",
+   "https://www.laskowa-ski.pl/",
+   "https://www.laskowa-ski.pl/kontakt/"
+  ]
+ },
+ {
+  "slug": "mosorny-gron",
+  "summary": "Stacja PKL w Zawoi pod Babią Górą: jedna czerwona trasa z homologacją FIS (1420 m, 336 m przewyższenia) obsługiwana kanapą czteroosobową. Dla średnio zaawansowanych i lepszych, którzy chcą porządnego nachylenia; początkujący mają tu mało miejsca.",
+  "sections": [
+   {
+    "title": "Trasa",
+    "text": "Jest jedna trasa zjazdowa: czerwona, około 1420 m, z homologacją FIS i 336 m przewyższenia, prowadzi do Zawoi Policzne. Ma łatwiejsze fragmenty i odcinki wymagające pewnej techniki. Jest oświetlona, ratrakowana i dośnieżana. Szczyt ma 1045 m n.p.m."
+   },
+   {
+    "title": "Kolej",
+    "text": "Czteroosobowa kolej krzesełkowa ma 1312 m, a wjazd trwa około 10 minut. To wolniej niż na nowych kanapach, więc w ciągu dnia robi się mniej zjazdów niż sugerowałaby długość trasy. Coroczny przegląd w 2026 roku trwa do 27 listopada."
+   },
+   {
+    "title": "Dla kogo",
+    "text": "Dla narciarzy, którzy przyjeżdżają w okolice Babiej Góry i chcą jednej konkretnej, stromej trasy. Mało tu terenu do nauki, więc dla rodzin z dziećmi na pierwszym wyjeździe są lepsze miejsca. Przy dolnej stacji jest serwis, wypożyczalnia, restauracja i pokoje PKL."
+   },
+   {
+    "title": "Karnety i biegówki",
+    "text": "Mosorny Groń jest w sezonowym skipassie PKL 2026/27 razem z Kasprowym, Gubałówką, Palenicą i Jaworzyną (cena regularna 2799 zł, w przedsprzedaży mniej). Przy dobrej pokrywie przygotowywana jest trasa biegowa 4,6 km."
+   }
+  ],
+  "facts": {
+   "address": "Zawoja 2525, 34-223 Zawoja",
+   "snowmaking": "trasa główna dośnieżana",
+   "rental": true,
+   "longest_run": "trasa główna (czerwona, FIS), ok. 1420 m",
+   "website": "https://www.pkl.pl/mosorny-gron/mosorny-gron.html"
+  },
+  "sources": [
+   "https://www.pkl.pl/mosorny-gron/koleje-i-trasy.html",
+   "https://www.pkl.pl/mosorny-gron/mosorny-gron.html",
+   "https://www.pkl.pl/mosorny-gron/skipassy-sezonowe.html",
+   "https://www.pkl.pl/mosorny-gron/cennik.html",
+   "https://visitmalopolska.pl/obiekt/-/poi/osrodek-turystyczno-narciarski-mosorny-gron"
+  ]
+ },
+ {
+  "slug": "donovaly",
+  "summary": "Ośrodek na przełęczy Donovaly, między Wielką Fatrą a Starohorskimi Wierchami, przy drodze z Bańskiej Bystrzycy do Rużomberku. Około 11 km głównie łatwych i średnich tras w dwóch częściach, Nová hoľa i Záhradište; dobry na wyjazd z dziećmi i dla osób uczących się jeździć.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Tras jest około 11 km, rozłożonych na dwa zbocza po obu stronach przełęczy: Nová hoľa i Záhradište. Według skiresort.info około 5 km to trasy łatwe, około 5,9 km średnie, a trudnych jest tylko około 100 m. Ośrodek leży na wysokości od około 914 do 1361 m n.p.m. (skiresort.info; Wikipedia podaje 910 do 1402 m dla całego terenu), więc różnica wysokości wynosi około 450 m. Na Záhradišti część tras jest oświetlona i czynna wieczorem."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Główną koleją jest Telemix na Novą hoľę firmy POMA z 2006 roku, łącząca 6-osobowe krzesełka i 8-osobowe gondole na jednej linie. Na Záhradište prowadzi 4-osobowa kanapa Bully Express. Resztę stanowią orczyki i talerzyki; Wikipedia podaje łącznie 17 wyciągów i kolei."
+   },
+   {
+    "title": "Skipass",
+    "text": "Cennik 2026/27 ma trzy okresy: pierwszy śnieg do 20.12.2026, sezon świąteczny 21.12.2026 do 6.01.2027 i sezon główny 7.01 do 7.03.2027. W sezonie głównym dzienny karnet dla dorosłego kosztuje w kasie 47 €, w okresie świątecznym 57 €, przed świętami 34 €. Online, przy zakupie co najmniej dzień wcześniej, każdy karnet jest o 4 € tańszy. Jest też karnet 8-godzinny do wykorzystania w dowolne dni sezonu oraz karnet wieczorny na Záhradište (16:00 do 20:00)."
+   },
+   {
+    "title": "Dla kogo",
+    "text": "Przeważają trasy łatwe i średnie, więc ośrodek dobrze sprawdza się przy nauce jazdy i na rodzinnych wyjazdach. Działają szkoły narciarskie i snowboardowe, wypożyczalnia z serwisem oraz snowpark Riders Park. Dzieci do 6 lat jeżdżą bezpłatnie. Osoby szukające długich, stromych zjazdów znajdą tu niewiele."
+   },
+   {
+    "title": "Dojazd i parking",
+    "text": "Donovaly leżą przy drodze nr 59 (E77) między Bańską Bystrzycą a Rużomberkiem. Parkingi P1 i P2 są przy dolnej stacji kolei na Novą hoľę, P3 przy Záhradišti. Parkingi są płatne (w sezonie 2025/26 5 € za dobę), ale z ważnym skipassem co najmniej 4-godzinnym postój w dniu jazdy jest bezpłatny."
+   }
+  ],
+  "facts": {
+   "night_skiing": true,
+   "snowmaking": "trasy naśnieżane (ośrodek nie podaje, jaka część)",
+   "snowpark": true,
+   "ski_school": true,
+   "rental": true,
+   "parking": "płatny, P1 i P2 przy kolei Telemix na Novą hoľę, P3 przy Záhradišti; 5 € za dobę (2025/26), bezpłatnie ze skipassem min. 4-godzinnym w dniu jazdy",
+   "website": "https://www.parksnow.sk",
+   "skipass_day_adult": 47,
+   "skipass_currency": "EUR",
+   "skipass_season": "2026/27",
+   "skipass_source_url": "https://www.parksnow.sk/sk/zima/cennik/",
+   "skipass_note": "Cena w kasie, sezon główny 7.01-7.03.2027. Okres świąteczny 21.12.2026-6.01.2027: 57 €, pierwszy śnieg do 20.12.2026: 34 €. Online (min. dzień wcześniej) 4 € taniej."
+  },
+  "sources": [
+   "https://www.parksnow.sk/sk/zima/cennik/",
+   "https://www.parksnow.sk/en/winter/price-list/",
+   "https://www.parksnow.sk/master/upload/pdf/sk/cennik.pdf",
+   "https://www.parksnow.sk/master/upload/pdf/sk/zlavy2526.pdf",
+   "https://www.parksnow.sk/en/winter/parking/",
+   "https://www.parksnow.sk/en/winter/",
+   "https://en.wikipedia.org/wiki/Donovaly",
+   "https://www.skiresort.info/ski-resort/donovaly-park-snow/"
+  ]
+ },
+ {
+  "slug": "vratna",
+  "summary": "Ośrodek w Dolinie Vrátnej w Małej Fatrze, z trzema częściami na jednym skipassie: Paseky, Poludňový Grúň i Chleb, łącznie około 14 km tras. Paseky nadają się dla rodzin i początkujących, a Chleb z gondolą i stromą Oštiepkovą muldą dla zaawansowanych, tyle że działa tylko przy dobrym naturalnym śniegu.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Ośrodek podaje około 14 km tras, skiresort.info 14,6 km, z czego 1 km łatwych, 7,9 km średnich i 5,7 km trudnych, na wysokości 600 do 1520 m n.p.m. Na Pasekach są trasy niebieskie, czerwone i czarne, w większości naśnieżane; najdłuższa ma 1550 m. Poludňový Grúň jest przedłużeniem Pasek i ma trudniejsze zjazdy. Na Chlebie są dwie trasy: Oštiepková mulda, według ośrodka najbardziej stroma ratrakowana trasa na Słowacji (miejscami ponad 50%), oraz łatwiejsza Snilovské sedlo. Przy dużej ilości naturalnego śniegu otwierane są strefy freeride z czarnym zjazdem długości 2000 m i 750 m różnicy wysokości. Chleb i Poludňový Grúň ruszają tylko przy dobrych warunkach śniegowych."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Na Chleb (Snilovské sedlo, 1490 m) wjeżdża się 8-osobową koleją gondolową z końca Doliny Vrátnej (740 m), działającą od 2006 roku; na górze stoją dwa wyciągi. Na Paseky do górnej stacji na 1000 m prowadzi 4-osobowa kolej krzesełkowa. Resztę stanowią wyciągi orczykowe i taśmy w strefie dziecięcej; według słowackiej organizacji turystycznej jest 10 wyciągów narciarskich i wyciąg linowy. Wieczorna jazda od 17:00 do 20:00 odbywa się na Pasekach na trasach Slovan i Leitner, w środy, piątki i soboty, a w sezonie TOP (27.12 do 11.01) codziennie."
+   },
+   {
+    "title": "Skipass",
+    "text": "Jeden skipass obejmuje wszystkie wyciągi i koleje, także gondolę na Chleb. W cenniku 2025/26 ceny są maksymalne i takie same w kasie i w e-sklepie. Dzienny karnet dla dorosłego kosztował 39 EUR w okresie 27.12.2025 do 11.01.2026, 35 EUR w weekendy i 25 EUR w dni robocze od 12.01.2026, w środy 19 EUR dla wszystkich, a od 1.03.2026 19 EUR. Jest też przenośny bilet czasowy Flexi na 8 godzin za 80 EUR. Dzieci do 6 lat jeżdżą za 1 EUR z dorosłym, kaucja za kartę wynosi 5 EUR. Cen dziennych na 2026/27 jeszcze nie opublikowano, karnety sezonowe 2026/27 kosztują 299 do 419 EUR dla dorosłego."
+   },
+   {
+    "title": "Dla kogo",
+    "text": "Rodziny z dziećmi mają na Pasekach strefę Mini z dwiema taśmami i dwoma wyciągami dla dzieci oraz strefę Maxi z wyciągiem Leitner, elementami na trasie i pomiarem czasu. W ośrodku działają partnerskie szkoły narciarskie i snowboardowe, wypożyczalnie nart, snowboardów i sprzętu skiturowego oraz serwis. Skiturowcy mają płatne podejście po ratrakowanej trasie na Pasekach (5 EUR). Zaawansowani i freeriderzy jadą na Chleb, ale tylko przy dobrym śniegu; w słabszą zimę zostają same Paseky."
+   },
+   {
+    "title": "Dojazd i parking",
+    "text": "Od strony Żyliny wjeżdża się do Terchovej i około 300 m za kościołem skręca w prawo, od Zázrivej w lewo. Droga prowadzi przez wąwóz Tiesňavy do części Paseky (Starý dvor), a po kolejnych około 3 km do dolnej stacji gondoli na Chleb. Duży parking na Pasekach jest zimą bezpłatny i przeznaczony dla narciarzy. Parking pod gondolą kosztuje 10 EUR za dzień, ale w sezonie zimowym jest wliczony w skipass (numer rejestracyjny podaje się przy zakupie). Między częściami ośrodka i hotelem Boboty kursuje skibus, przystanki autobusowe to Terchová, Vrátna Starý dvor i Terchová, Vrátna výťah."
+   }
+  ],
+  "facts": {
+   "address": "Starý Dvor (Paseky), 013 06 Terchová",
+   "night_skiing": true,
+   "snowmaking": "większość tras na Pasekach i Poludňovým Grúniu naśnieżana, około 7 km",
+   "ski_school": true,
+   "rental": true,
+   "parking": "bezpłatny duży parking na Pasekach dla narciarzy; pod gondolą Chleb 10 EUR/dzień, zimą wliczony w skipass",
+   "longest_run": "na Pasekach 1550 m; przy dobrym śniegu czarny zjazd freeride z Chleba 2000 m",
+   "website": "https://vratna.sk",
+   "skipass_day_adult": 35,
+   "skipass_currency": "EUR",
+   "skipass_season": "2025/26",
+   "skipass_source_url": "https://vratna.sk/cennik-skipasov-2025-26/",
+   "skipass_note": "Cennik 2025/26, sezon główny od 12.01.2026, weekend. W dni robocze 25 EUR, w środy 19 EUR, w okresie 27.12.2025 do 11.01.2026 39 EUR, od 1.03.2026 19 EUR. Ceny dzienne 2026/27 nie są jeszcze opublikowane."
+  },
+  "sources": [
+   "https://vratna.sk/vratna-v-skratke-zima/",
+   "https://vratna.sk/cennik-skipasov-2025-26/",
+   "https://vratna.sk/sezonky-zima-2026-27/",
+   "https://vratna.sk/parkovanie/",
+   "https://vratna.sk/kontakt/",
+   "https://www.skiresort.com/en/ski-resort/vratna/",
+   "https://slovakia.travel/en/vratna-mala-fatra",
+   "https://en.wikipedia.org/wiki/Vr%C3%A1tna_dolina"
+  ]
+ },
+ {
+  "slug": "spindleruv-mlyn",
+  "summary": "Największy ośrodek narciarski po czeskiej stronie Karkonoszy, prowadzony przez grupę Tatry Mountain Resorts. Około 28 km tras, głównie średnich, w kilku częściach wokół miasteczka; dobry na kilkudniowy wyjazd dla osób jeżdżących już pewnie.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Według skiresort.info tras jest około 27,8 km: 10 km łatwych, 15,9 km średnich i 1,9 km trudnych. Ośrodek leży na wysokości od 702 do 1235 m n.p.m., różnica wysokości to około 530 m. Trasy rozłożone są na kilka części: Svatý Petr, Medvědín, Horní Mísečky, Hromovka i Labská. Są też trasy funtrack i stały tor slalomowy."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Skiresort.info podaje 18 wyciągów. Główne to 6-osobowa kolej krzesełkowa Svatý Petr z osłonami i podgrzewanymi siedziskami oraz 4-osobowe kanapy na Medvědín, z Horních Mísečk na Medvědín i na Hromovce. Do tego krzesełka 2- i 3-osobowe (Svatý Petr, Labská) oraz orczyki."
+   },
+   {
+    "title": "Skipass",
+    "text": "Špindlerův Mlýn nie ma stałego cennika: ceny karnetów w kasie, w automatach GOPASS Tickets i w sklepie gopass.travel zmieniają się z dnia na dzień zależnie od terminu, obłożenia i pogody. Najtaniej wychodzi zakup online z wyprzedzeniem. Przykładowo 1.01.2026 karnet 1-dniowy dla dorosłego kosztował w kasie 1990 Kč, online 1590 Kč. Cen dziennych na sezon 2026/27 ośrodek jeszcze nie podał; w sprzedaży jest karnet sezonowy GOPASS SKI, ważny także w Jasnej, Tatrach Wysokich, Szczyrku i na Ještědzie."
+   },
+   {
+    "title": "Dla kogo",
+    "text": "Przeważają trasy średnie, więc ośrodek najlepiej sprawdza się dla osób, które jeżdżą już pewnie. Jest snowpark na Horních Mísečkách, halfpipe, jazda wieczorna na Hromovce, szkoła narciarska SkolMax i wypożyczalnie. Dzieci do 6 lat jeżdżą bezpłatnie. Ośrodek utrzymuje też około 90 km bezpłatnych tras biegowych."
+   },
+   {
+    "title": "Dojazd",
+    "text": "Do Špindlerova Mlýna jedzie się przez Vrchlabí drogą 295 wzdłuż Łaby, odśnieżaną zimą. Z Pragi kursują autobusy z dworca Černý Most. Parking przy kolei na Horních Mísečkách jest płatny od sezonu 2018/19."
+   }
+  ],
+  "facts": {
+   "night_skiing": true,
+   "snowmaking": "trasy naśnieżane (ośrodek nie podaje, jaka część)",
+   "snowpark": true,
+   "ski_school": true,
+   "rental": true,
+   "website": "https://www.skiareal.cz",
+   "skipass_day_adult": 1990,
+   "skipass_currency": "CZK",
+   "skipass_season": "2025/26",
+   "skipass_source_url": "https://www.skiareal.cz/ceniky/jizdenky/denni-skipasy",
+   "skipass_note": "Ceny dynamiczne. Cena w kasie 1.01.2026 (zapis kalkulatora cen w archiwum internetu); tego dnia w automacie GOPASS Tickets 1790 Kč, online 1590 Kč. Cen na sezon 2026/27 jeszcze nie opublikowano."
+  },
+  "sources": [
+   "https://www.skiareal.cz/ceniky/jizdenky/denni-skipasy",
+   "https://web.archive.org/web/20260101133928/https://laravel.skiareal.cz/flexis-skipass/api/spindleruv-mlyn/2026-01-01/do/area1?lang=cs",
+   "https://www.skiareal.cz/gopass/flexi-ceny",
+   "https://www.skiareal.cz/informace/o-nas/vedeli-jste-ze",
+   "https://www.skiareal.cz/informace/o-nas/jak-se-k-nam-dostanete",
+   "https://gopass.travel/CZ/gopass-ski-sezonka-d1_788",
+   "https://www.skiresort.info/ski-resort/spindleruv-mlyn/"
+  ]
+ },
+ {
+  "slug": "cerna-hora-pec",
+  "summary": "Ośrodek we wschodnich Karkonoszach, łączący na jednym karnecie Černą horę nad Janskými Lázněmi, Pec pod Sněžkou, Černý Důl, Velką i Malą Úpę oraz Svobodę nad Úpou. Około 50 km tras w kilku osobnych częściach; dobry na dłuższy pobyt, gdy chce się jeździć codziennie gdzie indziej.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Ośrodek podaje łącznie 50 km tras na jednym karnecie. Na Černej horze jest 17,5 km tras, najdłuższe mają do około 3 km, w Peci pod Sněžkou 14,2 km tras wszystkich stopni trudności, w tym Funline z bandami i falami. Na trasie Sport 3 na Černej horze i w Peci są trasy slalomu giganta z pomiarem czasu."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Na Černą horę z Janských Lázní prowadzi 8-osobowa kolej gondolowa, według ośrodka jedyna taka w Czechach, a na górze działa 6-osobowa kanapa Hofmanky Express z podgrzewanymi siedziskami. W Peci są dwie koleje linowe i 12 wyciągów orczykowych. Černą horę i Pec łączy SkiTour, przejazd narciarski między obiema częściami, zależny od warunków śniegowych."
+   },
+   {
+    "title": "Skipass",
+    "text": "Ceny jednodniowych karnetów są dynamiczne i zależą od dnia. W sezonie 2025/26 karnet 1-dniowy dla dorosłego kosztował w kasie w sezonie głównym 1490 Kč, online od 1149 do 1349 Kč, zależnie od wyprzedzenia. Na sezon 2026/27 ośrodek podaje, że zwykły karnet 1-dniowy kosztuje do 1590 Kč; do 18.12.2026 online sprzedawany jest Flexiskipas za 1250 Kč, ważny w dowolny dzień sezonu. Karnety 5-7 dni obejmują jazdę wieczorną."
+   },
+   {
+    "title": "Dla kogo",
+    "text": "Ośrodek pasuje do rodzin i osób uczących się: na Černej horze i w Peci są parki LIVE z taśmami dla dzieci, działa szkoła narciarska i wypożyczalnie z centrum testowym nart. Wieczorem jeździ się na oświetlonej trasie Protěž na Černej horze (1,6 km) i w wybrane dni na Javorze w Peci. Dla dorosłego z małym dzieckiem (rocznik 2020 i młodsze) jest tańszy pakiet 1+1."
+   },
+   {
+    "title": "Dojazd i skibusy",
+    "text": "Poszczególne części ośrodka łączą skibusy, a po Peci kursują trzy linie miejskie. W szczycie sezonu 2025/26 ośrodek prosił gości jednodniowych o parkowanie w areale KRPA w Svobodzie nad Úpou (Úpská 14), skąd do Janských Lázní jeździł skibus X co 20 minut."
+   }
+  ],
+  "facts": {
+   "night_skiing": true,
+   "ski_school": true,
+   "rental": true,
+   "longest_run": "na Černej horze trasy do około 3 km",
+   "website": "https://www.skiresort.cz",
+   "skipass_day_adult": 1490,
+   "skipass_currency": "CZK",
+   "skipass_season": "2025/26",
+   "skipass_source_url": "https://web.archive.org/web/20260206214151/https://www.skiresort.cz/cenik/31-skiresort-skipas/",
+   "skipass_note": "Cena w kasie, sezon główny do 8.03.2026; online 1149-1349 Kč. Na sezon 2026/27 ośrodek podaje zwykły karnet 1-dniowy do 1590 Kč oraz Flexiskipas online za 1250 Kč (do 18.12.2026)."
+  },
+  "sources": [
+   "https://www.skiresort.cz/cenik/",
+   "https://web.archive.org/web/20260206214151/https://www.skiresort.cz/cenik/31-skiresort-skipas/",
+   "https://web.archive.org/web/20260314052653/https://www.skiresort.cz/cenik/31-celoresortove-skipasy/",
+   "https://www.skiresort.cz/aktivity/flexiskipas/",
+   "https://www.skiresort.cz/skiarealy/cerna-hora/",
+   "https://www.skiresort.cz/skiarealy/pec-pod-snezkou/"
+  ]
+ },
+ {
+  "slug": "kitzsteinhorn-kaprun",
+  "summary": "Lodowcowy ośrodek nad Kaprun w Wysokich Taurach, połączony koleją 3K K-onnection z Maiskogel tuż przy miejscowości. Około 62 km tras na wysokości od 768 do 3029 m n.p.m. i sezon od października do maja; dobry na wczesny i późny wyjazd, także dla freeriderów i snowboardzistów.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Według skiresort.info tras jest 62,5 km: 30,5 km łatwych, 22 km średnich i 10 km trudnych, do tego 8,9 km tras narciarskich (skiroute). Teren zaczyna się w Kaprun na 768 m, a kończy pod szczytem na 3029 m n.p.m., co daje około 2260 m różnicy wysokości. Najwyżej położone trasy biegną po lodowcu Schmiedingerkees. Do najtrudniejszych należy stroma czarna trasa Black Mamba."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Ośrodek ma 24 wyciągi i koleje. Od 2019 roku trójlinowa kolej 3K K-onnection (kabiny 32-osobowe) łączy Maiskogel z Kitzsteinhornem, więc na lodowiec można wjechać prosto z dolnej stacji kolei na Maiskogel w Kaprun. Na górze kursują m.in. Gletscherjet 1 do 4 (funitel i gondole) oraz 8-osobowa kanapa Schmiedingerbahn z osłoną i podgrzewanymi siedzeniami."
+   },
+   {
+    "title": "Lodowiec i sezon",
+    "text": "Dzięki lodowcowi sezon trwa zwykle od połowy października do maja; w sezonie 2026/27 start zaplanowano na 10.10.2026. Jesienią do 26.11.2026 czynny jest tylko Kitzsteinhorn z osobnym cennikiem, Maiskogel otwiera się zimą (karnet dzienny od 5.12.2026). Na lodowcu działają snowparki, m.in. Central Park i Glacier Park, oraz superpipe."
+   },
+   {
+    "title": "Skipass",
+    "text": "Zimą (27.11.2026 do 4.04.2027) obowiązuje Ski ALPIN CARD, ważna na Kitzsteinhornie, Maiskogel i Lechnerbergu oraz w Saalbach Hinterglemm Leogang Fieberbrunn i na Schmittenhöhe w Zell am See, łącznie 408 km tras. W sezonie wysokim (19.12.2026 do 12.03.2027) karnet 1-dniowy dla dorosłego kosztuje 82 €, poza nim 74 €. Jesienią karnet dzienny na sam Kitzsteinhorn kosztuje 74 lub 77 €. Osobny karnet dzienny na Maiskogel i Lechnerberg kosztuje 58 €."
+   },
+   {
+    "title": "Dla kogo",
+    "text": "Najbardziej skorzystają średnio zaawansowani i zaawansowani, którzy chcą jeździć jesienią lub wiosną, oraz freeriderzy i snowboardziści. Dla początkujących są łatwe trasy na lodowcu i na Maiskogel, a małe dzieci (rocznik 2021 i młodsze) jeżdżą bezpłatnie z dorosłym. W soboty dzieci i młodzież z kartą Junior XPLORE kupią karnet dzienny za 15 €."
+   }
+  ],
+  "facts": {
+   "night_skiing": true,
+   "snowpark": true,
+   "ski_school": true,
+   "rental": true,
+   "season": "sezon 2026/27: od 10.10.2026 (Kitzsteinhorn), Ski ALPIN CARD do 4.04.2027",
+   "website": "https://www.kitzsteinhorn.at",
+   "skipass_day_adult": 82,
+   "skipass_currency": "EUR",
+   "skipass_season": "2026/27",
+   "skipass_source_url": "https://www.kitzsteinhorn.at/de/tickets-preise/ski-board",
+   "skipass_note": "Ski ALPIN CARD (Kitzsteinhorn, Maiskogel, Saalbach, Zell am See), sezon wysoki 19.12.2026-12.03.2027. Przed 19.12 i od 13.03.2027: 74 €. Jesień (tylko Kitzsteinhorn): 74 lub 77 €. Maiskogel z Lechnerbergiem: 58 €."
+  },
+  "sources": [
+   "https://www.kitzsteinhorn.at/de/tickets-preise/ski-board",
+   "https://www.skiresort.com/en/ski-resort/kitzsteinhorn-maiskogel-kaprun/",
+   "https://de.wikipedia.org/wiki/Kitzsteinhorn"
+  ]
+ },
+ {
+  "slug": "nassfeld",
+  "summary": "Największy ośrodek narciarski Karyntii, na przełęczy Nassfeld przy granicy z Włochami, nad Tröpolach w dolinie Gail. Około 110 km tras, w większości średnich, na wysokości od około 600 do 2000 m n.p.m.; dobry na tygodniowy wyjazd dla średnio zaawansowanych i rodzin.",
+  "sections": [
+   {
+    "title": "Trasy",
+    "text": "Tras jest około 110 km: 30 km łatwych, 69 km średnich i 11 km trudnych (Wikipedia, skiresort.info). Teren zaczyna się w Tröpolach na około 600 m i sięga około 2000 m n.p.m., więc różnica wysokości wynosi około 1400 m. Ośrodek ma 540 armatek śnieżnych. Oświetlona trasa ma 2,2 km i według Wikipedii jest najdłuższą oświetloną trasą w Alpach."
+   },
+   {
+    "title": "Wyciągi",
+    "text": "Ośrodek podaje 29 kolei i wyciągów, wszystkie po stronie austriackiej. Z Tröpolach na górę jedzie gondola Millennium-Express o długości 6001 m, najdłuższa kolej gondolowa w Austrii; przejazd trwa około 17 minut. Do tego m.in. gondole Trogkofelbahn i Zweikofelbahn oraz szybkie 6-osobowe kanapy; na sezon 2026/27 dochodzi nowa kanapa Sonnleitn-Tressdorfer Alm."
+   },
+   {
+    "title": "Skipass",
+    "text": "W sezonie 2026/27 cennik ma dwa okresy: sezon wysoki 25.12.2026 do 13.03.2027 i niski (4 do 24.12.2026 oraz 14.03 do 4.04.2027). Karnet dzienny dla dorosłego kosztuje 73 € w sezonie wysokim i 67,50 € w niskim. Są też karnety wielodniowe zaczynane od 12:00, karnety 5 i 6 z 7 dni oraz karnety na 5 lub 10 dowolnych dni sezonu. Jazda wieczorna (soboty w styczniu i lutym) kosztuje 10 €."
+   },
+   {
+    "title": "Dla kogo",
+    "text": "Przewaga średnich tras sprawia, że ośrodek najlepiej pasuje średnio zaawansowanym. Dla rodzin są tańsze karnety dziecięce, oferta Kids Surprise (karnet dzienny dla dziecka za 15 €) i bezpłatny karnet dla trzeciego dziecka w pakiecie rodzinnym. Działają szkoły narciarskie, wypożyczalnie i snowpark z linią dla początkujących i linią z czterema skoczniami."
+   },
+   {
+    "title": "Dojazd",
+    "text": "Dolna stacja Millennium-Expressu stoi w Tröpolach w dolinie Gail, około 9 km od Hermagor. Drugim punktem startu jest Sonnenalpe Nassfeld na samej przełęczy (1530 m), do której prowadzi droga z Tröpolach i z włoskiej Pontebby. Sezon 2026/27 trwa od 4.12.2026 do 4.04.2027."
+   }
+  ],
+  "facts": {
+   "night_skiing": true,
+   "snowmaking": "540 armatek śnieżnych",
+   "snowpark": true,
+   "ski_school": true,
+   "rental": true,
+   "season": "sezon 2026/27: 4.12.2026-4.04.2027",
+   "website": "https://www.nassfeld.at",
+   "skipass_day_adult": 73,
+   "skipass_currency": "EUR",
+   "skipass_season": "2026/27",
+   "skipass_source_url": "https://www.nassfeld.at/en/Winter-World/Sun-Ski-World/Skigebiet-Nassfeld/Skipasspreise/Tages-Mehrtageskarten",
+   "skipass_note": "Sezon wysoki 25.12.2026-13.03.2027. Sezon niski (4-24.12.2026 i 14.03-4.04.2027): 67,50 €."
+  },
+  "sources": [
+   "https://www.nassfeld.at/en/Winter-World/Sun-Ski-World/Skigebiet-Nassfeld/Skipasspreise/Tages-Mehrtageskarten",
+   "https://www.nassfeld.at/en/Winter-World/Sun-Ski-World/Skigebiet-Nassfeld/Skipasspreise",
+   "https://www.nassfeld.at/en/Winter-World/Sun-Ski-World/Skigebiet-Nassfeld",
+   "https://de.wikipedia.org/wiki/Nassfeld",
+   "https://www.skiresort.com/en/ski-resort/nassfeld-hermagor/"
+  ]
+ }
+]

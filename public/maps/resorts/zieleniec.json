@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","id":"run-0","properties":{"kind":"run","index":0,"name":null,"difficulty":"novice","lift_type":null},"geometry":{"type":"LineString","coordinates":[[16.38573,50.33499],[16.3856,50.33525],[16.38726,50.33563],[16.38751,50.33565],[16.38573,50.33499]]}}]}

@@ -1,0 +1,377 @@
+[
+  {
+    "slug": "szczyrk-mountain-resort",
+    "name": "Szczyrk Mountain Resort",
+    "town": "Szczyrk",
+    "region": "śląskie",
+    "range": "Beskid Śląski",
+    "website": "https://szczyrkowski.pl",
+    "match": {
+      "name": "Szczyrk Mountain Resort"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "kotelnica-bialczanska",
+    "name": "Kotelnica Białczańska",
+    "town": "Białka Tatrzańska",
+    "region": "małopolskie",
+    "range": "Spisz / Podhale",
+    "website": "https://bialkatatrzanska.pl",
+    "match": {
+      "source": "openstreetmap.org/way/774658440"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "czarna-gora",
+    "name": "Czarna Góra Resort",
+    "town": "Sienna",
+    "region": "dolnośląskie",
+    "range": "Masyw Śnieżnika",
+    "match": {
+      "source": "skimap.org/SkiAreas/view/1866"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "kasprowy-wierch",
+    "name": "Kasprowy Wierch",
+    "town": "Zakopane",
+    "region": "małopolskie",
+    "range": "Tatry",
+    "website": "https://www.pkl.pl/kasprowy-wierch",
+    "match": {
+      "source": "openstreetmap.org/relation/21522812"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "pilsko",
+    "name": "Pilsko (Korbielów)",
+    "town": "Korbielów",
+    "region": "śląskie",
+    "range": "Beskid Żywiecki",
+    "website": "https://pilsko.org",
+    "match": {
+      "name": "Kompleks Pilsko-Jontek"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "dwie-doliny-wierchomla",
+    "name": "Dwie Doliny Muszyna-Wierchomla",
+    "town": "Wierchomla",
+    "region": "małopolskie",
+    "range": "Beskid Sądecki",
+    "match": {
+      "source": "openstreetmap.org/relation/4718160"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "szrenica",
+    "name": "Szrenica Ski Arena",
+    "town": "Szklarska Poręba",
+    "region": "dolnośląskie",
+    "range": "Karkonosze",
+    "match": {
+      "source": "openstreetmap.org/way/1485439851"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "jaworzyna-krynicka",
+    "name": "Jaworzyna Krynicka",
+    "town": "Krynica-Zdrój",
+    "region": "małopolskie",
+    "range": "Beskid Sądecki",
+    "website": "https://www.jaworzynakrynicka.pl",
+    "match": {
+      "name": "Jaworzyna Krynicka"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "slotwiny-arena",
+    "name": "Słotwiny Arena",
+    "town": "Krynica-Zdrój",
+    "region": "małopolskie",
+    "range": "Beskid Sądecki",
+    "website": "https://slotwinyarena.pl",
+    "match": {
+      "name": "Słotwiny Arena"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "karpacz-ski-arena",
+    "name": "Karpacz Ski Arena (Kopa)",
+    "town": "Karpacz",
+    "region": "dolnośląskie",
+    "range": "Karkonosze",
+    "match": {
+      "source": "openstreetmap.org/way/392521875"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "skrzyczne",
+    "name": "COS Szczyrk – Skrzyczne",
+    "town": "Szczyrk",
+    "region": "śląskie",
+    "range": "Beskid Śląski",
+    "match": {
+      "name": "COS Szczyrk"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "zieleniec",
+    "name": "Zieleniec Ski Arena",
+    "town": "Zieleniec (Duszniki-Zdrój)",
+    "region": "dolnośląskie",
+    "range": "Góry Orlickie",
+    "match": {
+      "source": "openstreetmap.org/way/463140311"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "jurgow-ski",
+    "name": "Jurgów Ski",
+    "town": "Jurgów",
+    "region": "małopolskie",
+    "range": "Spisz / Podhale",
+    "website": "https://www.jurgowski.pl",
+    "match": {
+      "source": "openstreetmap.org/relation/4632589"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "czorsztyn-ski",
+    "name": "Czorsztyn-Ski Kluszkowce",
+    "town": "Kluszkowce",
+    "region": "małopolskie",
+    "range": "Pieniny",
+    "match": {
+      "source": "openstreetmap.org/relation/5970221"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "ski-sun-swieradow",
+    "name": "Ski & Sun Świeradów",
+    "town": "Świeradów-Zdrój",
+    "region": "dolnośląskie",
+    "range": "Góry Izerskie",
+    "website": "https://skisun.pl",
+    "match": {
+      "source": "openstreetmap.org/relation/17581866"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "czantoria",
+    "name": "Czantoria",
+    "town": "Ustroń",
+    "region": "śląskie",
+    "range": "Beskid Śląski",
+    "website": "https://www.czantoria.net",
+    "match": {
+      "name": "Czantoria"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "zwardon-ski",
+    "name": "Zwardoń Ski",
+    "town": "Zwardoń",
+    "region": "śląskie",
+    "range": "Beskid Żywiecki",
+    "website": "https://www.zwardonski.pl",
+    "match": {
+      "source": "openstreetmap.org/way/383956600"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "master-ski-tylicz",
+    "name": "Master-Ski Tylicz",
+    "town": "Tylicz",
+    "region": "małopolskie",
+    "range": "Beskid Sądecki",
+    "website": "https://master-ski.pl",
+    "match": {
+      "name": "Master-Ski"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "gora-zar",
+    "name": "Góra Żar",
+    "town": "Międzybrodzie Żywieckie",
+    "region": "śląskie",
+    "range": "Beskid Mały",
+    "website": "https://www.pkl.pl/gora-zar",
+    "match": {
+      "source": "skimap.org/SkiAreas/view/12555"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "harenda",
+    "name": "Harenda",
+    "town": "Zakopane",
+    "region": "małopolskie",
+    "range": "Podhale",
+    "website": "https://www.harendazakopane.pl",
+    "match": {
+      "source": "openstreetmap.org/way/1011850265"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "polana-szymoszkowa",
+    "name": "Polana Szymoszkowa",
+    "town": "Zakopane",
+    "region": "małopolskie",
+    "range": "Podhale",
+    "website": "https://szymoszkowa.pl",
+    "match": {
+      "source": "openstreetmap.org/way/972650488"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "bania-bialka",
+    "name": "Bania Ski",
+    "town": "Białka Tatrzańska",
+    "region": "małopolskie",
+    "range": "Spisz / Podhale",
+    "match": {
+      "source": "openstreetmap.org/way/1158672530"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "rusin-ski",
+    "name": "Rusiń-Ski",
+    "town": "Bukowina Tatrzańska",
+    "region": "małopolskie",
+    "range": "Podhale",
+    "website": "https://rusin-ski.pl",
+    "match": {
+      "source": "openstreetmap.org/way/972046510"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "witow-ski",
+    "name": "Witów Ski",
+    "town": "Witów",
+    "region": "małopolskie",
+    "range": "Podhale",
+    "match": {
+      "source": "skimap.org/SkiAreas/view/12686"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "laskowa-kamionna",
+    "name": "Laskowa-Kamionna",
+    "town": "Laskowa",
+    "region": "małopolskie",
+    "range": "Beskid Wyspowy",
+    "website": "https://laskowa-ski.pl",
+    "match": {
+      "name": "Stacja Narciarska Laskowa-Kamionna"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "mosorny-gron",
+    "name": "Mosorny Groń",
+    "town": "Zawoja",
+    "region": "małopolskie",
+    "range": "Beskid Żywiecki",
+    "website": "https://www.pkl.pl/mosorny-gron",
+    "match": {
+      "source": "skimap.org/SkiAreas/view/12598"
+    },
+    "country": "PL"
+  },
+  {
+    "slug": "donovaly",
+    "name": "Donovaly (Park Snow)",
+    "town": "Donovaly",
+    "region": "kraj bańskobystrzycki",
+    "range": "Wielka Fatra",
+    "website": "https://www.parksnow.sk",
+    "match": {
+      "id": "5e931e2df3f97feffefa0d90fa23a1a594dd3dd7"
+    },
+    "country": "SK"
+  },
+  {
+    "slug": "vratna",
+    "name": "Vrátna Free Time Zone",
+    "town": "Terchová",
+    "region": "kraj żyliński",
+    "range": "Mała Fatra",
+    "website": "https://vratna.sk",
+    "match": {
+      "id": "26ac3476ebcc3ff9c7e4d046d5cff2d674a22d1e"
+    },
+    "country": "SK"
+  },
+  {
+    "slug": "spindleruv-mlyn",
+    "name": "Špindlerův Mlýn",
+    "town": "Špindlerův Mlýn",
+    "region": "kraj hradecki",
+    "range": "Karkonosze",
+    "website": "https://www.skiareal.cz",
+    "match": {
+      "id": "0bd87c732c1cffdf2ef8743e9b73c520a67e6bf4"
+    },
+    "country": "CZ"
+  },
+  {
+    "slug": "cerna-hora-pec",
+    "name": "Černá hora – Pec (SkiResort)",
+    "town": "Janské Lázně i Pec pod Sněžkou",
+    "region": "kraj hradecki",
+    "range": "Karkonosze",
+    "website": "https://www.skiresort.cz",
+    "match": {
+      "id": "583dbc4651db7ebcc7875a11180b634ec108ba8a"
+    },
+    "country": "CZ"
+  },
+  {
+    "slug": "kitzsteinhorn-kaprun",
+    "name": "Kitzsteinhorn Kaprun",
+    "town": "Kaprun",
+    "region": "Salzburg",
+    "range": "Wysokie Taury",
+    "website": "https://www.kitzsteinhorn.at",
+    "match": {
+      "id": "bc0361849d0e6e33ef5d9cd035522200a3125df1"
+    },
+    "country": "AT"
+  },
+  {
+    "slug": "nassfeld",
+    "name": "Nassfeld",
+    "town": "Tröpolach (Hermagor)",
+    "region": "Karyntia",
+    "range": "Alpy Karnickie",
+    "website": "https://www.nassfeld.at",
+    "match": {
+      "id": "5dc251b4f21c4dba246f745b3d00859d183d5d06"
+    },
+    "country": "AT"
+  }
+]

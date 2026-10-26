@@ -1,0 +1,3312 @@
+[
+  {
+    "slug": "atomic-redster-s9-revoshock-s-2025-26",
+    "brand": "Atomic",
+    "model": "Redster S9 Revoshock S + I 12 GW",
+    "family": "Atomic Redster S9",
+    "season": "2025/26",
+    "category": "slalom",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Atomic I 12 GW",
+    "din": "4–12",
+    "rocker": "Active Camber 0/100/0",
+    "construction": "Power Woodcore (jesion/topola), Titanal (TI Powered), Ultrawall, Carbon Boost, Revoshock S",
+    "lengths": [
+      {
+        "length_cm": 155,
+        "tip_mm": 115,
+        "waist_mm": 68,
+        "tail_mm": 101,
+        "radius_m": 11.3
+      },
+      {
+        "length_cm": 160,
+        "tip_mm": 116.5,
+        "waist_mm": 68,
+        "tail_mm": 102.5,
+        "radius_m": 11.9
+      },
+      {
+        "length_cm": 165,
+        "tip_mm": 118,
+        "waist_mm": 68,
+        "tail_mm": 104,
+        "radius_m": 12.5,
+        "weight_g": 3181
+      },
+      {
+        "length_cm": 170,
+        "tip_mm": 119.5,
+        "waist_mm": 68,
+        "tail_mm": 105.5,
+        "radius_m": 13.1
+      }
+    ],
+    "weight_note": "Jedna narta w zestawie; Atomic podaje „Weight per Ski” tylko dla 165 cm i nie precyzuje, czy z wiązaniem (samo wiązanie I 12 GW waży 889 g/szt. wg atomic.com).",
+    "description_pl": "Sportowa narta slalomowa z wiązaniem w zestawie, nastawiona na krótkie, szybkie skręty na twardej trasie. Konstrukcja z drewnianym rdzeniem, tytanalem i tłumieniem drgań Revoshock.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Pełny camber na całej długości i 68 mm pod butem robią z tej narty klasyczną slalomkę na twardy śnieg. W długości 165 cm promień wynosi 12,5 m, więc skręt zamyka się szybko, a narta sama prowadzi do kolejnego łuku. Revoshock S zbiera drgania na wyjeżdżonym stoku, a wkładka Carbon Boost dodaje odbicia na wyjściu ze skrętu. Krawędzie są fabrycznie ustawione na 0,8° od ślizgu i 87° z boku, czyli bliżej sprzętu sportowego niż rekreacyjnego."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla narciarza, który od pierwszego do ostatniego zjazdu jedzie na krawędzi i lubi krótkie, rytmiczne skręty na ratrakowanej trasie. Długość dobiera się wyraźnie poniżej wzrostu: Atomic podaje jako typowe 165 do 170 cm dla mężczyzn i 150 do 165 cm dla kobiet. Sprawdzi się też jako druga para do pracy nad techniką obok narty o dłuższym promieniu."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Wiązanie I 12 GW ma skalę DIN od 4 do 12, co wystarcza większości amatorów, ale ciężki i agresywny narciarz może dojść do górnej granicy. Na długich, szybkich łukach krótki promień przeszkadza i narta chce skręcać ciaśniej, niż się planowało. Po południu, w rozjeżdżonym i miękkim śniegu, wąska talia bez rockera wymaga więcej pracy nogami. Atomic podaje 3181 g na sztukę w zestawie (165 cm), więc to nie jest lekki komplet."
+        }
+      ]
+    },
+    "image": "/images/skis-v/atomic-redster-s9-revoshock-s-2025-26.webp",
+    "image_source": "https://cdn.amersports.com/cdbfffab-ebd3-4caa-a4bc-b49c013b8723/ATP_AASS03628_3_GHO_REDSTER_S9_RVSK_S_I12_GW_FullImageWebOptimized.png?width=1600&height=1600&fit=bounds&quality=90",
+    "source_url": "https://www.atomic.com/en-us/shop/product/redster-s9-revoshock-s-i-12-gw-aa7218.html",
+    "note": "Dane z atomic.com (kod 202600). Ten sam artykuł z wiązaniem I 12 GW był na atomic.com w X 2025 jako „Season 2025” (Atomic numeruje sezon rokiem rozpoczęcia zimy), z tą samą masą 3181 g/165 cm, więc model obejmuje zimę 2025/26 i jest kontynuowany. DIN 4–12 i masa wiązania 889 g ze strony wiązania I 12 GW (atomic.com, archiwum IV 2026). Poziom przyjęty z opisu (race-inspired).",
+    "image_original": "/images/skis/atomic-redster-s9-revoshock-s-2025-26.png"
+  },
+  {
+    "slug": "atomic-redster-g9-revoshock-s-2025-26",
+    "brand": "Atomic",
+    "model": "Redster G9 Revoshock S + I 12 GW",
+    "family": "Atomic Redster G9",
+    "season": "2025/26",
+    "category": "giant-slalom",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Atomic I 12 GW",
+    "din": "4–12",
+    "rocker": "Active Camber 0/100/0",
+    "construction": "Power Woodcore (jesion/topola), Titanal, Ultrawall, Carbon Boost, Revoshock S",
+    "lengths": [
+      {
+        "length_cm": 166,
+        "tip_mm": 110.5,
+        "waist_mm": 67,
+        "tail_mm": 96,
+        "radius_m": 15
+      },
+      {
+        "length_cm": 171,
+        "tip_mm": 110.5,
+        "waist_mm": 67,
+        "tail_mm": 96.5,
+        "radius_m": 16
+      },
+      {
+        "length_cm": 176,
+        "tip_mm": 110.5,
+        "waist_mm": 67,
+        "tail_mm": 96.5,
+        "radius_m": 17,
+        "weight_g": 3291
+      },
+      {
+        "length_cm": 181,
+        "tip_mm": 110.5,
+        "waist_mm": 67,
+        "tail_mm": 97,
+        "radius_m": 18
+      }
+    ],
+    "weight_note": "Jedna narta w zestawie; Atomic podaje „Weight per Ski” tylko dla 176 cm i nie precyzuje, czy z wiązaniem.",
+    "description_pl": "Narta w charakterze giganta do szybkiej jazdy długim skrętem po przygotowanych trasach. Sztywna, z tytanalem i pełną ścianką boczną, sprzedawana z wiązaniem.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Taliowanie 110,5/67/96,5 mm w długości 176 cm daje promień 17 m, czyli geometrię bliską nartom do slalomu giganta w wersji na zwykły stok. Wąska talia i pełny camber trzymają krawędź na zmrożonym porannym ratraku, a płyta pod butem pracuje niezależnie, więc narta ugina się równo na całej długości. Im szybsza jazda, tym spokojniej się zachowuje."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla mocnego narciarza, który na szerokiej, pustej trasie jedzie długim cięciem i nie zwalnia przed każdym łukiem. Atomic zaleca długość od 5 do 10 cm powyżej wzrostu, a niższym i lżejszym osobom długość równą wzrostowi. Dobra propozycja dla kogoś, kto po latach na rekreacyjnych nartach chce sprzętu o charakterze zawodniczym, ale bez kupowania narty FIS."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Na zatłoczonym stoku i przy małej prędkości narta jest trudna do skręcenia, bo promień od 15 do 18 m nie sprzyja szybkim zmianom kierunku. Wymaga stałego nacisku na przód buta; jazda z odchyleniem do tyłu szybko się mści. Komplet z wiązaniem I 12 GW (DIN 4 do 12) jest ciężki: Atomic podaje 3291 g na sztukę w długości 176 cm."
+        }
+      ]
+    },
+    "image": "/images/skis-v/atomic-redster-g9-revoshock-s-2025-26.webp",
+    "image_source": "https://cdn.amersports.com/cb6ce34f-0771-44f7-9b69-b49c0145108f/ATP_AASS03626_3_GHO_REDSTER_G9_RVSK_S_I12_GW_FullImageWebOptimized.png?width=1600&height=1600&fit=bounds&quality=90",
+    "source_url": "https://www.atomic.com/en-us/products/redster-g9-revoshock-s-i-12-gw-aa7217-202600",
+    "note": "Dane z atomic.com (kod 202600). Wersja z I 12 GW (AA7217) była już na atomic.com w X 2025, czyli w sezonie 2025/26; poprzednia wersja z X 12 GW miała inną geometrię (zob. rocznik 2024/25). DIN 4–12 ze strony wiązania I 12 GW. Poziom przyjęty z opisu (race-inspired).",
+    "image_original": "/images/skis/atomic-redster-g9-revoshock-s-2025-26.png"
+  },
+  {
+    "slug": "atomic-cloud-q9-2025-26",
+    "brand": "Atomic",
+    "model": "Cloud Q9 + M 10 GW",
+    "family": "Atomic Cloud Q9",
+    "season": "2025/26",
+    "category": "on-piste",
+    "levels": [
+      "intermediate"
+    ],
+    "gender": "women",
+    "system_binding": true,
+    "binding": "Atomic M 10 GW",
+    "din": "3–10",
+    "rocker": "Active Camber 0/100/0",
+    "construction": "Light Woodcore (topola) + Densolite, TI Stabilizer (1 warstwa Titanalu), Duracap Sidewall",
+    "lengths": [
+      {
+        "length_cm": 140,
+        "tip_mm": 115,
+        "waist_mm": 74.5,
+        "tail_mm": 98.5,
+        "radius_m": 12.1
+      },
+      {
+        "length_cm": 147,
+        "tip_mm": 117.5,
+        "waist_mm": 75,
+        "tail_mm": 101,
+        "radius_m": 12.7
+      },
+      {
+        "length_cm": 154,
+        "tip_mm": 119.5,
+        "waist_mm": 75.5,
+        "tail_mm": 103,
+        "radius_m": 13.5,
+        "weight_g": 2395
+      },
+      {
+        "length_cm": 161,
+        "tip_mm": 121.5,
+        "waist_mm": 76,
+        "tail_mm": 105,
+        "radius_m": 14.3
+      },
+      {
+        "length_cm": 169,
+        "tip_mm": 123.5,
+        "waist_mm": 76.5,
+        "tail_mm": 107,
+        "radius_m": 15.3
+      }
+    ],
+    "weight_note": "Jedna narta w zestawie; Atomic podaje „Weight per Ski” tylko dla 154 cm i nie precyzuje, czy z wiązaniem.",
+    "description_pl": "Damska narta trasowa dla średnio zaawansowanych narciarek, lekka i łatwa w prowadzeniu. Wielopromieniowe taliowanie pozwala jeździć zarówno krótkim, jak i długim skrętem.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Damska narta na trasę z talią około 75 mm, zbudowana na lekkim rdzeniu z topoli i Densolite z jedną warstwą tytanalu (TI Stabilizer). Ta warstwa uspokaja nartę przy większej prędkości, ale nie robi z niej twardej deski. Promień w 154 cm to 13,5 m, więc chętnie skręca krótko, a przy mocniejszym zakrawędziowaniu trzyma też dłuższy łuk. Ślizg ma fabryczny kąt 1°, łagodniejszy niż w Redsterach, co ułatwia wejście w skręt."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla narciarki średniozaawansowanej, która jeździ już równolegle i chce zacząć prowadzić skręt na krawędzi. Długości od 140 do 169 cm pozwalają dopasować nartę zarówno drobnej, jak i wysokiej osobie. Dobrze sprawdzi się na tygodniowym wyjeździe, gdy warunki zmieniają się od twardego poranka do miękkiego popołudnia."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Wiązanie M 10 GW ma skalę DIN od 3 do 10, więc cięższa i szybko jeżdżąca narciarka powinna sprawdzić w serwisie, czy jej nastawa mieści się z zapasem. Narta nie jest przeznaczona do jazdy poza trasą. Kto jeździ bardzo dynamicznie, z czasem dojdzie do granic tej konstrukcji i zacznie szukać narty z dwiema warstwami metalu."
+        }
+      ]
+    },
+    "image": "/images/skis-v/atomic-cloud-q9-2025-26.webp",
+    "image_source": "https://cdn.amersports.com/0a56f61d-ad13-46f5-a9ba-b4b001299300/ATP_AASS03774_3_GHO_CLOUD_Q9_M_10_GW_FullImageWebOptimized.png?width=1600&height=1600&fit=bounds&quality=90",
+    "source_url": "https://www.atomic.com/en-us/products/cloud-q9-m-10-gw-aa7479-202600",
+    "note": "Dane z atomic.com (kod 202600). DIN 3–10 ze strony wiązania M 10 GW (atomic.com, archiwum IV 2026). Sezon wg numeracji Atomic jak dla Redster S9/G9.",
+    "image_original": "/images/skis/atomic-cloud-q9-2025-26.png"
+  },
+  {
+    "slug": "rossignol-experience-80-carbon-2025-26",
+    "brand": "Rossignol",
+    "model": "Experience 80 Carbon (Xpress)",
+    "family": "Rossignol Experience 80",
+    "season": "2025/26",
+    "category": "all-mountain",
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Look Xpress 11 GW B83 (opcja w sklepie Rossignol; narty dostępne też bez wiązania)",
+    "din": "3,5–11",
+    "rocker": "All Trail Rocker",
+    "construction": "Rdzeń paulownia, wzmocnienie z włókna węglowego, pełna prostokątna ścianka boczna",
+    "lengths": [
+      {
+        "length_cm": 142,
+        "tip_mm": 125,
+        "waist_mm": 80,
+        "tail_mm": 113,
+        "radius_m": 10,
+        "weight_g": 2900
+      },
+      {
+        "length_cm": 150,
+        "tip_mm": 125,
+        "waist_mm": 80,
+        "tail_mm": 113,
+        "radius_m": 11,
+        "weight_g": 3100
+      },
+      {
+        "length_cm": 158,
+        "tip_mm": 125,
+        "waist_mm": 80,
+        "tail_mm": 113,
+        "radius_m": 13,
+        "weight_g": 3200
+      },
+      {
+        "length_cm": 166,
+        "tip_mm": 125,
+        "waist_mm": 80,
+        "tail_mm": 113,
+        "radius_m": 14,
+        "weight_g": 3400
+      },
+      {
+        "length_cm": 174,
+        "tip_mm": 125,
+        "waist_mm": 80,
+        "tail_mm": 113,
+        "radius_m": 16,
+        "weight_g": 3500
+      },
+      {
+        "length_cm": 182,
+        "tip_mm": 125,
+        "waist_mm": 80,
+        "tail_mm": 113,
+        "radius_m": 18,
+        "weight_g": 3600
+      }
+    ],
+    "weight_note": "Para nart, bez wiązania (Rossignol: „Ski weight (kg/pair)”).",
+    "description_pl": "Lekka, uniwersalna narta dla początkujących i średnio zaawansowanych, łatwa w skręcie i wybaczająca błędy. Sprawdza się głównie na trasie, z zapasem na miękki śnieg.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Lekka narta all-mountain z rdzeniem z paulowni i wzmocnieniem z włókna węglowego, bez metalu. Profil All Trail Rocker podnosi dziób, więc narta łatwo wchodzi w skręt i nie łapie krawędzi w rozjeżdżonym śniegu. Mimo niskiej wagi ma pełną, prostokątną ściankę boczną, która poprawia trzymanie na twardym. Rossignol zostawia wymiary 125/80/113 mm we wszystkich długościach i zmienia tylko promień, od 10 m w 142 cm do 18 m w 182 cm."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla osoby początkującej lub średniozaawansowanej, która opanowała skręt równoległy i chce zjeżdżać całe trasy bez zmęczenia. 80 mm pod butem pozwala zjechać po miękkim śniegu przy brzegu trasy, a na ratraku nadal jeździ się wygodnie. Rossignol podaje 3,4 kg na parę w długości 166 cm, co docenią osoby noszące narty z parkingu."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Na twardym, zmrożonym stoku przy dużej prędkości lekka konstrukcja bez tytanalu zaczyna drgać i trzeba zwolnić. Narta ma płytę Xpress, więc wybór wiązań ogranicza się do systemu Look Xpress; producent oferuje do niej Xpress 11 GW o skali DIN od 3,5 do 11. Najkrótsze długości mają bardzo mały promień, co przy wyższej prędkości daje nerwową reakcję."
+        }
+      ]
+    },
+    "image": "/images/skis-v/rossignol-experience-80-carbon-2025-26.webp",
+    "image_source": "https://www.rossignol.com/dw/image/v2/BJJZ_PRD/on/demandware.static/-/Sites-rossignol-catalog/default/dw0199ad4f/images/large/RANFS01000_72DPI_01_v00.jpg?sw=1200",
+    "source_url": "https://www.rossignol.com/si-en/mens-all-mountain-skis-experience-80-carbon--xpress--RANFS01000.html",
+    "note": "Dane z rossignol.com (si-en). Strona: „Skis without bindings” z opcją Xpress 11 GW B83; DIN 3,5–11 z look-bindings.com. Poziom wg producenta: Beginner–Intermediate. Sezon niepewny: kod RANFS01000 ma tę samą literę sezonu co Hero Elite ST Ti RANPH01000 („Neue Kollektion 2025”, czyli 2024/25), więc model może pochodzić z kolekcji 2024/25.",
+    "image_original": "/images/skis/rossignol-experience-80-carbon-2025-26.jpg"
+  },
+  {
+    "slug": "rossignol-hero-elite-st-ti-2026-27",
+    "brand": "Rossignol",
+    "model": "Hero ST Ti Konect",
+    "family": "Rossignol Hero ST Ti",
+    "season": "2026/27",
+    "category": "slalom",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": false,
+    "binding": "Brak w zestawie (interfejs Konect); opcje producenta: Look NX 12 Konect GW B80 lub SPX 14 Konect GW B80",
+    "din": "3,5–12 (NX 12 Konect GW) / 5–14 (SPX 14 Konect GW)",
+    "rocker": "Tip Rocker",
+    "construction": "Rdzeń bukowy PEFC, 1 pełna warstwa Titanalu, pełna prostokątna ścianka boczna, LCT, V-Profile, Power Tip, Predictive Sidecut",
+    "lengths": [
+      {
+        "length_cm": 157,
+        "tip_mm": 123,
+        "waist_mm": 68,
+        "tail_mm": 103,
+        "radius_m": 11
+      },
+      {
+        "length_cm": 162,
+        "tip_mm": 123,
+        "waist_mm": 68,
+        "tail_mm": 103,
+        "radius_m": 12
+      },
+      {
+        "length_cm": 167,
+        "tip_mm": 123,
+        "waist_mm": 68,
+        "tail_mm": 103,
+        "radius_m": 13
+      },
+      {
+        "length_cm": 172,
+        "tip_mm": 123,
+        "waist_mm": 68,
+        "tail_mm": 103,
+        "radius_m": 14
+      }
+    ],
+    "description_pl": "Zwrotna narta w charakterze slalomu dla zaawansowanych, do krótkiego i dynamicznego skrętu na twardej trasie. Przeznaczona wyłącznie do jazdy po przygotowanych stokach.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Następca Hero Elite ST Ti, sprzedawany już pod nazwą Hero ST Ti. Rossignol przebudował dziób (Power Tip łączy się z warstwą tytanalu) i wprowadził Predictive Sidecut, czyli taliowanie o kilku promieniach w różnych fazach skrętu. Zostały bukowy rdzeń, pełna warstwa tytanalu, LCT i 68 mm pod butem. W 167 cm promień wynosi 13 m, a niewielki rocker w dziobie ułatwia założenie krawędzi na początku łuku."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla zaawansowanego i bardzo dobrego narciarza, który jeździ wyłącznie po trasie i lubi krótki skręt slalomowy w szybkim tempie. Producent określa teren jako 100% piste, więc to narta na ratrak, a nie na cały ośrodek. Pasuje komuś, kto chce precyzji slalomki, ale nie jest gotowy na twardość nart zawodniczych."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Narty są sprzedawane bez wiązania, z interfejsem Konect. Do wyboru są Look NX 12 Konect GW (DIN od 3,5 do 12) i SPX 14 Konect GW (DIN od 5 do 14); to drugie ma sens dla ciężkiego albo bardzo szybkiego narciarza. W muldach i w ciężkim, mokrym śniegu wąska talia szybko pokazuje swoje ograniczenia."
+        }
+      ]
+    },
+    "image": "/images/skis-v/rossignol-hero-elite-st-ti-2026-27.webp",
+    "image_source": "https://www.rossignol.com/dw/image/v2/BJJZ_PRD/on/demandware.static/-/Sites-rossignol-catalog/default/dw53696d01/images/large/RAPSD01000_72DPI_01_v01.jpg?sw=1200",
+    "source_url": "https://www.rossignol.com/pl-en/hero-elite-st-ti-alpine-skis-RAPSD01000.html",
+    "note": "rossignol.com (pl-en, RAPSD01000): tytuł strony „HERO ST TI KONECT”, „NEW COLLECTION FW2627”, „Skis without bindings”, poziom Advanced–Expert, teren 100% piste. To następca Hero Elite ST Ti Konect (RANPH01000, 2024/25) pod nową nazwą. Tył 103 mm potwierdzony (poprzednik: 104 mm). Masa 1,9–2,0 kg oznaczona jako „kg/pair” wygląda na masę jednej narty; pominięta. DIN wiązań z look-bindings.com.",
+    "image_original": "/images/skis/rossignol-hero-elite-st-ti-2026-27.jpg"
+  },
+  {
+    "slug": "head-supershape-e-magnum-2025-26",
+    "brand": "Head",
+    "model": "Supershape e-Magnum",
+    "family": "Head Supershape e-Magnum",
+    "season": "2025/26",
+    "category": "on-piste",
+    "levels": [
+      "advanced"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Head (Tyrolia) Protector Evo PR 11 GW",
+    "rocker": "Speedrocker: camber 94%, rocker w dziobie 6%, rocker w ogonie 0%",
+    "construction": "Crossforce Carbon",
+    "lengths": [
+      {
+        "length_cm": 149,
+        "tip_mm": 126,
+        "waist_mm": 72,
+        "tail_mm": 110,
+        "radius_m": 9.7
+      },
+      {
+        "length_cm": 156,
+        "tip_mm": 126,
+        "waist_mm": 72,
+        "tail_mm": 110,
+        "radius_m": 10.8
+      },
+      {
+        "length_cm": 163,
+        "tip_mm": 126,
+        "waist_mm": 72,
+        "tail_mm": 110,
+        "radius_m": 11.9
+      },
+      {
+        "length_cm": 170,
+        "tip_mm": 126,
+        "waist_mm": 72,
+        "tail_mm": 110,
+        "radius_m": 13.1,
+        "weight_g": 2307
+      },
+      {
+        "length_cm": 177,
+        "tip_mm": 126,
+        "waist_mm": 72,
+        "tail_mm": 110,
+        "radius_m": 14.3
+      }
+    ],
+    "weight_note": "Jedna narta bez wiązania, podana dla 170 cm (Head: „Weight per single ski without binding: 2307 g @ Length: 170”).",
+    "description_pl": "Najbardziej uniwersalny model z serii Supershape - sportowa narta trasowa na krótki i średni skręt. Dla pewnych siebie narciarzy jeżdżących szybko po każdym rodzaju stoku.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Najbardziej uniwersalny model w serii Supershape: 72 mm pod butem, 126 mm w dziobie i 110 mm w ogonie. Camber zajmuje 94% długości, a tylko 6% przypada na rocker w dziobie (Head nazywa to Speedrocker), więc narta trzyma krawędź niemal na całej długości. Promień w 170 cm wynosi 13,1 m, co pozwala jechać krótki i średni skręt bez zmiany sprzętu. Crossforce Carbon usztywnia nartę w miejscu, gdzie siła przechodzi z buta na krawędź."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla zaawansowanego narciarza, który większość dnia spędza na przygotowanych trasach i nie chce wybierać między slalomką a gigantką. Szeroki dziób sprawia, że narta reaguje już przy niewielkim zakrawędziowaniu, co pomaga osobom jeżdżącym technicznie, a nie siłowo. Długości od 149 do 177 cm obejmują zarówno lżejsze kobiety, jak i wysokich mężczyzn."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Head podaje 2307 g na jedną nartę bez wiązania w długości 170 cm, więc to sprzęt raczej ciężki. W zestawie jest Protector Evo PR 11 GW; producent nie podaje na stronie skali DIN, a sklepy podają zakres od 3 do 11, co dla ciężkiego narciarza może być na granicy. Szeroki dziób na twardym przy dużej prędkości potrafi wciągnąć w skręt szybciej, niż się chce."
+        }
+      ]
+    },
+    "image": "/images/skis-v/head-supershape-e-magnum-2025-26.webp",
+    "image_source": "https://cdn-mdb.head.com/CDN3/D/313306.SET_31330602/1/1820x2428/supershape-e-magnum-with-binding-protector-evo-pr-11-gw.webp",
+    "source_url": "https://www.head.com/en_US/product/supershape-e-magnum-313306-set",
+    "note": "Pełna tabela z head.com (en_US, art. 313306.SET): długości 149–177, taliowanie 126/72/110 mm podane jednakowo dla każdej długości, promienie 9,7/10,8/11,9/13,1/14,3 m, poziom Advanced. DIN wiązania niepodany przez Head (sklepy: 3–11) – pole din pominięte. Uwaga do sezonu: porównywarka heise.de opisuje art. 313306 jako „Modell 2026/2027” (z wiązaniem PR 13 GW); head.com nie podaje sezonu, więc rocznik 2025/26 nadal niepotwierdzony.",
+    "image_original": "/images/skis/head-supershape-e-magnum-2025-26.webp"
+  },
+  {
+    "slug": "fischer-the-curv-noize-2026-27",
+    "brand": "Fischer",
+    "model": "The Curv Noize + RC4 Z13 GW FF",
+    "family": "Fischer The Curv Noize",
+    "season": "2026/27",
+    "category": "on-piste",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Fischer RC4 Z13 GW Freeflex Brake 85 [D]",
+    "din": "maks. 13 (Fischer podaje tylko górną wartość)",
+    "construction": "Solid Woodcore, Shaped Ti 0.8/0.5, Diagowrap z Carbon Bridge, M-plate, Noize Control, Radical Triple Radius",
+    "lengths": [
+      {
+        "length_cm": 157
+      },
+      {
+        "length_cm": 164
+      },
+      {
+        "length_cm": 171
+      },
+      {
+        "length_cm": 178,
+        "radius_m": 17.5,
+        "weight_g": 2270
+      },
+      {
+        "length_cm": 185
+      }
+    ],
+    "weight_note": "Jedna narta, podana dla 178 cm (Fischer: „Weight per piece 2270 g”, „2270g/178cm”); wiązanie podane osobno: 1170 g.",
+    "geometry_mm": {
+      "tip_mm": 119,
+      "waist_mm": 72,
+      "tail_mm": 103
+    },
+    "description_pl": "Topowa narta trasowa łącząca cechy nart wyczynowych RC4 z wszechstronnością carvingową. Potrójne taliowanie i tłumienie drgań Noize Control dają stabilność przy dużych prędkościach.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Najmocniejsza narta z nowej linii The Curv. Pod butem 72 mm, a taliowanie 119/103 mm jest dość spokojne jak na nartę tej klasy; promień w długości 178 cm wynosi 17,5 m. Fischer łączy pełny drewniany rdzeń z dwiema warstwami tytanalu o różnej grubości (0,8 i 0,5 mm), a Noize Control ma wygaszać drgania na twardym. Radical Triple Radius pozwala skrócić skręt, mimo że nominalny promień jest średni."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla bardzo dobrego narciarza, który jeździ szybko po ratrakach i chce jednej pary zarówno na krótkie, jak i długie skręty. W doborze długości Fischer odejmuje około 2 cm od standardowej rozmiarówki. To propozycja dla kogoś, kto jeździł na sportowych slalomkach lub gigantkach i szuka narty bardziej uniwersalnej, bez utraty trzymania."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "To ciężki komplet: narta waży 2270 g na sztukę w 178 cm, a wiązanie RC4 Z13 GW Freeflex kolejne 1170 g. Dla wiązania Fischer podaje tylko górną wartość DIN, 13. Narta zaczyna pracować przy odpowiedniej prędkości i nacisku, więc spokojna, rekreacyjna jazda niewiele z niej wyciągnie, a w kopnym śniegu poza trasą jest nie na miejscu."
+        }
+      ]
+    },
+    "image": "/images/skis-v/fischer-the-curv-noize-2026-27.webp",
+    "image_source": "https://www.fischersports.com/media/1200x1200/1a/7b/eb/1789999012/p08026_the_curv_noize_01.png",
+    "source_url": "https://www.fischersports.com/the-curv-noize-rc4-z13-gw-ff/P08026",
+    "note": "fischersports.com (P08026): taliowanie 119-72-103 mm bez długości referencyjnej, promień 17,5 m i masa 2270 g dla 178 cm (pola sampleRadiusLength / weight_length), poziom Advanced, Expert, „On-Piste only”, kąty 0,8°/87°. Sezon: Fischer podaje nową kolekcję The Curv w sklepach od 20.01.2026 i online od jesieni 2026; przyjęto 2026/27.",
+    "image_original": "/images/skis/fischer-the-curv-noize-2026-27.jpg"
+  },
+  {
+    "slug": "fischer-the-curv-gt-76-2026-27",
+    "brand": "Fischer",
+    "model": "The Curv GT 76 + RSW10 PR",
+    "family": "Fischer The Curv GT 76",
+    "season": "2026/27",
+    "category": "on-piste",
+    "levels": [
+      "advanced"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Fischer RSW 10 GW Powerrail Brake 85 [G]",
+    "din": "maks. 10 (Fischer podaje tylko górną wartość)",
+    "rocker": "On-Piste Rocker",
+    "construction": "Rdzeń topolowy, Power Ti, Sandwich Sidewall, Twin Powerrail, Diagofiber, E-Triple Radius",
+    "lengths": [
+      {
+        "length_cm": 152
+      },
+      {
+        "length_cm": 159
+      },
+      {
+        "length_cm": 166
+      },
+      {
+        "length_cm": 173,
+        "radius_m": 14.5,
+        "weight_g": 1960
+      },
+      {
+        "length_cm": 180
+      }
+    ],
+    "weight_note": "Jedna narta, podana dla 173 cm (Fischer: „1960g/173cm”); na tej samej stronie widnieje też „Weight per piece 1990 g” bez długości. Wiązanie podane osobno: 920 g.",
+    "geometry_mm": {
+      "tip_mm": 124,
+      "waist_mm": 76,
+      "tail_mm": 107
+    },
+    "description_pl": "Zwinna narta trasowa dla sprawnych narciarzy, nastawiona na zabawę i wszechstronność na różnym śniegu. Wzmocnienie tytanalowe daje stabilność i odbicie.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Łagodniejsza i szersza siostra Curv Noize: 76 mm pod butem, rdzeń z topoli i jedna warstwa Power Ti zamiast dwóch blach. Na karcie produktu Fischer podaje promień 14 m przy taliowaniu 124/76/107 mm, a dla długości 173 cm 14,5 m. Profil On-Piste Rocker i E-Triple Radius ułatwiają wejście w skręt, więc narta skręca chętnie także przy umiarkowanej prędkości."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla zaawansowanego narciarza, który jeździ głównie po trasie, ale nie omija miękkiego śniegu przy brzegu ani rozjeżdżonego popołudnia. Fischer w doborze długości odejmuje około 7 cm od standardowej rozmiarówki, co dobrze oddaje zwrotny charakter tej narty. Pasuje osobom, które chcą jeździć cały dzień bez zmęczenia, a nie bić rekordów prędkości."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Wiązanie RSW 10 GW ma maksymalną nastawę DIN 10, co dla ciężkiego lub agresywnego narciarza może nie wystarczyć. Fischer podaje na tej samej stronie dwa zestawy wymiarów (124/76/107 i 125/76/109 mm) oraz dwie masy (1990 g i 1960 g na sztukę), więc przed zakupem warto potwierdzić dane konkretnej długości. Jedna warstwa metalu i topolowy rdzeń nie dadzą takiego spokoju przy dużej prędkości jak modele z dwiema blachami."
+        }
+      ]
+    },
+    "image": "/images/skis-v/fischer-the-curv-gt-76-2026-27.webp",
+    "image_source": "https://www.fischersports.com/media/1200x1200/77/4c/f9/1790001042/p09526_the_curv_gt_76_01.png",
+    "source_url": "https://www.fischersports.com/the-curv-gt-76-rsw10-pr/P09526V",
+    "note": "fischersports.com (P09526V) podaje sprzeczne dane: na widoku produktu promień 14 m, taliowanie 124/76/107 mm, masa 1990 g/szt.; w danych produktu „Sidecut 125-76-109 mm”, „14,5m/173cm”, „1960g/173cm”. Do długości przypisano tylko wartości jawnie powiązane z 173 cm. Poziom wg Fischera: Advanced.",
+    "image_original": "/images/skis/fischer-the-curv-gt-76-2026-27.jpg"
+  },
+  {
+    "slug": "nordica-enforcer-94-2026-27",
+    "brand": "Nordica",
+    "model": "Enforcer 94",
+    "family": "Nordica Enforcer 94",
+    "season": "2026/27",
+    "category": "all-mountain",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": false,
+    "binding": "Brak w zestawie (narta „flat”); producent sugeruje Marker Griffon 13",
+    "rocker": "All Mountain Rocker",
+    "construction": "Energy 2 Ti Pulse Core: drewniany rdzeń (Performance Wood) + elastomer Pulse Core między 2 warstwami Titanalu, ścianka boczna, True Tip, Unlocked Tail Shape",
+    "lengths": [
+      {
+        "length_cm": 167,
+        "tip_mm": 125,
+        "waist_mm": 94,
+        "tail_mm": 113,
+        "radius_m": 16.5,
+        "weight_g": 3580
+      },
+      {
+        "length_cm": 173,
+        "tip_mm": 126.5,
+        "waist_mm": 94,
+        "tail_mm": 114.5,
+        "radius_m": 17,
+        "weight_g": 3800
+      },
+      {
+        "length_cm": 179,
+        "tip_mm": 127.5,
+        "waist_mm": 94,
+        "tail_mm": 115.5,
+        "radius_m": 17.5,
+        "weight_g": 4080
+      },
+      {
+        "length_cm": 185,
+        "tip_mm": 128.5,
+        "waist_mm": 94,
+        "tail_mm": 116.5,
+        "radius_m": 18,
+        "weight_g": 4260
+      }
+    ],
+    "weight_note": "Para nart bez wiązania (Nordica: „Weight per pair”).",
+    "description_pl": "Mocna narta all-mountain z dwiema warstwami tytanalu, stabilna na trasie i poza nią. Dla narciarzy spędzających większość czasu na trasach, ale szukających też zjazdów w terenie.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Dwie warstwy tytanalu, drewniany rdzeń i elastomerowy Pulse Core między nimi dają nartę ciężką, gładką i bardzo stabilną. Przy 94 mm pod butem i promieniu 17,5 m w długości 179 cm lubi średnie i długie skręty w dużej prędkości. True Tip, czyli drewno doprowadzone do samego dzioba zamiast plastiku ABS, odciąża przód, a Unlocked Tail podnosi ogon, żeby nartę dało się obrócić w ciasnym miejscu."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla zaawansowanego narciarza i eksperta, który jeździ po całym ośrodku: rano po twardym ratraku, później po muldach i kopnym śniegu przy trasie. Nordica pisze wprost, że to narta dla osób spędzających większość czasu na trasach, i tak się nią jeździ: jak szeroką nartą na trasę, a nie jak freeride. Sprawdzi się jako jedyna para na sezon w Alpach."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Masa robi swoje: 4080 g na parę bez wiązania w długości 179 cm. Na ciasnych muldach i przy małej prędkości nartę trzeba prowadzić siłą. Sprzedawana jest bez wiązania; Nordica sugeruje Marker Griffon 13, więc do ceny trzeba doliczyć wiązanie i montaż."
+        }
+      ]
+    },
+    "image": "/images/skis-v/nordica-enforcer-94-2026-27.webp",
+    "image_source": "https://www.nordica.com/storage/Product/0A668300001_ENFORCER_94_FLAT.png",
+    "source_url": "https://www.nordica.com/usa/en/collection/men/skis/enforcer/enforcer-94-flat",
+    "note": "nordica.com/usa (enforcer-94-flat, „Enforcer 94 - 2026/27”): pełna tabela wymiarów, promieni i mas pary dla każdej długości (wcześniejsza „niespójność” 3580 g vs 4260 g to po prostu 167 cm vs 185 cm). Archiwalna strona tej samej narty dla 2025/26 (II 2026) ma identyczną tabelę. Poziom: suwak Beginner–Expert na 4. i 5. polu, przyjęto advanced/expert.",
+    "image_original": "/images/skis/nordica-enforcer-94-2026-27.png"
+  },
+  {
+    "slug": "blizzard-black-pearl-88-2025-26",
+    "brand": "Blizzard",
+    "model": "Black Pearl 88",
+    "family": "Blizzard Black Pearl 88",
+    "season": "2025/26",
+    "category": "all-mountain",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "women",
+    "system_binding": false,
+    "binding": "Brak w zestawie; producent sugeruje Marker Squire 11 (hamulec 90 mm)",
+    "rocker": "Early rise tip & tail, 6 mm camber pod butem",
+    "construction": "W.S.D. FluxForm All Mountain (3 elementy Titanalu) + W.S.D. Trueblend All Mountain Woodcore, ścianka boczna Full ABS",
+    "lengths": [
+      {
+        "length_cm": 146,
+        "tip_mm": 125,
+        "waist_mm": 88,
+        "tail_mm": 107,
+        "radius_m": 11,
+        "weight_g": 2900
+      },
+      {
+        "length_cm": 152,
+        "tip_mm": 125.5,
+        "waist_mm": 88,
+        "tail_mm": 107.5,
+        "radius_m": 12,
+        "weight_g": 3000
+      },
+      {
+        "length_cm": 158,
+        "tip_mm": 126,
+        "waist_mm": 88,
+        "tail_mm": 108,
+        "radius_m": 13,
+        "weight_g": 3200
+      },
+      {
+        "length_cm": 164,
+        "tip_mm": 126.5,
+        "waist_mm": 88,
+        "tail_mm": 108.5,
+        "radius_m": 14,
+        "weight_g": 3360
+      },
+      {
+        "length_cm": 170,
+        "tip_mm": 127.5,
+        "waist_mm": 88,
+        "tail_mm": 109.5,
+        "radius_m": 15,
+        "weight_g": 3540
+      },
+      {
+        "length_cm": 176,
+        "tip_mm": 127.5,
+        "waist_mm": 88,
+        "tail_mm": 109.5,
+        "radius_m": 16.5,
+        "weight_g": 3720
+      }
+    ],
+    "weight_note": "Para nart bez wiązania (Blizzard: „Weight per pair”).",
+    "description_pl": "Damska narta all-mountain o talii 88 mm, łącząca precyzję na trasie z łatwością jazdy w mieszanym śniegu.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Damska narta all-mountain z rdzeniem Trueblend, w którym gęstsze listwy drewna rozmieszczono tak, żeby ugięcie było podobne w każdej długości. FluxForm to trzy osobne elementy z tytanalu zamiast jednej blachy, co daje stabilność przy szybszej jeździe bez utraty elastyczności. Wczesne uniesienie dzioba i ogona przy 6 mm cambera pod butem łatwo wprowadza nartę w skręt, a 88 mm pod butem dobrze radzi sobie w miękkim śniegu."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla narciarki zaawansowanej lub ekspertki, która jeździ po całym ośrodku i chce jednej pary na ratrak, muldy i świeży śnieg przy trasie. Wybór długości jest szeroki, od 146 do 176 cm, z promieniem od 11 do 16,5 m. W 164 cm para waży 3360 g bez wiązania, co jak na nartę z metalem jest wynikiem umiarkowanym."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Na zmrożonym, stromym ratraku szersza talia i uniesione końce dają mniej pewny chwyt niż wąska narta na trasę. Narta jest sprzedawana bez wiązania; Blizzard sugeruje Marker Squire 11 z hamulcem 90 mm. Ciężka i bardzo szybka narciarka może uznać ją za zbyt miękką w długim skręcie."
+        }
+      ]
+    },
+    "image": "/images/skis-v/blizzard-black-pearl-88-2025-26.webp",
+    "image_source": "https://www.blizzard-tecnica.com/storage/Product/8A638000-001_Black_Pearl_88_01.png",
+    "source_url": "https://www.blizzard-tecnica.com/global/en/collection/women/skis/black-pearl/black-pearl-88-2",
+    "note": "blizzard-tecnica.com (global, kod 8A638000001): pełna tabela taliowania, promieni i mas pary dla każdej długości (wartość 125/88/107 i 2900 g to dane dla 146 cm, a 127,5/88/109,5 i 3540 g dla 170 cm, więc strona nie przeczy sobie). Poziom: suwak Beginner–Expert na 4. i 5. polu. Sezon na stronie global niepodany.",
+    "image_original": "/images/skis/blizzard-black-pearl-88-2025-26.png"
+  },
+  {
+    "slug": "salomon-stance-pro-90-2026-27",
+    "brand": "Salomon",
+    "model": "Stance Pro 90",
+    "family": "Salomon Stance Pro 90",
+    "season": "2026/27",
+    "category": "all-mountain",
+    "levels": [
+      "advanced"
+    ],
+    "gender": "unisex",
+    "system_binding": false,
+    "binding": "Brak w zestawie (Salomon: „Contents of Pack: Skis only”)",
+    "rocker": "All-Mountain Profile: rocker przód 12% / camber / rocker tył 16%",
+    "construction": "Rdzeń karuba/topola (Full Woodcore), Double Ti w układzie Twin Frame 2 (nacięcia Ti w dziobie i ogonie, 2 okna CFX), Full Sandwich Sidewalls",
+    "lengths": [
+      {
+        "length_cm": 168,
+        "tip_mm": 122,
+        "waist_mm": 88,
+        "tail_mm": 104,
+        "radius_m": 18
+      },
+      {
+        "length_cm": 176,
+        "tip_mm": 126,
+        "waist_mm": 90,
+        "tail_mm": 108,
+        "radius_m": 18
+      },
+      {
+        "length_cm": 182,
+        "tip_mm": 128,
+        "waist_mm": 90,
+        "tail_mm": 110,
+        "radius_m": 19
+      },
+      {
+        "length_cm": 188,
+        "tip_mm": 130,
+        "waist_mm": 90,
+        "tail_mm": 112,
+        "radius_m": 19
+      }
+    ],
+    "description_pl": "Stabilna narta all-mountain z dwiema warstwami tytanalu na twardy i mieszany śnieg. Talia rośnie z długością, a promień jest średni.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Salomon buduje tę nartę na rdzeniu z karuby i topoli z dwiema warstwami tytanalu w układzie Twin Frame 2, z dodatkowymi nacięciami blachy w dziobie i ogonie oraz dwoma oknami CFX. Rocker zajmuje 12% długości z przodu i 16% z tyłu, a resztę stanowi camber. Promień od 18 do 19 m przy talii 90 mm ustawia ją jako nartę do średnich i długich skrętów, a nie do krótkiego slalomu."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla zaawansowanego narciarza, który dużo i szybko jeździ po twardym i mieszanym śniegu, a od czasu do czasu zjeżdża poza ratrak. Rozmiarówka zaczyna się od 168 cm, więc to raczej propozycja dla wyższych i cięższych osób. Dobrze sprawdzi się na wyjeździe, na którym nie wiadomo, czy trafi się lód, czy opad."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Najkrótsza wersja, 168 cm, ma tylko 88 mm pod butem i węższy dziób, więc prowadzi się trochę inaczej niż pozostałe długości. Narta jest sprzedawana bez wiązania. Salomon podaje masę netto od 3420 do 3810 g bez informacji, czy chodzi o parę, co utrudnia porównanie z innymi modelami."
+        }
+      ]
+    },
+    "image": "/images/skis-v/salomon-stance-pro-90-2026-27.webp",
+    "image_source": "https://cdn.dam.salomon.com/0d76a9f5-b658-41e8-8c83-b31b00bd2aa5/L47827000%2B/PNG-2000px-max-72dpi.png",
+    "source_url": "https://www.salomon.com/en-us/product/stance-pro-90-li8301",
+    "note": "Pobrane z HTML strony (WebFetch dostawał 403). Sezon wnioskowany z oznaczeń FW26 na stronie. 'Net Weight' 3420/3540/3600/3810 g bez określenia para/sztuka - pominięte. Sprzedawane bez wiązania (Skis only).",
+    "image_original": "/images/skis/salomon-stance-pro-90-2026-27.png"
+  },
+  {
+    "slug": "elan-ace-slx-fusion-x-2026-27",
+    "brand": "Elan",
+    "model": "Ace SLX Fusion X",
+    "family": "Elan Ace SLX",
+    "season": "2026/27",
+    "category": "slalom",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Elan EMX 12.0 GW Fusion X B85 (wersja z płytą: ER 14.0 GW Freeflex B85)",
+    "rocker": "Camber",
+    "construction": "Race Frame Woodcore, Dual Ti, Active Suspension Drive, RST Sidewall (Racing Sidewall Technology)",
+    "lengths": [
+      {
+        "length_cm": 145,
+        "radius_m": 10
+      },
+      {
+        "length_cm": 150,
+        "radius_m": 10.6
+      },
+      {
+        "length_cm": 155,
+        "radius_m": 11.4
+      },
+      {
+        "length_cm": 160,
+        "radius_m": 12
+      },
+      {
+        "length_cm": 165,
+        "radius_m": 12.6
+      },
+      {
+        "length_cm": 170,
+        "radius_m": 13.2
+      }
+    ],
+    "geometry_mm": {
+      "tip_mm": 123,
+      "waist_mm": 68,
+      "tail_mm": 104
+    },
+    "description_pl": "Slalomowa narta z linii ACE z dwiema warstwami tytanalu, do krótkiego i ciasnego skrętu. Sprzedawana z wiązaniem EMX 12.0 GW w systemie Fusion X.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Slalomka Elana z dwiema warstwami tytanalu i rdzeniem Race Frame, opisana przez producenta jako specjalistka od krótkiego skrętu. Talia 68 mm i dziób 123 mm przy promieniu 12,6 m w długości 165 cm dają szybkie wejście w skręt i mocne odbicie na wyjściu. Active Suspension Drive ma tłumić drgania na twardym, a ścianka boczna RST pochodzi z nart zawodniczych."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla zaawansowanego narciarza i eksperta, który jeździ technicznie na twardym i chce krótkiej, żywej narty. Rozmiarówka od 145 cm pozwala dobrać ją także drobnym kobietom i juniorom przechodzącym na sprzęt dla dorosłych. Kto potrzebuje mocniejszego podparcia, może wybrać wersję z płytą i wiązaniem ER 14.0 GW Freeflex."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Strona kolekcji przypisuje wszystkim nartom ACE ten sam zakres poziomów, co w przypadku SLX mija się z rzeczywistością: to nie jest narta dla początkującego. Elan nie podaje w opisie kolekcji skali DIN wiązania EMX 12.0 GW, trzeba ją sprawdzić u sprzedawcy. W długich, szybkich skrętach krótki promień ogranicza nartę."
+        }
+      ]
+    },
+    "image": "/images/skis-v/elan-ace-slx-fusion-x-2026-27.webp",
+    "image_source": "https://documents.elanskis.com/ace/ACE%20SLX%20EMX12%20GW%20Fusion%20X_3D.png",
+    "source_url": "https://elansports.com/en-us/pages/ace-26-27-collection",
+    "note": "Geometria 123/68/104 mm podana bez długości referencyjnej. Strona kolekcji podaje dla wszystkich modeli ACE ten sam zakres poziomów (beginner/intermediate/expert) - niewiarygodne dla slalomu, przyjęto advanced/expert.",
+    "image_original": "/images/skis/elan-ace-slx-fusion-x-2026-27.png"
+  },
+  {
+    "slug": "elan-ace-sc5-shift-x-2026-27",
+    "brand": "Elan",
+    "model": "Ace SC5 Shift X",
+    "family": "Elan Ace SC5",
+    "season": "2026/27",
+    "category": "on-piste",
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Elan EL 10.0 GW Shift B78",
+    "rocker": "Camber",
+    "construction": "Power Woodcore, Mono Ti, TractionTip, Active Suspension Drive, RST Sidewall",
+    "lengths": [
+      {
+        "length_cm": 144,
+        "radius_m": 10.7
+      },
+      {
+        "length_cm": 151,
+        "radius_m": 11.5
+      },
+      {
+        "length_cm": 158,
+        "radius_m": 12
+      },
+      {
+        "length_cm": 165,
+        "radius_m": 12.7
+      },
+      {
+        "length_cm": 172,
+        "radius_m": 13.5
+      },
+      {
+        "length_cm": 179,
+        "radius_m": 14.7
+      }
+    ],
+    "geometry_mm": {
+      "tip_mm": 127,
+      "waist_mm": 72,
+      "tail_mm": 110
+    },
+    "description_pl": "Najprzystępniejszy model trasowej linii ACE, z jedną warstwą tytanalu i wiązaniem EL 10.0 GW w zestawie. Dobry wybór dla osób rozwijających technikę carvingu.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Elan opisuje ją jako najłatwiejszą nartę do carvingu w linii ACE. Ma jedną warstwę tytanalu, rdzeń Power Woodcore i szeroki dziób 127 mm przy 72 mm pod butem, więc wchodzi w skręt prawie bez wysiłku. TractionTip, czyli wypukłość krawędzi w dziobie, pomaga złapać śnieg na początku łuku. Promień 12,7 m w 165 cm sprzyja krótkim i średnim skrętom."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla narciarza, który ma za sobą pierwsze sezony, i dla średniozaawansowanego, który chce nauczyć się jazdy na krawędzi. Rozmiarówka od 144 do 179 cm pozwala dobrać ją praktycznie każdemu. Szybko daje poczucie, że narta sama prowadzi skręt, co pomaga na początku nauki carvingu."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Wiązanie EL 10.0 GW Shift jest lekkie i proste, ale Elan nie podaje jego skali DIN, więc cięższy narciarz powinien sprawdzić w serwisie, czy jego nastawa się mieści. Przy dużej prędkości jedna warstwa metalu i miękki dziób szybko pokażą granicę stabilności. Kto w sezonie robi duże postępy, może z niej wyrosnąć po roku lub dwóch."
+        }
+      ]
+    },
+    "image": "/images/skis-v/elan-ace-sc5-shift-x-2026-27.webp",
+    "image_source": "https://documents.elanskis.com/ace/ACE%20SC5%20EL10%20GW%20ShiftX_3D.png",
+    "source_url": "https://elansports.com/en-us/pages/ace-26-27-collection",
+    "note": "Poziomy przyjęte z pozycji modelu w linii (najniższy z ACE); strona podaje dla wszystkich modeli beginner/intermediate/expert. Geometria 127/72/110 mm bez długości referencyjnej.",
+    "image_original": "/images/skis/elan-ace-sc5-shift-x-2026-27.png"
+  },
+  {
+    "slug": "volkl-peregrine-80-2026-27",
+    "brand": "Völkl",
+    "model": "Peregrine 80",
+    "family": "Völkl Peregrine 80",
+    "season": "2026/27",
+    "category": "on-piste",
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Marker Lowride 12 TCX (Lowride + LR 12 TCX, 90 mm), szyna iPT Lowride XL",
+    "rocker": "Tip & Tail Rocker",
+    "construction": "3D Multilayer Woodcore, Titanal Band, Tailored Carbon Tips, 3D.Glass, Tailored Glass Frame, Full Sidewall ABS",
+    "lengths": [
+      {
+        "length_cm": 162,
+        "tip_mm": 126,
+        "waist_mm": 80,
+        "tail_mm": 109,
+        "radius_m": 12,
+        "weight_g": 1750
+      },
+      {
+        "length_cm": 167,
+        "tip_mm": 126,
+        "waist_mm": 80,
+        "tail_mm": 109,
+        "radius_m": 13,
+        "weight_g": 1810
+      },
+      {
+        "length_cm": 172,
+        "tip_mm": 126,
+        "waist_mm": 80,
+        "tail_mm": 109,
+        "radius_m": 14,
+        "weight_g": 1880
+      },
+      {
+        "length_cm": 177,
+        "tip_mm": 126,
+        "waist_mm": 80,
+        "tail_mm": 109,
+        "radius_m": 15,
+        "weight_g": 1970
+      },
+      {
+        "length_cm": 182,
+        "tip_mm": 126,
+        "waist_mm": 80,
+        "tail_mm": 109,
+        "radius_m": 16,
+        "weight_g": 2030
+      }
+    ],
+    "weight_note": "Jedna narta bez wiązania (Völkl: „Weight Without Binding”); z wiązaniem 2840 g/szt. dla 162 cm.",
+    "description_pl": "Następca Deacona 80 - wszechstronna narta carvingowa na trasę i mieszany śnieg. Taliowanie 3D Radius łączy krótki promień pod butem z dłuższym na końcach.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Następca Deacona 80, z wąskim pasem tytanalu biegnącym środkiem narty od dzioba do ogona zamiast pełnej blachy. 3D Radius Sidecut łączy ciasny promień pod butem (14 m w 172 cm) z długimi promieniami w dziobie i ogonie, więc narta skręca krótko przy małej prędkości i nie wciąga w łuk przy wyjściu. Dziób i ogon mają rocker, a Tailored Carbon Tips odciążają przód."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla narciarza średniozaawansowanego i zaawansowanego, który chce wygodnej narty na trasę i mieszany śnieg. Völkl wprost wymienia niższych i lżejszych narciarzy oraz osoby wracające po kontuzji. W zestawie jest wiązanie Lowride 12 z piętką TCX, w które łatwo się wpiąć i z którego łatwo wyjść."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Kto jeździł na Deaconie 80, poczuje wyraźnie łagodniejszą i bardziej miękką nartę, która przy szybkiej jeździe po lodzie odda pole mocniejszym modelom. Komplet z wiązaniem waży 2840 g na sztukę w najkrótszej długości 162 cm. Völkl nie montuje wiązań fabrycznie, więc trzeba je zamontować i ustawić w serwisie."
+        }
+      ]
+    },
+    "image": "/images/skis-v/volkl-peregrine-80-2026-27.webp",
+    "image_source": "https://cdn.media.amplience.net/s/k2skis/volkl_2627_peregrine-80_V2610042?w=1600&qlt=90&fmt=png",
+    "source_url": "https://volkl.com/en-us/p/peregrine-80-skis-v2610042",
+    "note": "volkl.com (en-us, V2610042, „Peregrine 80 Skis 2027”): pełna tabela taliowania 126/80/109 mm, promieni 3D Radius (R1 dziób 22–29 m, R3 środek 12–16 m, R4 ogon 20–25 m; radius_m = R3) i mas bez wiązania. Poziom: suwak Beginner–Professional ustawiony na 70%, opis mówi o łatwej dostępności i nartach „especially forgiving” – przyjęto intermediate/advanced. Wiązanie w zestawie („Includes Binding: Yes”), ale niezamontowane. DIN Lowride 12 TCX niepodany przez Völkl/Marker na tej stronie (sklepy: 4–12) – pominięty.",
+    "image_original": "/images/skis/volkl-peregrine-80-2026-27.png"
+  },
+  {
+    "slug": "stockli-laser-sl-2025-26",
+    "brand": "Stöckli",
+    "model": "Laser SL",
+    "family": "Stöckli Laser SL",
+    "season": "2025/26",
+    "category": "slalom",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": false,
+    "binding": "Brak w zestawie (wiązanie wybierane osobno)",
+    "construction": "Sandwich, Piste Race Core (drewno z bukiem), warstwa aluminium z Flex Torsion Control, Carbon Power Turn, Full Edge Contact, Solid Metal Edge, Size Optimized Construction, Racing Sidewalls Black, ślizg Racing-Graphite",
+    "lengths": [
+      {
+        "length_cm": 150,
+        "tip_mm": 120,
+        "waist_mm": 66,
+        "tail_mm": 98,
+        "radius_m": 11
+      },
+      {
+        "length_cm": 155,
+        "tip_mm": 120,
+        "waist_mm": 66,
+        "tail_mm": 98,
+        "radius_m": 11.8
+      },
+      {
+        "length_cm": 160,
+        "tip_mm": 120,
+        "waist_mm": 66,
+        "tail_mm": 98,
+        "radius_m": 12.7
+      },
+      {
+        "length_cm": 165,
+        "tip_mm": 120,
+        "waist_mm": 66,
+        "tail_mm": 98,
+        "radius_m": 13.6
+      },
+      {
+        "length_cm": 170,
+        "tip_mm": 120,
+        "waist_mm": 66,
+        "tail_mm": 98,
+        "radius_m": 14.5
+      }
+    ],
+    "geometry_mm": {
+      "tip_mm": 120,
+      "waist_mm": 66,
+      "tail_mm": 98
+    },
+    "description_pl": "Szwajcarska narta slalomowa w wersji dla amatorów, łatwiejsza w prowadzeniu niż model FIS. Do krótkich, szybkich skrętów na twardej trasie; wiązanie dobierane osobno.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Szwajcarska slalomka z rdzeniem Piste Race Core z dodatkiem buku i warstwą aluminium, w której przy dziobie i ogonie wycięto nacięcia w kształcie litery S (Flex Torsion Control). Dzięki nim końce narty łatwiej się skręcają, co ułatwia wejście w łuk. Talia 66 mm to najwęższa wartość w tym katalogu, a Carbon Power Turn pod płytą wiązania dodaje przyspieszenia na wyjściu ze skrętu."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla zaawansowanego narciarza i eksperta, który na twardej trasie jedzie szybki, krótki skręt i oczekuje starannego wykonania. Stöckli zmienia konstrukcję zależnie od długości (Size Optimized Construction), więc 150 cm jest lżejsza i miększa niż 170 cm. Dobra dla kogoś, kto chce charakteru slalomki bez twardości modelu FIS."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Stöckli podaje promień jako wartość minimalną, np. powyżej 13,6 m dla 165 cm, więc w praktyce łuk jest nieco dłuższy niż liczba w tabeli. Narty kupuje się bez wiązania, które dobiera się osobno z oferty Stöckli lub sprzedawcy. Wąskie 66 mm pod butem nie lubi ciężkiego, mokrego śniegu."
+        }
+      ]
+    },
+    "image": "/images/skis-v/stockli-laser-sl-2025-26.webp",
+    "image_source": "https://www.stoeckli.ch/media/catalog/product/s/t/standard_main_image-standard_ski-41010327-20.png",
+    "source_url": "https://www.stoeckli.ch/usen/ski/ski/race/laser-sl",
+    "note": "stoeckli.ch (usen, art. 41010327-20): taliowanie 120-66-98 mm podane dla każdej długości osobno (identyczne), promień jako wartość minimalna („>11.0” itd.). „Weight kg” 2,96–3,55 bez określenia para/sztuka – pominięte. Sezon wnioskowany ze ścieżek plików „2025_26”.",
+    "image_original": "/images/skis/stockli-laser-sl-2025-26.png"
+  },
+  {
+    "slug": "atomic-redster-s9-2024-25",
+    "brand": "Atomic",
+    "model": "Redster S9 Revoshock S + X 12 GW",
+    "family": "Atomic Redster S9",
+    "season": "2024/25",
+    "category": "slalom",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Atomic X 12 GW",
+    "din": "4–12",
+    "rocker": "Active Camber 0/100/0",
+    "construction": "Power Woodcore (jesion/topola), TI Powered (Titanal), Ultrawall, Revoshock S",
+    "lengths": [
+      {
+        "length_cm": 155,
+        "tip_mm": 115,
+        "waist_mm": 68,
+        "tail_mm": 101,
+        "radius_m": 11.3
+      },
+      {
+        "length_cm": 160,
+        "tip_mm": 116.5,
+        "waist_mm": 68,
+        "tail_mm": 102.5,
+        "radius_m": 11.9
+      },
+      {
+        "length_cm": 165,
+        "tip_mm": 118,
+        "waist_mm": 68,
+        "tail_mm": 104,
+        "radius_m": 12.5,
+        "weight_g": 2991
+      },
+      {
+        "length_cm": 170,
+        "tip_mm": 119.5,
+        "waist_mm": 68,
+        "tail_mm": 105.5,
+        "radius_m": 13.1
+      }
+    ],
+    "weight_note": "Jedna narta w zestawie, podana dla 165 cm (Atomic: „Weight single piece (g) / Size (cm): 2991 / 165”); producent nie precyzuje, czy z wiązaniem.",
+    "description_pl": "Slalomowa narta z tytanalem i tłumieniem Revoshock S, do krótkich skrętów na twardej trasie. Geometria i promienie jak w roczniku 2025/26; różni się głównie wiązaniem (X 12 GW zamiast I 12 GW).",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Ta sama geometria co w nowszym roczniku: 68 mm pod butem, 118 mm w dziobie i promień 12,5 m w długości 165 cm. Pod spodem jest rdzeń z jesionu i topoli, tytanal TI Powered i ścianka Ultrawall, a Revoshock S w dziobie i ogonie tłumi uderzenia na nierównym ratraku. Active Camber na całej długości trzyma krawędź na lodzie, co od razu czuć na porannej trasie."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla dobrego narciarza, który chce sportowej slalomki z wiązaniem w komplecie i nie potrzebuje najnowszego rocznika. Pasuje do treningu krótkiego skrętu i do jazdy na twardych, stromych trasach. Najkrótsze 155 cm z promieniem 11,3 m dobrze sprawdzi się u lżejszych osób i kobiet."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Wiązanie X 12 GW ma skalę DIN od 4 do 12 i waży 973 g na sztukę. Atomic podaje 2991 g na sztukę w zestawie dla 165 cm. Poza twardym śniegiem narta szybko traci sens; w kopnym śniegu i na muldach wymaga dużo siły."
+        },
+        {
+          "title": "Względem nowszego rocznika",
+          "text": "Taliowanie i promienie są identyczne jak w roczniku 2025/26. Zmieniło się wiązanie: tutaj X 12 GW, w nowszym I 12 GW (oba DIN od 4 do 12). Nowszy rocznik ma też wkładkę Carbon Boost, której nie ma w opisie tej wersji, a jego masa w zestawie wynosi 3181 g wobec 2991 g tutaj (165 cm)."
+        }
+      ]
+    },
+    "image": "/images/skis-v/atomic-redster-s9-2024-25.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0670/5135/6456/files/2025-atomic-redster-s9-revoshock-s-with-bindings-aass03408-aass03410.jpg",
+    "source_url": "https://www.skiessentials.com/products/2025-atomic-redster-s9-revoshock-s-with-bindings-aass03408",
+    "note": "Pełna tabela ze strony producenta: atomic.com/en-us Redster S9 Revoshock S + X 12 GW (AA6811, art. AASS03410, „Season 2024” = zima 2024/25 wg numeracji Atomic), archiwum web.archive.org z X 2025. Wiązanie X 12 GW: DIN 4–12, 973 g/szt. (atomic.com, archiwum). Ski Essentials sprzedaje tę wersję jako model „2025”.",
+    "image_original": "/images/skis/atomic-redster-s9-2024-25.jpg"
+  },
+  {
+    "slug": "atomic-redster-g9-2024-25",
+    "brand": "Atomic",
+    "model": "Redster G9 Revoshock S + X 12 GW",
+    "family": "Atomic Redster G9",
+    "season": "2024/25",
+    "category": "giant-slalom",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Atomic X 12 GW",
+    "din": "4–12",
+    "rocker": "Active Camber 0/100/0",
+    "construction": "Power Woodcore (jesion/topola), TI Powered (Titanal), Ultrawall, Revoshock S",
+    "lengths": [
+      {
+        "length_cm": 167,
+        "tip_mm": 108,
+        "waist_mm": 68,
+        "tail_mm": 94.5,
+        "radius_m": 16.6
+      },
+      {
+        "length_cm": 172,
+        "tip_mm": 109,
+        "waist_mm": 68,
+        "tail_mm": 95.5,
+        "radius_m": 17.4
+      },
+      {
+        "length_cm": 177,
+        "tip_mm": 110,
+        "waist_mm": 68,
+        "tail_mm": 96.5,
+        "radius_m": 18.2,
+        "weight_g": 3229
+      },
+      {
+        "length_cm": 182,
+        "tip_mm": 111.5,
+        "waist_mm": 68,
+        "tail_mm": 97.5,
+        "radius_m": 19
+      }
+    ],
+    "weight_note": "Jedna narta w zestawie, podana dla 177 cm (Atomic: „Weight single piece (g) / Size (cm): 3229 / 177”); producent nie precyzuje, czy z wiązaniem.",
+    "description_pl": "Narta w charakterze giganta do długich, szybkich skrętów po przygotowanej trasie, sprzedawana z wiązaniem X 12 GW. W porównaniu z rocznikiem 2025/26 miała inne długości (172-182 zamiast 166-181) i talię 68 mm zamiast 67 mm.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Poprzednia generacja G9: 68 mm pod butem, dziób od 108 do 111,5 mm i promień 18,2 m w długości 177 cm. Rdzeń z jesionu i topoli, tytanal TI Powered, Ultrawall i Revoshock S robią z niej stabilną nartę na długi, szybki łuk po zmrożonym ratraku. Active Camber na całej długości i kąt 0,8° na ślizgu dają ostre, pewne trzymanie."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla mocnego i doświadczonego narciarza, który jeździ szybko po szerokich trasach i chce narty w duchu slalomu giganta z wiązaniem w zestawie. Długości od 167 do 182 cm kierują ją raczej do wyższych i cięższych osób. Dobra okazja dla kogoś, kto szuka tego typu narty z poprzedniego rocznika."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Przy promieniu od 16,6 do 19 m narta niechętnie skraca skręt, więc na zatłoczonym stoku jest męcząca. Wiązanie X 12 GW ma DIN od 4 do 12, a komplet waży 3229 g na sztukę w 177 cm. Wymaga prędkości i stałego nacisku na przód buta."
+        },
+        {
+          "title": "Względem nowszego rocznika",
+          "text": "Rocznik 2025/26 ma przesunięte długości (166 do 181 cm zamiast 167 do 182 cm), dziób 110,5 mm w każdej długości, węższą talię 67 mm i mniejsze promienie, np. 17 m w 176 cm wobec 18,2 m w 177 cm. Nowszy dostał też wkładkę Carbon Boost i wiązanie I 12 GW zamiast X 12 GW. Starsza wersja jest więc spokojniejsza w długim łuku i mniej chętna do jego skracania."
+        }
+      ]
+    },
+    "image": "/images/skis-v/atomic-redster-g9-2024-25.webp",
+    "image_source": "https://checkout.skiessentials.com/cdn/shop/files/2025-atomic-redster-g9-revoshock-s-with-bindings-aass03298-aass03408.jpg",
+    "source_url": "https://checkout.skiessentials.com/products/2025-atomic-redster-g9-revoshock-s-with-bindings-aass03298",
+    "note": "Pełna tabela ze strony producenta: atomic.com/en-us Redster G9 Revoshock S + X 12 GW (AA6810, art. AASS03408, „Season 2024” = zima 2024/25 wg numeracji Atomic; Atomic numeruje sezon rokiem rozpoczęcia zimy, co potwierdza S9 z I 12 GW oznaczona „Season 2025” w X 2025). Archiwum web.archive.org z X 2025. Ta sama geometria była w „Season 2023” (AA6535). Nowa geometria 166–181 / 110,5-67 pojawiła się z wiązaniem I 12 GW w sezonie 2025/26. Ski Essentials (model „2025”) podaje długości 172/177/182; Atomic także 167.",
+    "image_original": "/images/skis/atomic-redster-g9-2024-25.jpg"
+  },
+  {
+    "slug": "rossignol-hero-elite-st-ti-2024-25",
+    "brand": "Rossignol",
+    "model": "Hero Elite ST Ti Konect",
+    "family": "Rossignol Hero ST Ti",
+    "season": "2024/25",
+    "category": "slalom",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": false,
+    "binding": "Brak w zestawie (interfejs Konect); opcja producenta: Look SPX 14 Konect GW B80",
+    "din": "5–14 (SPX 14 Konect GW)",
+    "rocker": "Tip Rocker",
+    "construction": "Rdzeń bukowy PEFC, 1 pełna warstwa Titanalu, pełna prostokątna ścianka boczna, LCT, V-Profile, Oversized Sidecut",
+    "lengths": [
+      {
+        "length_cm": 157,
+        "tip_mm": 123,
+        "waist_mm": 68,
+        "tail_mm": 104,
+        "radius_m": 11
+      },
+      {
+        "length_cm": 162,
+        "tip_mm": 123,
+        "waist_mm": 68,
+        "tail_mm": 104,
+        "radius_m": 12
+      },
+      {
+        "length_cm": 167,
+        "tip_mm": 123,
+        "waist_mm": 68,
+        "tail_mm": 104,
+        "radius_m": 13
+      },
+      {
+        "length_cm": 172,
+        "tip_mm": 123,
+        "waist_mm": 68,
+        "tail_mm": 104,
+        "radius_m": 14
+      }
+    ],
+    "description_pl": "Slalomowa narta z bukowym rdzeniem i tytanalem, do krótkiego skrętu na twardym stoku, w systemie Konect z wiązaniem. Taliowanie i promienie takie same jak w nowszej wersji, która jest sprzedawana bez wiązania.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Slalomowa narta na trasę z bukowym rdzeniem, pełną warstwą tytanalu i technologią LCT, czyli pionową listwą w rdzeniu, która ogranicza wyginanie się narty w przeciwną stronę. Przy 123/68/104 mm i promieniu 13 m w długości 167 cm szybko przechodzi z krawędzi na krawędź. Mocny camber z lekkim rockerem w dziobie daje pewny chwyt na twardym i łatwe założenie skrętu."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla zaawansowanego i bardzo dobrego narciarza, który na ratraku jedzie krótki, dynamiczny skręt w stylu slalomu. Rossignol opisuje ją jako nartę inspirowaną slalomem dla technicznie jeżdżących narciarzy na trasie. Długości od 157 do 172 cm obejmują zarówno lżejsze kobiety, jak i średniej postury mężczyzn."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Według strony producenta narty sprzedawano bez wiązania, z interfejsem Konect i opcjonalnym Look SPX 14 Konect GW o skali DIN od 5 do 14, za mocnym dla lżejszych osób. Promienie od 11 do 14 m Rossignol podaje jako ciąg bez przypisania, więc ich kolejność względem długości jest założeniem. Wąska talia nie lubi mokrego, rozjeżdżonego śniegu."
+        },
+        {
+          "title": "Względem nowszego rocznika",
+          "text": "W 2026/27 Rossignol zmienił nazwę na Hero ST Ti i przebudował nartę: doszły Power Tip w dziobie i taliowanie Predictive Sidecut, a ogon zwęził się ze 104 do 103 mm. Długości, dziób 123 mm, talia 68 mm i promienie zostały takie same. Rdzeń bukowy, pełna warstwa tytanalu, LCT i V-Profile są wspólne dla obu roczników; tutaj taliowanie nosi nazwę Oversized Sidecut."
+        }
+      ]
+    },
+    "image": "/images/skis-v/rossignol-hero-elite-st-ti-2024-25.webp",
+    "image_source": "https://www.lacordee.com/cdn/shop/files/ROS_RRNPH02_ROU.jpg",
+    "source_url": "https://rossignol.com/us-en/unisexs-racing-skis-hero-elite-st-ti-konect-RANPH01000.html",
+    "note": "Strona producenta: rossignol.com/at-de „Unisex Racing Skier Hero Elite ST Ti Konect”, RANPH01000, „Neue Kollektion 2025”, „Ohne Bindungen” (opcja SPX 14 K GW B80), archiwum web.archive.org z IV 2024; taliowanie 123-68-104 dla każdej długości, promienie „11 - 12 - 13 - 14”, masa „1.85 - 1.9 - 1.95 - 2” kg/Paar (nieprawdopodobna dla pary, pominięta). Rodzina zmieniona na „Rossignol Hero ST Ti”, bo następca z 2026/27 nosi nazwę Hero ST Ti Konect. Uwaga: system_binding ustawione na false zgodnie z producentem; jeśli sklep sprzedaje komplet z wiązaniem, przywrócić true i wpisać wiązanie. Zdjęcie (z wiązaniem E13) może pochodzić z innej wersji.",
+    "image_original": "/images/skis/rossignol-hero-elite-st-ti-2024-25.jpg"
+  },
+  {
+    "slug": "nordica-enforcer-94-2024-25",
+    "brand": "Nordica",
+    "model": "Enforcer 94",
+    "family": "Nordica Enforcer 94",
+    "season": "2024/25",
+    "category": "all-mountain",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": false,
+    "rocker": "Rocker/camber/rocker",
+    "construction": "Rdzeń topola/buk, 2 warstwy Titanalu, elastomer Pulse Core, laminat z włókna szklanego, ślizg spiekany",
+    "lengths": [
+      {
+        "length_cm": 167,
+        "radius_m": 16.5
+      },
+      {
+        "length_cm": 173,
+        "radius_m": 17
+      },
+      {
+        "length_cm": 179,
+        "tip_mm": 127.5,
+        "waist_mm": 94,
+        "tail_mm": 115.5,
+        "radius_m": 17.5,
+        "weight_g": 2090
+      },
+      {
+        "length_cm": 185,
+        "radius_m": 18
+      }
+    ],
+    "weight_note": "Jedna narta bez wiązania, 179 cm; wartość deklarowana przez producenta wg testu Blister (zmierzone przez Blister: 2024 i 2035 g).",
+    "description_pl": "Mocna narta all-mountain z tytanalem, stabilna na trasie i w rozjeżdżonym śniegu.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "W tym roczniku Enforcer ma konstrukcję, którą Nordica przedstawia jako nową: rdzeń z topoli i buku, dwie warstwy tytanalu i elastomer Pulse Core. W długości 179 cm ma 127,5/94/115,5 mm i promień 17,5 m, więc najlepiej czuje się w średnim i długim skręcie. Narta jest gładka i ciężka, przez co mało ją obchodzą nierówności na rozjeżdżonym stoku."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla zaawansowanego narciarza i eksperta, który jeździ dużo i szybko, a trasę traktuje jako punkt wyjścia do muld i miękkiego śniegu na jej skraju. Pasuje do jazdy w Alpach przez cały sezon, kiedy nie chce się wozić dwóch par. Dobra propozycja dla kogoś, kto szuka tej konstrukcji w niższej cenie z poprzedniego rocznika."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Deklarowana masa to 2090 g na sztukę bez wiązania w 179 cm, a dwie blachy oznaczają, że przy małej prędkości narta wymaga zdecydowanego prowadzenia. Pełnej tabeli wymiarów dla tego rocznika nie udało się potwierdzić na stronie Nordiki."
+        },
+        {
+          "title": "Względem nowszego rocznika",
+          "text": "Wymiary 127,5/94/115,5 mm i promień 17,5 m w 179 cm są takie same jak w roczniku 2026/27, ta sama jest też zasada konstrukcji: dwie warstwy tytanalu i Pulse Core. Nordica dla 2026/27 podaje 4080 g na parę (179 cm), czyli nieco mniej niż deklarowane 2090 g na sztukę dla tego rocznika."
+        }
+      ]
+    },
+    "image": "/images/skis-v/nordica-enforcer-94-2026-27.webp",
+    "image_note": "Zdjęcie poglądowe: rocznik 2026/27. Grafika rocznika 2024/25 może się różnić.",
+    "image_source": "https://www.nordica.com/storage/Product/0A668300001_ENFORCER_94_FLAT.png",
+    "source_url": "https://blisterreview.com/gear-reviews/2024-2025-nordica-enforcer-94",
+    "note": "Strony Nordiki dla 2024/25 nie odnaleziono (web.archive.org ma tylko wersje 2025/26 i 2026/27). Blister (2024-2025 Nordica Enforcer 94, 30.12.2024) podaje dane deklarowane: długości 167/173/179/185, 127,5-94-115,5 mm i 17,5 m @179, 2090 g/szt. @179, rdzeń topola/buk + 2× Titanal + elastomer. Te liczby zgadzają się z tabelą Nordiki dla 2025/26 i 2026/27 (179 cm), ale pozostałych długości nie potwierdzono dla tego rocznika – pozostawiono needs_review.",
+    "needs_review": true,
+    "image_original": "/images/skis/nordica-enforcer-94-2026-27.png"
+  },
+  {
+    "slug": "volkl-deacon-76-2023-24",
+    "brand": "Völkl",
+    "model": "Deacon 76 Master (WC Plate)",
+    "family": "Völkl Deacon 76",
+    "season": "2023/24",
+    "category": "on-piste",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": false,
+    "binding": "Brak w zestawie; płyta Marker WorldCup 10 mm (Piston Control) pod wiązania Race X-cell",
+    "rocker": "Tip & tail rocker",
+    "construction": "Worldcup Ash Woodcore, 2 warstwy Titanalu (Full Titanal), 3D.Glass, Tailored Carbon Tips, pełna ścianka boczna, płyta Marker WorldCup 10 mm z Piston Control",
+    "lengths": [
+      {
+        "length_cm": 171
+      },
+      {
+        "length_cm": 176,
+        "tip_mm": 124,
+        "waist_mm": 76,
+        "tail_mm": 104,
+        "radius_m": 17.6,
+        "weight_g": 2420
+      },
+      {
+        "length_cm": 181,
+        "tip_mm": 124,
+        "waist_mm": 76,
+        "tail_mm": 104,
+        "radius_m": 18.7,
+        "weight_g": 2460
+      }
+    ],
+    "weight_note": "Wersja bez wiązania, z płytą WorldCup; Völkl nie opisuje, czy to sztuka, ale wartości (2420/2460 g) odpowiadają jednej narcie.",
+    "description_pl": "Sztywna narta na trasę o talii 76 mm, z jesionowym rdzeniem i dwiema warstwami tytanalu, na płycie zawodniczej bez wiązania. Dla mocnych narciarzy jeżdżących średnim i długim skrętem.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Wersja Master Deacona 76 ma rdzeń z jesionu, jaki Völkl stosuje w nartach pucharowych, dwie warstwy tytanalu, 3D.Glass i węglowe wzmocnienie dzioba. Do tego fabrycznie zamontowana płyta Marker WorldCup o wysokości 10 mm z hydraulicznym tłumikiem Piston Control. Przy 124/76/104 mm i promieniu 17,6 m w długości 176 cm to narta na szybki, średni i długi skręt po twardym. Dziób i ogon mają rocker, który ułatwia wejście w skręt, ale przy tej sztywności narta i tak wymaga zdecydowanego prowadzenia."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla eksperta lub byłego zawodnika, który jeździ szybko po przygotowanych trasach i oczekuje stabilności na poziomie narty sportowej. Völkl przypisuje ją do jazdy po twardym śniegu i oznacza jako nartę dla profesjonalistów. Dostępne były tylko długie rozmiary: 171, 176 i 181 cm."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Narty sprzedawano bez wiązania, a płyta WorldCup przyjmuje wiązania z interfejsem Race X-cell, co zawęża wybór. Masa 2420 g na sztukę bez wiązania (176 cm) i sztywna konstrukcja męczą przy wolnej jeździe. Dla długości 171 cm Völkl nie podał w tabeli ani promienia, ani masy."
+        }
+      ]
+    },
+    "image": "/images/skis-v/volkl-deacon-76-2023-24.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0670/5135/6456/files/2024-volkl-deacon-76-master-ski-w-wc-plate-v2310020-v2310020.jpg",
+    "source_url": "https://www.skiessentials.com/products/2024-volkl-deacon-76-master-ski-w-wc-plate-v2310020",
+    "note": "Strona producenta: volkl.com/en-us „Deacon 76 Master 2024” (rok modelowy 2024 = 2023/24), archiwum web.archive.org z VIII 2024: taliowanie 124-76-104, promień 17,6 m @176 i 18,7 m @181, masa bez wiązania 2420/2460 g, „W/O BINDINGS”, Best For: Piste, Hard Snow, Professional. Opis wymienia też 171 cm, ale tabela jej nie zawiera. Kategoria „race-carve” do dopasowania do słownika w skis.json.",
+    "image_original": "/images/skis/volkl-deacon-76-2023-24.jpg"
+  },
+  {
+    "slug": "elan-ace-slx-2024-25",
+    "brand": "Elan",
+    "model": "Ace SLX Fusion X + EMX 12.0",
+    "family": "Elan Ace SLX",
+    "season": "2024/25",
+    "category": "slalom",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Elan EMX 12.0 GW Fusion X",
+    "rocker": "Camber",
+    "construction": "R2 Frame Woodcore, Dual Ti (Arrow Technology), Power Rebound System (podniesione wiązanie Fusion X), RST Sidewall",
+    "lengths": [
+      {
+        "length_cm": 155,
+        "tip_mm": 119,
+        "waist_mm": 68,
+        "tail_mm": 102,
+        "radius_m": 11
+      },
+      {
+        "length_cm": 160,
+        "tip_mm": 120,
+        "waist_mm": 68,
+        "tail_mm": 103,
+        "radius_m": 12
+      },
+      {
+        "length_cm": 165,
+        "tip_mm": 121,
+        "waist_mm": 68,
+        "tail_mm": 104,
+        "radius_m": 12.8,
+        "weight_g": 2300
+      },
+      {
+        "length_cm": 170,
+        "tip_mm": 122,
+        "waist_mm": 69,
+        "tail_mm": 105,
+        "radius_m": 13.5
+      }
+    ],
+    "weight_note": "Jedna narta, 165 cm (Elan: „Gewicht (g/ski) 2300 +/- 50g”); nie podano, czy z wiązaniem.",
+    "description_pl": "Slalomowa narta z dwiema warstwami tytanalu i wiązaniem EMX 12.0 w systemie Fusion X, do ciasnego skrętu na twardej trasie. Rocznik 2026/27 ma szerszy dziób (123 zamiast 121 mm) i rozmiarówkę od 145 cm.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Slalomka z poprzedniej kolekcji ACE: rdzeń R2 Frame i dwie warstwy tytanalu w układzie Arrow, w którym górna blacha ma kształt strzały, a dolna odwróconej strzały. Wiązanie Fusion X jest podniesione i razem z płytą tworzy Power Rebound System, który dodaje odbicia na wyjściu ze skrętu. W 165 cm narta ma 121/68/104 mm i promień 12,8 m."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla zaawansowanego narciarza i eksperta, który na twardej trasie jedzie krótki, szybki skręt. Elan podaje rozmiarówkę od 155 do 170 cm, z zaleceniem 165 cm dla osób mierzących od 170 do 180 cm. Dobry wybór, jeśli zależy komuś na sportowej slalomce z wiązaniem w komplecie z poprzedniego sezonu."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Elan podaje masę 2300 g (z tolerancją 50 g) na nartę w 165 cm, bez wyjaśnienia, czy z wiązaniem. Najdłuższa wersja 170 cm ma talię 69 mm zamiast 68. W dłuższym skręcie i przy dużej prędkości krótki promień zaczyna ograniczać."
+        },
+        {
+          "title": "Względem nowszego rocznika",
+          "text": "W kolekcji 26/27 Elan podaje inne taliowanie (123/68/104 mm wobec 121/68/104 mm w 165 cm), dodał długości 145 i 150 cm, a promienie są nieco mniejsze (12,6 m wobec 12,8 m w 165 cm). Zmienił się opis konstrukcji: zamiast R2 Frame i Arrow Technology pojawiają się Race Frame Woodcore i Active Suspension Drive. Wiązanie w zestawie zostało to samo, EMX 12.0 GW Fusion X."
+        }
+      ]
+    },
+    "image": "/images/skis-v/elan-ace-slx-2024-25.webp",
+    "image_source": "https://cdn.bfldr.com/WIENNW6Q/at/n9pnbk754sjv2k8h3vv4bv4r/Elan_Ace_SLX_FusionX_EMX12_AAKLBN24.jpg",
+    "source_url": "https://www.onthesnow.co.uk/news/skitest/elan-2025/ace-slx-fusion-x/2025/",
+    "note": "Pełna tabela ze strony producenta: elansports.com/at_de „ACE SLX” (kod AAKLBN24, „Inklusive Bindungen: EMX 12.0 GW Fusion X”), archiwum web.archive.org z XII 2024 (oferta bieżąca, nie outlet), poziom: Fortgeschrittener, Experte. Wcześniejsze źródło (test SkiMagazin/OnTheSnow, 165 cm / 12,8 m) jest zgodne.",
+    "image_original": "/images/skis/elan-ace-slx-2024-25.jpg"
+  },
+  {
+    "slug": "head-supershape-e-rally-2026-27",
+    "brand": "Head",
+    "model": "Supershape e-Rally + Protector Evo PR 11 GW",
+    "family": "Head Supershape e-Rally",
+    "season": "2026/27",
+    "category": "on-piste",
+    "levels": [
+      "advanced"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Head Protector Evo PR 11 GW",
+    "din": "3–11",
+    "rocker": "Speedrocker (8% rockera w dziobie, 92% camber, piętka bez rockera)",
+    "construction": "Worldcup Sandwich Cap: pionowo laminowany rdzeń drewniany, fenolowe ścianki, tytanal; Graphene, Crossforce Carbon, EMC, ślizg UHM C ze strukturą Race",
+    "lengths": [
+      {
+        "length_cm": 156
+      },
+      {
+        "length_cm": 163
+      },
+      {
+        "length_cm": 170,
+        "tip_mm": 128,
+        "waist_mm": 78,
+        "tail_mm": 112,
+        "radius_m": 14,
+        "weight_g": 2408
+      },
+      {
+        "length_cm": 177
+      },
+      {
+        "length_cm": 184
+      }
+    ],
+    "weight_note": "sztuka bez wiązania, dla 170 cm",
+    "description_pl": "Najszersza z trasowych Supershape: 78 mm pod butem i 14 m promienia przy 170 cm. Konstrukcja sandwich z tytanalem pozwala jechać szybko długim skrętem i nie gubi się na rozjeżdżonej trasie po południu.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "To Supershape zbudowany na tej samej konstrukcji co modele wąskie, ale z talią 78 mm. Tytanal w sandwiczu i karbon pod wiązaniem dają twardą, przewidywalną krawędź, a szersza platforma lepiej niesie po zmiękłym śniegu. Promień 14 m przy 170 cm ustawia nartę na średni i długi skręt; krótkie wiraże trzeba wymusić mocniejszym zakrawędziowaniem."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla narciarza, który już czysto prowadzi skręt cięty i chce jednej narty na trasę na cały dzień, także na miękki śnieg pod koniec dnia. Head klasyfikuje ją jako advanced. Kto lubi szybką jazdę po szerokich, czerwonych i czarnych trasach, wykorzysta ją najlepiej."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Przy niskiej prędkości i biernej jeździe narta jest sztywna i mało podatna na skręt ślizgowy. Na wąskiej, oblodzonej trasie wąskie Supershape (e-Magnum, e-Speed) szybciej zmieniają krawędź. Masa 2408 g na sztukę bez wiązania przy 170 cm to sporo jak na trasówkę."
+        }
+      ]
+    },
+    "image": "/images/skis-v/head-supershape-e-rally-2026-27.webp",
+    "image_source": "https://cdn-mdb.head.com/CDN3/D/313346.SET_31334602/1/1820x2428/supershape-e-rally-with-binding-protector-evo-pr-11-gw.webp",
+    "source_url": "https://www.head.com/en_US/product/supershape-e-rally-313346-set",
+    "note": "Tabela Head podaje \"Turning Radius 11,5 m\", ale w opisie i na nadruku narty jest R 14,0 przy 170 cm oraz taliowanie 128-78-112; przyjęto 14 m. Masa 2408 g wg tooltipu Head: sztuka bez wiązania, 170 cm. Wymiary dla pozostałych długości niepodane. Sezon: strona Head go nie podaje; Ski Essentials sprzedaje model jako 2027, Blister pisze o 25/26 i 26/27 bez zmian poza grafiką. DIN 3–11 wg sklepów (Sports Basement, Ski Essentials), nie ze strony Head.",
+    "image_original": "/images/skis/head-supershape-e-rally-2026-27.webp"
+  },
+  {
+    "slug": "head-shape-e-v8-2025-26",
+    "brand": "Head",
+    "model": "Shape e-V8 + PR 11 GW",
+    "family": "Head Shape e-V8",
+    "season": "2025/26",
+    "category": "on-piste",
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Tyrolia/Head PR 11 GW",
+    "din": "3–11",
+    "rocker": "Allride Rocker (rocker w dziobie, camber pod butem; kształt ERA 3.0)",
+    "construction": "Rdzeń Karuba z listwami jesionu, LYT Tech, wielowarstwowy karbon, Graphene, konstrukcja sandwich cap, EMC, ślizg UHM C",
+    "lengths": [
+      {
+        "length_cm": 149
+      },
+      {
+        "length_cm": 156
+      },
+      {
+        "length_cm": 163
+      },
+      {
+        "length_cm": 170,
+        "tip_mm": 130,
+        "waist_mm": 75,
+        "tail_mm": 112,
+        "radius_m": 13.2
+      },
+      {
+        "length_cm": 177
+      }
+    ],
+    "description_pl": "Lekka narta trasowa z talią 75 mm i promieniem 13,2 m przy 170 cm. Rocker w dziobie ułatwia wejście w skręt, karbon i grafen trzymają krawędź bez ciężaru tytanalu.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "e-V8 to lekka konstrukcja bez blachy: rdzeń Karuba, dwie warstwy karbonu i wkładka z grafenu. Szeroki dziób 130 mm z rockerem szybko łapie krawędź, a promień 13,2 m przy 170 cm pozwala składać zarówno średnie, jak i krótsze skręty. Narta reaguje na lekki nacisk i nie wymaga dużej prędkości, żeby zaczęła skręcać."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla średnio zaawansowanych, którzy przechodzą z jazdy ślizgowej na skręt cięty, i dla spokojniej jeżdżących zaawansowanych. Sklepy opisują poziom jako intermediate do advanced. To nie jest narta na pierwsze dni na stoku: dla zupełnie początkujących lepsza będzie miększa, tańsza konstrukcja."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Brak tytanalu czuć przy dużej prędkości na twardym, nierównym śniegu: narta zaczyna drgać szybciej niż Supershape. Model pochodzi z sezonu 2025/26 i nie udało się potwierdzić, czy jest w ofercie 2026/27. Dane pochodzą ze sklepów, nie z karty producenta."
+        }
+      ]
+    },
+    "image": "/images/skis-v/head-shape-e-v8-2025-26.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0670/5135/6456/files/2026-head-shape-e-v8-skis-w-pr-11-gw-bindings-31522502-315225.jpg",
+    "source_url": "https://www.skiessentials.com/products/2026-head-shape-e-v8-skis-w-pr-11-gw-bindings-31522502",
+    "note": "head.com blokował pobieranie (HTTP 429 / Vercel checkpoint), strony produktu e-V8 nie znaleziono w indeksie wyszukiwarki dla head.com. Dane: Ski Essentials (model \"2026\", 130/75/112 przy 170 cm, R 13,2 m, Intermediate to Advanced) i skis.com (sezon 2025-2026, długości 149-177, DIN 3-11). Nadruk na zdjęciu potwierdza 170 / 130-75-112 / R 13,2. Wersji 2026/27 nie potwierdzono, stąd sezon 2025/26. Wbrew założeniu zlecenia to nie jest narta dla początkujących. Masa niepodana.",
+    "needs_review": true,
+    "image_original": "/images/skis/head-shape-e-v8-2025-26.jpg"
+  },
+  {
+    "slug": "rossignol-experience-76-2026-27",
+    "brand": "Rossignol",
+    "model": "Experience 76 + Xpress 10 GW",
+    "family": "Rossignol Experience 76",
+    "season": "2026/27",
+    "category": "all-mountain",
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Look Xpress 10 GW B83",
+    "din": "2,5–10",
+    "construction": "Rdzeń topolowy (PEFC), konstrukcja cap, Drive Tip (kierunkowe włókna i materiał tłumiący w dziobie), taliowanie All Trail",
+    "lengths": [
+      {
+        "length_cm": 136,
+        "tip_mm": 123,
+        "waist_mm": 76,
+        "tail_mm": 109,
+        "radius_m": 9
+      },
+      {
+        "length_cm": 144,
+        "tip_mm": 123,
+        "waist_mm": 76,
+        "tail_mm": 109,
+        "radius_m": 10
+      },
+      {
+        "length_cm": 152,
+        "tip_mm": 123,
+        "waist_mm": 76,
+        "tail_mm": 109,
+        "radius_m": 12
+      },
+      {
+        "length_cm": 160,
+        "tip_mm": 123,
+        "waist_mm": 76,
+        "tail_mm": 109,
+        "radius_m": 13
+      },
+      {
+        "length_cm": 168,
+        "tip_mm": 123,
+        "waist_mm": 76,
+        "tail_mm": 109,
+        "radius_m": 15
+      },
+      {
+        "length_cm": 176,
+        "tip_mm": 123,
+        "waist_mm": 76,
+        "tail_mm": 109,
+        "radius_m": 16
+      }
+    ],
+    "description_pl": "Przystępna narta na całą stację z talią 76 mm, rdzeniem topolowym i konstrukcją cap. Krótki promień w krótszych długościach i miękki dziób Drive Tip ułatwiają naukę skrętu.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Konstrukcja cap z rdzeniem topolowym i bez metalu daje lekką, miękką nartę, która łatwo się obraca. Dziób Drive Tip z materiałem tłumiącym wycisza drgania na zmrożonym śniegu, a talia 76 mm i dziób 123 mm dają stabilną platformę. Promień rośnie z długością: 12 m przy 152 cm, 15 m przy 168 cm."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla początkujących i średnio zaawansowanych, którzy jeżdżą głównie po przygotowanych trasach i chcą nauczyć się skrętu z krawędzi. Szerokość 76 mm przyda się też na rozjeżdżony śnieg przy brzegu trasy. Dobry wybór na pierwszy własny komplet."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Miękka konstrukcja cap ma swoje granice: przy szybkiej jeździe na twardym śniegu narta traci precyzję i zaczyna pływać. Wiązanie Xpress 10 kończy się na DIN 10, więc cięższy i szybki narciarz szybko z niej wyrośnie. Rossignol nie oznacza tego modelu jako nowej kolekcji 26/27, to kontynuacja wcześniejszej wersji."
+        }
+      ]
+    },
+    "image": "/images/skis-v/rossignol-experience-76-2026-27.webp",
+    "image_source": "https://www.rossignol.com/dw/image/v2/BJJZ_PRD/on/demandware.static/-/Sites-rossignol-catalog/default/dwb2afc113/images/large/RAKFT04_EXPERIENCE_76_XPRESS_FCID014_XPRESS-10_GW_B83_RTL-_rgb72dpi_01.jpg?sw=1200",
+    "source_url": "https://www.rossignol.com/cz-en/mens-all-mountain-skis-experience-76--xpress--RAKFT04000.html",
+    "note": "Taliowanie 123-76-109 i promienie 9/10/12/13/15/16 m z indeksu wyszukiwarki dla rossignol.com (bg-en); w pobranym HTML tabela Tech Specs była pusta. Poziom \"2\" na skali Rossignola przełożono na beginner/intermediate. Sezon niepewny: brak oznaczenia NEW COLLECTION FW2627, kod RAKFT04 jak w poprzednim sezonie; model nadal widnieje na stronie. DIN 2,5–10 wg sklepów (Geartrade, evo), nie ze strony Look. Kategoria all-mountain wg Rossignola, w praktyce narta trasowa. Zdjęcie bardzo wąskie i wysokie (1200x6723).",
+    "needs_review": true,
+    "image_original": "/images/skis/rossignol-experience-76-2026-27.jpg"
+  },
+  {
+    "slug": "fischer-the-curv-gt-80-2026-27",
+    "brand": "Fischer",
+    "model": "The Curv GT 80 + RSW 11 GW PR",
+    "family": "Fischer The Curv GT 80",
+    "season": "2026/27",
+    "category": "on-piste",
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Fischer RSW 11 GW PR",
+    "rocker": "On-Piste Rocker (rocker w dziobie)",
+    "construction": "Rdzeń buk/topola, Shaped Ti 0,5 mm (tytanal), Diagofiber, sandwich sidewall, Twin Powerrail, taliowanie E-Triple Radius",
+    "lengths": [
+      {
+        "length_cm": 159
+      },
+      {
+        "length_cm": 166
+      },
+      {
+        "length_cm": 173,
+        "tip_mm": 131,
+        "waist_mm": 80,
+        "tail_mm": 113,
+        "radius_m": 14.5
+      },
+      {
+        "length_cm": 180
+      }
+    ],
+    "description_pl": "Szeroka narta carvingowa z talią 80 mm, jedną cienką warstwą tytanalu i potrójnym promieniem. Fischer w sezonie 26/27 nie ma już linii RC One; GT 80 przejęło rolę wszechstronnej narty trasowej.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Rdzeń z buku i topoli z jedną warstwą Shaped Ti 0,5 mm daje sprężystą, żywą nartę, a nie ciężki taran. Taliowanie E-Triple Radius ma ciaśniejszy łuk pod butem i łagodniejsze na końcach, więc narta skręta i krótko, i długo, także z lekkim ześlizgiem. Dziób 131 mm przy talii 80 mm mocno wciąga w skręt."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla średnio zaawansowanych, którzy już carvingują, i dla zaawansowanych szukających jednej narty na trasę na różne warunki. Ski Essentials określa poziom jako advanced intermediate do advanced, Sport Conrad jako advanced/expert. Szersza talia sprawdzi się na miękkim, rozjeżdżonym śniegu."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Jedna cienka warstwa tytanalu oznacza mniejsze tłumienie: przy dużej prędkości na twardej, nierównej trasie narta robi się nerwowa. Kto jeździ głównie szybko po lodzie, powinien patrzeć na serię Curv Noize. Szeroki dziób na wąskiej, oblodzonej trasie wolniej zmienia krawędź niż narta z talią 70 mm."
+        }
+      ]
+    },
+    "image": "/images/skis-v/fischer-the-curv-gt-80-2026-27.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/0670/5135/6456/files/2027-fischer-the-curv-gt-80-skis-w-rsw-11-pr-bindings-p09326-1-p09326.jpg?v=1789486828",
+    "source_url": "https://www.sport-conrad.com/en/products/fischer-the-curv-gt-80-rsw-11-gw-pr-26-27-skis-with-bindings",
+    "note": "Zamiennik za Fischer RC One 72 GT: linii RC One nie ma w ofercie 26/27, a The Curv GT 76 jest już w katalogu. Strony produktu na fischersports.com nie udało się znaleźć (404). Dane: Sport Conrad (sezon 26/27, kod P09326, 131-80-113 przy 173 cm, R 14,5 m) i Ski Essentials (model 2027, długości 159/166/173/180 w USA, 145-180 cm łącznie z dawną wersją damską). Ski Essentials podaje masę 1950 g na sztukę bez wskazania długości i wiązania, pominięta. DIN niepodany. Zdjęcie: narty ułożone po skosie.",
+    "needs_review": true,
+    "image_original": "/images/skis/fischer-the-curv-gt-80-2026-27.jpg"
+  },
+  {
+    "slug": "salomon-s-max-10-2026-27",
+    "brand": "Salomon",
+    "model": "S/Max 10 + M11 GW L80",
+    "family": "Salomon S/Max 10",
+    "season": "2026/27",
+    "category": "on-piste",
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Salomon M11 GW L80",
+    "rocker": "Tip rocker (profil Piste)",
+    "construction": "Dual Core 2 (sandwich, rdzeń jesionowy, włókno HT Tri-Axial), jedna warstwa tytanalu (Single Ti), Edge Amplifier SL, półsandwiczowe ścianki z ABS z recyklingu",
+    "lengths": [
+      {
+        "length_cm": 155,
+        "radius_m": 13
+      },
+      {
+        "length_cm": 160,
+        "radius_m": 14
+      },
+      {
+        "length_cm": 165,
+        "tip_mm": 120,
+        "waist_mm": 72,
+        "tail_mm": 105,
+        "radius_m": 14
+      },
+      {
+        "length_cm": 170,
+        "tip_mm": 121,
+        "waist_mm": 72,
+        "tail_mm": 106,
+        "radius_m": 15
+      },
+      {
+        "length_cm": 175,
+        "radius_m": 16
+      }
+    ],
+    "description_pl": "Trasowa narta z talią 72 mm, jedną warstwą tytanalu i dwuczęściowym Edge Amplifier pod wiązaniem. W ofercie 26/27 zajmuje miejsce dawnego S/Max 8 jako model dla jeżdżących rekreacyjnie.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Konstrukcja Dual Core 2 łączy rdzeń jesionowy z włóknem trójosiowym i jedną warstwą tytanalu, więc narta jest stabilna, ale nie ciężka. Edge Amplifier SL dociska krawędź pod butem i pozwala na trochę ugięcia, co ułatwia krótki skręt. Promień 14 m przy 165 cm to typowa trasówka do średnich łuków."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla średnio zaawansowanych, którzy jeżdżą po przygotowanych trasach i chcą nauczyć się czystego skrętu ciętego, oraz dla spokojniej jeżdżących zaawansowanych. Snowleader klasyfikuje model jako intermediate, Sport Conrad jako advanced. Talia 72 mm dobrze pracuje na twardym śniegu."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Przy 72 mm pod butem narta szybko grzęźnie w ciężkim, mokrym śniegu poza ubitą trasą. Wymiary i promienie dla wszystkich długości pochodzą od sklepów, bo salomon.com blokuje pobieranie. Kto jeździ szybko i agresywnie, będzie potrzebował S/Max 12 z dwiema warstwami tytanalu."
+        }
+      ]
+    },
+    "image": "/images/skis-v/salomon-s-max-10-2026-27.webp",
+    "image_source": "https://sport-conrad.asset.akeneo.cloud/af_product_images/media/70403932.jpg",
+    "source_url": "https://www.sport-conrad.com/en/products/salomon-e-s-max-10-m11-gw-l80-26-27-skis-with-bindings-dusty-blue-black-white/70403932-160",
+    "note": "Zamiennik za Salomon S/Max 8: unisex S/Max 8 występuje w sklepach tylko jako 2026 (25/26), w ofercie 26/27 jest jedynie damski S/Max N°8. Sport Conrad nazywa model \"E S/Max 10\" (sezon 26/27, kod L45414100, 121-72-106, R 15 m przy 170 cm). Promienie 13/14/14/15/16 m i 120-72-105 przy 165 cm wg Snowleader (2027, dane z indeksu wyszukiwarki; strona blokuje boty). salomon.com chroniony przed botami (HTTP 403). Snowleader podaje masę 1710 g przy 165 cm bez opisu, pominięta. DIN niepodany. Zdjęcie: narta z góry i od ślizgu.",
+    "needs_review": true,
+    "image_original": "/images/skis/salomon-s-max-10-2026-27.jpg"
+  },
+  {
+    "slug": "salomon-s-max-12-2026-27",
+    "brand": "Salomon",
+    "model": "S/Max 12 + I12 GW",
+    "family": "Salomon S/Max 12",
+    "season": "2026/27",
+    "category": "on-piste",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Salomon I12 GW",
+    "rocker": "Tip rocker (profil Piste)",
+    "construction": "Double Ti (dwie pełne warstwy tytanalu), Power Control System (wkładki z korka w tytanalu), rdzeń karuba/topola, pełne ścianki sandwich ABS 7 mm, ślizg P749",
+    "lengths": [
+      {
+        "length_cm": 160,
+        "radius_m": 12
+      },
+      {
+        "length_cm": 165,
+        "tip_mm": 121,
+        "waist_mm": 68,
+        "tail_mm": 104,
+        "radius_m": 13
+      },
+      {
+        "length_cm": 170,
+        "radius_m": 14
+      },
+      {
+        "length_cm": 175,
+        "radius_m": 17
+      },
+      {
+        "length_cm": 180,
+        "radius_m": 18
+      }
+    ],
+    "description_pl": "Sportowa trasówka z dwiema warstwami tytanalu i talią 68 mm. W sezonie 26/27 to najbliższy odpowiednik S/Max Blast: szybka zmiana krawędzi i tłumienie z korkowych wkładek PCS.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Dwie pełne warstwy tytanalu i pełne ścianki sandwich robią z S/Max 12 nartę o charakterze slalomowym, ale z rdzeniem karuba/topola lżejszym niż w nartach zawodniczych. Korkowe wkładki PCS w tytanalu zbierają drgania. Talia 68 mm i promień 13 m przy 165 cm sprzyjają krótkim i średnim skrętom."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla zaawansowanych i ekspertów, którzy lubią dynamiczną jazdę skrętem ciętym na przygotowanej trasie i chcą narty sportowej, ale nie zawodniczej. Test SKIMAGAZIN opisuje ją jako zwinną i żywą, łatwo przechodzącą z krawędzi na krawędź. Dobrze sprawdzi się też jako narta do techniki."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Według testu SKIMAGAZIN na bardzo twardym, oblodzonym śniegu brakuje jej trochę stabilności, lepiej czuje się na bardziej miękkiej trasie. Skok promienia z 14 m (170 cm) do 17 m (175 cm) zmienia charakter narty, więc długość trzeba dobrać świadomie. Sport Conrad podaje nieaktualne 121-72-106 / 15 m."
+        }
+      ]
+    },
+    "image": "/images/skis-v/salomon-s-max-12-2026-27.webp",
+    "image_source": "https://sport-conrad.asset.akeneo.cloud/af_product_images/media/70403928.jpg",
+    "source_url": "https://www.sport-conrad.com/en/products/salomon-p-s-max-12-i12-gw-26-27-skis-with-bindings-silver-black-white/70403928-165",
+    "note": "Zamiennik za Salomon S/Max Blast (model wycofany; ostatnie dane z 2019). Sport Conrad: \"P S/Max 12 + I12 GW\", sezon 26/27, kod L45413700, konstrukcja Double Ti + PCS. Taliowanie 121-68-104 i R 13 m przy 165 cm z testu SKIMAGAZIN (przez OnTheSnow); promienie 12/13/14/17/18 m wg Snowleader (2027, indeks wyszukiwarki). Sport Conrad podaje 121-72-106 i 15 m przy 170 cm, co wygląda na dane poprzedniego S/Max 12, nie przyjęto. salomon.com blokuje boty. Masa i DIN niepodane.",
+    "needs_review": true,
+    "image_original": "/images/skis/salomon-s-max-12-2026-27.jpg"
+  },
+  {
+    "slug": "volkl-peregrine-76-2026-27",
+    "brand": "Völkl",
+    "model": "Peregrine 76 + rMotion3 12 GW",
+    "family": "Völkl Peregrine 76",
+    "season": "2026/27",
+    "category": "on-piste",
+    "levels": [
+      "advanced"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Marker rMotion-T 12 GW",
+    "din": "4–12",
+    "rocker": "Tip & Tail Rocker (krótki rocker na końcach, camber pod butem)",
+    "construction": "Multilayer Woodcore (topola/buk), dwie pełne warstwy tytanalu (Full Titanal), 3D Glass, Tailored Carbon Tips, ścianki ABS, ślizg P-Tex 4504 Fully Structured",
+    "lengths": [
+      {
+        "length_cm": 171,
+        "tip_mm": 124,
+        "waist_mm": 76,
+        "tail_mm": 104,
+        "radius_m": 16.5,
+        "weight_g": 3190
+      },
+      {
+        "length_cm": 176,
+        "tip_mm": 124,
+        "waist_mm": 76,
+        "tail_mm": 104,
+        "radius_m": 17.6,
+        "weight_g": 3240
+      },
+      {
+        "length_cm": 181,
+        "tip_mm": 124,
+        "waist_mm": 76,
+        "tail_mm": 104,
+        "radius_m": 18.7,
+        "weight_g": 3280
+      }
+    ],
+    "weight_note": "sztuka z wiązaniem",
+    "description_pl": "Mocna narta trasowa z dwiema warstwami tytanalu, talią 76 mm i promieniem 16,5 do 18,7 m. Zrobiona pod długi, szybki skręt cięty, dostępna tylko w długościach od 171 cm.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Peregrine 76 to w tej rodzinie narta do dłuższych łuków: promień 17,6 m przy 176 cm, dwie warstwy tytanalu i wąska piętka 104 mm, która łatwo wypuszcza nartę ze skrętu. Karbonowe końcówki Tailored Carbon Tips ustawiają reakcję dzioba, więc wejście w skręt jest płynne, bez szarpnięcia. Na krawędzi narta jest spokojna i bardzo stabilna."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla zaawansowanych narciarzy, którzy jeżdżą szybko po szerokich trasach i lubią długi skręt w stylu slalomu giganta. Dobrze sprawdzi się u cięższych i wyższych osób, bo najkrótsza długość to 171 cm. Snow-How ocenia ją jako bardziej wybaczającą niż Peregrine 72 i dobrą w zmiennych warunkach."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Krótki skręt na stromym stoku wymaga dużo pracy, bo promień od 16,5 m nie pomaga. Masa ponad 3,1 kg na sztukę z wiązaniem męczy przy wolnej jeździe. Narciarze niżsi niż ok. 170 cm nie znajdą tu odpowiedniej długości."
+        }
+      ]
+    },
+    "image": "/images/skis-v/volkl-peregrine-76-2026-27.webp",
+    "image_source": "https://cdn.media.amplience.net/s/k2skis/volkl_2627_peregrine-76_V2610022?w=1600&qlt=90&fmt=png",
+    "source_url": "https://volkl.com/en-us/p/peregrine-76-skis-v2611022",
+    "note": "Dane z tabeli volkl.com (2027): taliowanie, promień R3 (środkowy), masa z wiązaniem na sztukę. Poziom: znacznik na skali Völkl ok. 70% (między beginner a professional), przyjęto advanced. Wiązanie: volkl.com \"RMOT-T 12 / 6877Z1.VB RMOTION-T 12 BLACK\"; DIN 4–12 wg Snow-How. Ski Essentials podaje inne promienie 3D Radius (26,9/15/23,2 m przy 177 cm), rozbieżność.",
+    "image_original": "/images/skis/volkl-peregrine-76-2026-27.png"
+  },
+  {
+    "slug": "blizzard-firebird-ti-2026-27",
+    "brand": "Blizzard",
+    "model": "Firebird Ti + TP11 Light Demo",
+    "family": "Blizzard Firebird Ti",
+    "season": "2026/27",
+    "category": "on-piste",
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Marker TP11 Light Demo",
+    "din": "3–11",
+    "rocker": "Full Camber",
+    "construction": "Sandwich Partial Sidewall Ti: pełny rdzeń drewniany Trueblend Piste, wkład tytanalowy (Ti Insert), ścianki ABS, płyta FDT HP 2.0",
+    "lengths": [
+      {
+        "length_cm": 148,
+        "tip_mm": 119,
+        "waist_mm": 70,
+        "tail_mm": 102,
+        "radius_m": 11,
+        "weight_g": 2640
+      },
+      {
+        "length_cm": 154,
+        "tip_mm": 119,
+        "waist_mm": 70,
+        "tail_mm": 102,
+        "radius_m": 12,
+        "weight_g": 2740
+      },
+      {
+        "length_cm": 160,
+        "tip_mm": 119,
+        "waist_mm": 70,
+        "tail_mm": 102,
+        "radius_m": 13,
+        "weight_g": 2840
+      },
+      {
+        "length_cm": 166,
+        "tip_mm": 121,
+        "waist_mm": 70,
+        "tail_mm": 104,
+        "radius_m": 13.5,
+        "weight_g": 2960
+      },
+      {
+        "length_cm": 172,
+        "tip_mm": 121,
+        "waist_mm": 70,
+        "tail_mm": 104,
+        "radius_m": 14.5,
+        "weight_g": 3160
+      },
+      {
+        "length_cm": 178,
+        "tip_mm": 121,
+        "waist_mm": 70,
+        "tail_mm": 104,
+        "radius_m": 15.5,
+        "weight_g": 3380
+      }
+    ],
+    "weight_note": "para; Blizzard pisze \"weight per pair\" bez informacji o wiązaniu (wartości pasują do samych nart)",
+    "description_pl": "Przystępna wersja serii Firebird: talia 70 mm, pełny camber i pojedynczy wkład tytanalowy. Narta do czystego skrętu na twardej trasie, łatwiejsza w prowadzeniu niż sportowe Firebirdy SRC i HRC.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Firebird Ti ma geometrię nart zawodniczych w łagodniejszej wersji: 70 mm pod butem, pełny camber i promień od 11 do 15,5 m zależnie od długości. Pojedynczy wkład tytanalowy daje pewny chwyt krawędzi, ale bez sztywności podwójnej blachy. Płyta FDT podnosi but i ułatwia mocniejsze zakrawędziowanie."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla średnio zaawansowanych, którzy chcą wejść w jazdę sportową, i zaawansowanych jeżdżących rekreacyjnie po twardych trasach. Skala Blizzarda wskazuje przedział od intermediate do advanced. Krótsze długości (148 do 160 cm, R 11 do 13 m) nadają się do krótkiego skrętu."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Pełny camber bez rockera mniej wybacza spóźnione wejście w skręt i nie lubi miękkiego, ciężkiego śniegu. Talia 70 mm to wybór na twardą trasę, nie na rozjeżdżony muld. Wersja 2027 w sklepach (Snowleader) występuje z wiązaniem TPC 11 Demo, inny wariant zestawu niż na stronie Blizzarda."
+        }
+      ]
+    },
+    "image": "/images/skis-v/blizzard-firebird-ti-2026-27.webp",
+    "image_source": "https://www.blizzard-tecnica.com/storage/Product/8A6349CA-001_Firebird_TI_01.png",
+    "source_url": "https://www.blizzard-tecnica.com/global/en/collection/unisex/skis/firebird/firebird-ti-tp11-light-demo",
+    "note": "Wymiary, promienie i masy z danych strony Blizzarda (per długość). Sezon: strona nie podaje; Snowleader sprzedaje \"Firebird TI + TPC 11 Demo 2027\" (172 cm, R 14,5 m, talia 70 mm). Skala poziomu na stronie zaznacza pola 3 i 4 z 5, przyjęto intermediate/advanced. Masa: \"weight per pair\", bez informacji o wiązaniu.",
+    "needs_review": true,
+    "image_original": "/images/skis/blizzard-firebird-ti-2026-27.png"
+  },
+  {
+    "slug": "nordica-dobermann-multipista-dc-74-ti-2026-27",
+    "brand": "Nordica",
+    "model": "Dobermann Multipista DC 74 Ti FDT + TPX 12 FDT",
+    "family": "Nordica Dobermann Multipista DC 74",
+    "season": "2026/27",
+    "category": "on-piste",
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Marker TPX 12 FDT",
+    "din": "4–12",
+    "rocker": "Full Camber",
+    "construction": "Double Core Titanal (Energy Ti DC): drewno, pojedyncza warstwa metalu, warstwa tłumiąca Pulse Core, ścianki sandwich; płyta FDT Race Plate N",
+    "lengths": [
+      {
+        "length_cm": 150,
+        "tip_mm": 113,
+        "waist_mm": 74,
+        "tail_mm": 91,
+        "radius_m": 13,
+        "weight_g": 2700
+      },
+      {
+        "length_cm": 155,
+        "tip_mm": 114,
+        "waist_mm": 74,
+        "tail_mm": 91,
+        "radius_m": 13.5,
+        "weight_g": 2840
+      },
+      {
+        "length_cm": 160,
+        "tip_mm": 117,
+        "waist_mm": 74,
+        "tail_mm": 95,
+        "radius_m": 14,
+        "weight_g": 2980
+      },
+      {
+        "length_cm": 165,
+        "tip_mm": 118,
+        "waist_mm": 74,
+        "tail_mm": 96,
+        "radius_m": 14.5,
+        "weight_g": 3180
+      },
+      {
+        "length_cm": 170,
+        "tip_mm": 119,
+        "waist_mm": 74,
+        "tail_mm": 97,
+        "radius_m": 15,
+        "weight_g": 3340
+      },
+      {
+        "length_cm": 175,
+        "tip_mm": 119,
+        "waist_mm": 74,
+        "tail_mm": 97,
+        "radius_m": 15.5,
+        "weight_g": 3460
+      },
+      {
+        "length_cm": 180,
+        "tip_mm": 120,
+        "waist_mm": 74,
+        "tail_mm": 98,
+        "radius_m": 16,
+        "weight_g": 3600
+      },
+      {
+        "length_cm": 185,
+        "tip_mm": 121,
+        "waist_mm": 74,
+        "tail_mm": 99,
+        "radius_m": 16.5,
+        "weight_g": 3700
+      }
+    ],
+    "weight_note": "para; Nordica pisze \"weight per pair\" bez informacji o wiązaniu (wartości pasują do samych nart)",
+    "description_pl": "Trasowy Dobermann z podwójnym rdzeniem, warstwą metalu i talią 74 mm. Nordica opisuje go jako nartę na dzień, który zaczyna się na świeżym sztruksie, a kończy na rozjeżdżonym śniegu.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Konstrukcja Double Core łączy drewno z warstwą tłumiącą Pulse Core i jedną blachą, co daje spokojną, ciężką w dobrym sensie nartę. Wąska piętka (97 mm przy 170 cm) łatwo zwalnia skręt, a pełny camber trzyma krawędź na całej długości. Promień 15 m przy 170 cm ustawia ją między krótkim a gigantowym skrętem."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla średnio zaawansowanych i zaawansowanych, którzy jeżdżą szybko po trasie i chcą narty stabilnej także po południu, gdy śnieg jest pocięty. Szeroka rozpiętość długości od 150 do 185 cm pozwala dobrać nartę lżejszym i cięższym osobom. Skala Nordiki stawia ją pośrodku, między beginner a expert."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Pełny camber i podwójny rdzeń wymagają aktywnej jazdy, przy wolnym tempie narta wydaje się sztywna. Płyta FDT Race i wiązanie TPX 12 podnoszą wagę zestawu. To nie jest bezpośredni następca Spitfire 76 RB z konstrukcją Race Bridge, tylko najbliższy model trasowy Nordiki w ofercie 26/27."
+        }
+      ]
+    },
+    "image": "/images/skis-v/nordica-dobermann-multipista-dc-74-ti-2026-27.webp",
+    "image_source": "https://www.nordica.com/storage/Product/0A663200001_MULTIPISTA_DC_74_TI_FDT.png",
+    "source_url": "https://www.nordica.com/global/en/collection/men/skis/dobermann-dc/multipista-dc-74-ti-fdt",
+    "note": "Zamiennik za Nordica Dobermann Spitfire 76 RB, którego nie ma w ofercie (linia Spitfire to teraz 73/75/CA/Ti FDT, bez RB). Model oznaczony na stronie jako \"New\", kod 0A6632MI001. Wymiary, promienie i masy z danych strony Nordiki per długość. Masa \"weight per pair\" bez informacji o wiązaniu. Poziom: 3. z 5 pól skali, przyjęto intermediate/advanced.",
+    "needs_review": true,
+    "image_original": "/images/skis/nordica-dobermann-multipista-dc-74-ti-2026-27.png"
+  },
+  {
+    "slug": "k2-blur-74-2026-27",
+    "brand": "K2",
+    "model": "Blur 74 + MXC 12 TCx Light QuikClik",
+    "family": "K2 Blur 74",
+    "season": "2026/27",
+    "category": "on-piste",
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Marker MXC 12 TCx Light QuikClik",
+    "rocker": "Speed Rocker (długi, niski rocker w dziobie, camber na reszcie długości)",
+    "construction": "Rdzeń Aspen Veneer (osika), żywica częściowo z surowców roślinnych",
+    "lengths": [
+      {
+        "length_cm": 155
+      },
+      {
+        "length_cm": 162
+      },
+      {
+        "length_cm": 169
+      },
+      {
+        "length_cm": 176,
+        "tip_mm": 124,
+        "waist_mm": 74,
+        "tail_mm": 108,
+        "radius_m": 15.3,
+        "weight_g": 1706
+      }
+    ],
+    "weight_note": "sztuka bez wiązania i bez płyty, dla 176 cm",
+    "description_pl": "Trasowa narta K2 z talią 74 mm i lekkim rdzeniem z osiki, następczyni Disruption 76. Rocker w dziobie i camber pod butem nastawiają ją na szybką zmianę krawędzi i krótszy skręt.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Blur 74 jest lekka: 1706 g na sztukę bez płyty przy 176 cm, z rdzeniem z forniru osikowego. K2 opisuje ją jako nartę do szybkiej zmiany krawędzi i krótkiego skrętu, a długi, niski rocker w dziobie wygładza wejście w łuk na nierównym śniegu. Przy 176 cm promień wynosi 15,3 m."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "K2 podaje szeroki przedział, od beginner do advanced, i tak to wygląda w praktyce: wybaczająca dla uczących się carvingu, wystarczająca dla rekreacyjnie jeżdżących zaawansowanych. Dobry zestaw dla kogoś, kto chce jednej narty na kilka sezonów rozwoju."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Lekki rdzeń bez metalu przy dużej prędkości na lodzie oznacza drgania i mniej precyzji niż w nartach z tytanalem. Producent podaje wymiary i promień tylko dla 176 cm. Kod KS25 sugeruje kolekcję 25/26 oferowaną dalej w 26/27."
+        }
+      ]
+    },
+    "image": "/images/skis-v/k2-blur-74-2026-27.webp",
+    "image_source": "https://cdn.media.amplience.net/s/k2skis/k2_2526_blur-74_KS251277?w=1600&qlt=90&fmt=png",
+    "source_url": "https://k2snow.com/en-us/p/blur-74-mens-skis-ks251277",
+    "note": "Zamiennik za K2 Disruption 76: na k2snow.com nie ma już linii Disruption, narty trasowe to Blur 74 i Blur 79. Model w wersji męskiej (istnieje też damski Blur 74 W), wpisano unisex jak inne zestawy. Poziom wg K2 \"Beginner, Advanced\" (przedział). Masa \"Product Weight (No Plate) 1706 g @ 176 cm\"; K2 nie pisze wprost \"na sztukę\", wartość odpowiada jednej narcie. Sezon: kod KS25 i pliki \"2526\", model aktualnie na stronie; brak osobnej wersji 26/27. DIN niepodany.",
+    "needs_review": true,
+    "image_original": "/images/skis/k2-blur-74-2026-27.png"
+  },
+  {
+    "slug": "stockli-laser-sc-2026-27",
+    "brand": "Stöckli",
+    "model": "Laser SC",
+    "family": "Stöckli Laser SC",
+    "season": "2026/27",
+    "category": "on-piste",
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "gender": "unisex",
+    "system_binding": false,
+    "construction": "Sandwich, Piste Race Core, Flex Torsion Control (nacięcia w aluminium na końcach), Full Edge Contact, Solid Metal Edge, Size Optimized Construction, fenolowe ścianki Racing Sidewalls Black, ślizg Racing-Graphite",
+    "lengths": [
+      {
+        "length_cm": 152,
+        "tip_mm": 120,
+        "waist_mm": 70,
+        "tail_mm": 102,
+        "radius_m": 11.6
+      },
+      {
+        "length_cm": 158,
+        "tip_mm": 120,
+        "waist_mm": 70,
+        "tail_mm": 102,
+        "radius_m": 12.7
+      },
+      {
+        "length_cm": 164,
+        "tip_mm": 120,
+        "waist_mm": 70,
+        "tail_mm": 102,
+        "radius_m": 13.8
+      },
+      {
+        "length_cm": 170,
+        "tip_mm": 120,
+        "waist_mm": 70,
+        "tail_mm": 102,
+        "radius_m": 14.9
+      },
+      {
+        "length_cm": 176,
+        "tip_mm": 120,
+        "waist_mm": 70,
+        "tail_mm": 102,
+        "radius_m": 16
+      }
+    ],
+    "description_pl": "Szwajcarska narta trasowa do różnych promieni skrętu, od wersji 25/26 z talią 70 mm. Sprzedawana z płytą, wiązanie dobiera się osobno.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Laser SC to szwajcarski kompromis między slalomem a gigantem: talia 70 mm i promień od 11,6 m (152 cm) do 16 m (176 cm). Nacięcia w aluminium na dziobie i piętce (Flex Torsion Control) zmiękczają końce, więc narta łatwo wchodzi w skręt, a pod butem pozostaje sztywna. Konstrukcja zmienia się z długością, krótsze modele są lżejsze i miększe."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla średnio zaawansowanych i zaawansowanych, którzy jeżdżą po trasie różnymi skrętami i cenią spokój narty na twardym śniegu. Stöckli pisze o modelu dla wszystkich poziomów, ale cena i charakter lepiej pasują do kogoś, kto już carvinguje. Klienci chwalą przewidywalność także na lodzie."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Wiązanie i płytę trzeba wybrać osobno, co podnosi cenę kompletu. Zwężenie talii z 72 do 70 mm w wersji 25/26 dało nartę bardziej sportową niż poprzednik, mniej chętną do jazdy po miękkim śniegu. Producent podaje promień jako wartość minimalną (np. \">14.9\"), masy nie opisuje."
+        }
+      ]
+    },
+    "image": "/images/skis-v/stockli-laser-sc-2026-27.webp",
+    "image_source": "https://www.stoeckli.ch/media/catalog/product/s/t/standard_main_image-standard_ski-41010127-20.png",
+    "source_url": "https://www.stoeckli.ch/usen/ski/ski/race/laser-sc",
+    "note": "Taliowanie 120-70-102 z atrybutów długości na stoeckli.ch; nagłówek strony nadal pokazuje stare 123-72-104. Promień podawany jako \">11.6\" itd. (wartość minimalna). Masy 3,02 do 3,79 kg bez opisu (para? z płytą?), pominięte. Sezon nie podany; ścieżki plików \"2025_26\", recenzent pisze o modelu 70 mm od 25/26. Poziom wg Stöckli \"for all abilities\", przyjęto intermediate/advanced.",
+    "needs_review": true,
+    "image_original": "/images/skis/stockli-laser-sc-2026-27.png"
+  },
+  {
+    "slug": "dynastar-speed-550-2026-27",
+    "brand": "Dynastar",
+    "model": "Speed 550 Konect + SPX 12 Konect GW",
+    "family": "Dynastar Speed 550",
+    "season": "2026/27",
+    "category": "on-piste",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Look SPX 12 Konect GW B80",
+    "rocker": "Tip rocker (umiarkowany rocker w dziobie i na końcu wg opisu)",
+    "construction": "Hybrid Core 2.0 (topola w trzech kierunkach włókien + PU), Omega Ti (wkładki ze stali i tytanalu w kształcie omegi), jednokierunkowe włókno szklane, pełne ścianki sandwich, ślizg spiekany",
+    "lengths": [
+      {
+        "length_cm": 158,
+        "tip_mm": 118,
+        "waist_mm": 68,
+        "tail_mm": 103,
+        "radius_m": 11
+      },
+      {
+        "length_cm": 166,
+        "tip_mm": 119,
+        "waist_mm": 69,
+        "tail_mm": 104,
+        "radius_m": 13
+      },
+      {
+        "length_cm": 174,
+        "tip_mm": 120,
+        "waist_mm": 70,
+        "tail_mm": 105,
+        "radius_m": 15
+      },
+      {
+        "length_cm": 182,
+        "tip_mm": 120,
+        "waist_mm": 71,
+        "tail_mm": 105,
+        "radius_m": 17
+      }
+    ],
+    "description_pl": "Nowa trasowa narta Dynastara z kolekcji FW2627, z rdzeniem Hybrid Core 2.0 i wzmocnieniem Omega Ti. Talia i promień rosną z długością, od 68 mm i 11 m do 71 mm i 17 m.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Speed 550 łączy rdzeń z topoli i poliuretanu z wkładką Omega Ti, która obejmuje rdzeń jak litera omega i usztywnia nartę na skręcanie. Każda długość ma inną geometrię: 158 cm to niemal slalom z promieniem 11 m, 182 cm to narta na długi skręt z promieniem 17 m. Pełne ścianki sandwich dają bezpośrednie przeniesienie siły na krawędź."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla zaawansowanych, którzy chcą sportowej narty na trasę, ale nie tak wymagającej jak deska zawodnicza. Dynastar podaje poziom advanced do expert. Wybór długości decyduje o charakterze, więc warto wiedzieć, czy woli się krótki, czy długi skręt."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "PU w rdzeniu tłumi drgania, ale narta jest mniej sprężysta niż konstrukcje z pełnego drewna. Talia około 70 mm to wybór na twardą, przygotowaną trasę. Masy podane przez Dynastara (1,5 do 1,8 kg \"na parę\") są niewiarygodne, dlatego je pominięto."
+        }
+      ]
+    },
+    "image": "/images/skis-v/dynastar-speed-550-2026-27.webp",
+    "image_source": "https://www.dynastar-lange.com/dw/image/v2/BJJZ_PRD/on/demandware.static/-/Sites-rossignol-catalog/default/dwc68554fe/images/large/DAOZ502W000_72DPI_02_v00.jpg?sw=1600",
+    "source_url": "https://www.dynastar-lange.com/us-en/men%27s-speed-550-konect-skis-DAOZ502W000.html",
+    "note": "Zamiennik za Dynastar Speed 763: strona Speed 763 zwraca 410 (wycofany), oferta 26/27 to Speed 250/350/550/650. Wybrano 550 jako najbliższy konstrukcyjnie (Omega Ti, poziom advanced/expert, promień do 17 m); Speed 650 ma talię 66-69 mm i promień 11-14 m. Strona oznacza model \"NEW COLLECTION FW2627 - SYSTEM SKI\", kod DAOZ502W000 (wersja USA). Masa \"kg/pair\" 1,5-1,8 nierealna dla pary, pominięta. DIN niepodany. Zdjęcie topu na nadruku: 120 70 105 R 15.",
+    "needs_review": true,
+    "image_original": "/images/skis/dynastar-speed-550-2026-27.jpg"
+  },
+  {
+    "slug": "volkl-m7-mantra-2026-27",
+    "brand": "Völkl",
+    "model": "M7 Mantra",
+    "family": "Völkl M7 Mantra",
+    "season": "2026/27",
+    "category": "all-mountain",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": false,
+    "rocker": "Tip & Tail Rocker (camber pod butem)",
+    "construction": "Multilayer Woodcore, Tailored Titanal Frame (rama z tytanalu dopasowana do długości + cienka warstwa tytanalu pod wiązaniem), Tailored Carbon Tips, 4 Radius Drive",
+    "lengths": [
+      {
+        "length_cm": 163,
+        "tip_mm": 139,
+        "waist_mm": 96,
+        "tail_mm": 121,
+        "radius_m": 13.7,
+        "weight_g": 1800
+      },
+      {
+        "length_cm": 170,
+        "tip_mm": 139,
+        "waist_mm": 96,
+        "tail_mm": 121,
+        "radius_m": 15.2,
+        "weight_g": 1910
+      },
+      {
+        "length_cm": 177,
+        "tip_mm": 139,
+        "waist_mm": 96,
+        "tail_mm": 121,
+        "radius_m": 16.8,
+        "weight_g": 2090
+      },
+      {
+        "length_cm": 184,
+        "tip_mm": 139,
+        "waist_mm": 96,
+        "tail_mm": 121,
+        "radius_m": 17.9,
+        "weight_g": 2180
+      },
+      {
+        "length_cm": 191,
+        "tip_mm": 139,
+        "waist_mm": 96,
+        "tail_mm": 121,
+        "radius_m": 19.7,
+        "weight_g": 2300
+      }
+    ],
+    "weight_note": "sztuka bez wiązania (producent: \"Weight Without Binding\")",
+    "description_pl": "Następca M6 Mantry z talią 96 mm, tytanalową ramą i węglem w dziobach. Mocna narta all-mountain do szybkiej jazdy po trasie i w zmiennym śniegu poza nią.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Völkl dzieli linię boczną na cztery promienie: krótki pod butem (16,8 m w 177 cm) i wyraźnie dłuższe z przodu (około 40 m) oraz z tyłu. W praktyce narta łatwo wchodzi w skręt z krawędzi, a przy prędkości nie szuka sama ciasnego łuku. Rama z tytanalu biegnie wzdłuż krawędzi w dziobie i piętce, więc narta trzyma linię na zbitym, porytym śniegu."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla mocnego narciarza, który jeździ szybko po trasie, ale chętnie zjeżdża też w muldy i nieprzygotowany teren. 96 mm pod butem to rozsądny kompromis dla kogoś, kto ma jedną parę na cały sezon w Alpach. Krótsze długości mają mniej tytanalu, więc lżejsza osoba nie musi brać narty za krótkiej."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "To nadal narta z metalem i pełnym rdzeniem, około 2 kg na sztukę w 177 cm, więc w ciasnych muldach przy zmęczeniu potrafi być wymagająca. Na twardym, porannym sztruksie 96 mm talii wolniej przechodzi z krawędzi na krawędź niż narta 80 mm. Początkujący i średniozaawansowani lepiej poradzą sobie z węższym modelem."
+        }
+      ]
+    },
+    "image": "/images/skis-v/volkl-m7-mantra-2026-27.webp",
+    "image_source": "https://cdn11.bigcommerce.com/s-6roegxc1uq/images/stencil/1280x1280/attribute_rule_images/4431_source_1780346116.jpg",
+    "source_url": "https://volkl.com/en-pl/p/m7-mantra-skis-v2610112",
+    "note": "Zamiast Mantry 96: w ofercie 2026/27 (strona: \"M7 Mantra Skis 2027\") ta linia występuje jako M7 Mantra, talia 96 mm. Producent podaje 4 promienie (R1 dziób, R2 przód, R3 środek, R4 tył); w radius_m wpisano R3 (środek). Pełne wartości dla 177 cm: R1 25 m, R2 40 m, R3 16,8 m, R4 22 m. Poziom odczytany ze skali na stronie (znacznik na 75% między Beginner a Professional). Wiązanie nie w zestawie, producent rekomenduje Marker Griffon 13.",
+    "image_original": "/images/skis/volkl-m7-mantra-2026-27.jpg"
+  },
+  {
+    "slug": "volkl-mantra-88-2026-27",
+    "brand": "Völkl",
+    "model": "Mantra 88",
+    "family": "Völkl Mantra 88",
+    "season": "2026/27",
+    "category": "all-mountain",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": false,
+    "rocker": "Tip & Tail Rocker (camber pod butem)",
+    "construction": "Multilayer Woodcore, Tailored Titanal Frame, Tailored Carbon Tips, 3D Radius Sidecut",
+    "lengths": [
+      {
+        "length_cm": 163,
+        "tip_mm": 134,
+        "waist_mm": 88,
+        "tail_mm": 114,
+        "radius_m": 13.2,
+        "weight_g": 1690
+      },
+      {
+        "length_cm": 170,
+        "tip_mm": 134,
+        "waist_mm": 88,
+        "tail_mm": 114,
+        "radius_m": 14.7,
+        "weight_g": 1800
+      },
+      {
+        "length_cm": 177,
+        "tip_mm": 134,
+        "waist_mm": 88,
+        "tail_mm": 114,
+        "radius_m": 16.2,
+        "weight_g": 1930
+      },
+      {
+        "length_cm": 184,
+        "tip_mm": 134,
+        "waist_mm": 88,
+        "tail_mm": 114,
+        "radius_m": 17.3,
+        "weight_g": 1980
+      }
+    ],
+    "weight_note": "sztuka bez wiązania (producent: \"Weight Without Binding\")",
+    "description_pl": "Narta all-mountain z talią 88 mm, tytanalową ramą i trzema promieniami linii bocznej. Więcej trasy niż terenu, ale bez problemu radzi sobie w muldach i rozjeżdżonym śniegu.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "88 mm pod butem i 16,2 m promienia środkowego w 177 cm dają nartę, która chętnie carvinguje na trasie, a dłuższe promienie w dziobie (29,2 m) i piętce uspokajają ją przy prędkości. Völkl skrócił w tej wersji promień środkowy o metr, więc średnie i krótsze skręty wchodzą łatwiej niż w poprzedniej generacji. Tytanalowa rama tłumi drgania na twardym i porytym."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla dobrze jeżdżącego narciarza, który większość dnia spędza na trasie, a resztę w muldach, przy krawędziach tras i po opadzie. Sprawdzi się jako jedna para na wyjazdy w Alpy, kiedy nie wiadomo, jakie warunki trafią się w danym tygodniu."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "W głębokim puchu 88 mm szybko pokazuje granice i trzeba jechać szybciej, żeby narta wypłynęła. Konstrukcja z metalem wymaga aktywnej jazdy, przy spokojnym sunięciu po łagodnych stokach będzie sztywna i mało wybaczająca. Wiązanie trzeba dokupić osobno (producent rekomenduje Marker Griffon 13)."
+        }
+      ]
+    },
+    "image": "/images/skis-v/volkl-mantra-88-2026-27.webp",
+    "image_source": "https://cdn11.bigcommerce.com/s-6roegxc1uq/images/stencil/1280x1280/attribute_rule_images/4436_source_1780346119.jpg",
+    "source_url": "https://volkl.com/en-pl/p/mantra-88-skis-v2610113",
+    "note": "Zamiast Kendo 88: w ofercie Völkla 2026/27 (strona: \"Mantra 88 Skis 2027\") nie ma już linii Kendo, najbliższym odpowiednikiem z talią 88 mm jest Mantra 88. Producent podaje promienie R1/R3/R4 (R2 brak); w radius_m wpisano R3 (środek). Dla 177 cm: R1 29,2 m, R3 16,2 m, R4 25,5 m. Poziom odczytany ze skali na stronie (znacznik na 75%).",
+    "image_original": "/images/skis/volkl-mantra-88-2026-27.jpg"
+  },
+  {
+    "slug": "volkl-mantra-88-w-2026-27",
+    "brand": "Völkl",
+    "model": "Mantra 88 W",
+    "family": "Völkl Mantra 88 W",
+    "season": "2026/27",
+    "category": "all-mountain",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "women",
+    "system_binding": false,
+    "rocker": "Tip & Tail Rocker (camber pod butem)",
+    "construction": "Multilayer Woodcore, Tailored Titanal Frame, Tailored Carbon Tips, 3D Radius Sidecut, pełna ścianka boczna, ślizg P-Tex 2100",
+    "lengths": [
+      {
+        "length_cm": 149,
+        "tip_mm": 134,
+        "waist_mm": 88,
+        "tail_mm": 114,
+        "radius_m": 10.6
+      },
+      {
+        "length_cm": 156,
+        "tip_mm": 134,
+        "waist_mm": 88,
+        "tail_mm": 114,
+        "radius_m": 11.9,
+        "weight_g": 1620
+      },
+      {
+        "length_cm": 163,
+        "tip_mm": 134,
+        "waist_mm": 88,
+        "tail_mm": 114,
+        "radius_m": 13.2,
+        "weight_g": 1690
+      },
+      {
+        "length_cm": 170,
+        "tip_mm": 134,
+        "waist_mm": 88,
+        "tail_mm": 114,
+        "radius_m": 14.7,
+        "weight_g": 1800
+      }
+    ],
+    "weight_note": "sztuka bez wiązania (producent: \"Weight Without Binding\"); dla 149 cm brak danych",
+    "description_pl": "Damska wersja Mantry 88 z tą samą geometrią 134/88/114 i tytanalową ramą, w krótszych długościach od 149 cm. Do jazdy po trasie i poza nią dla pewnie jeżdżących narciarek.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Konstrukcja i wymiary są takie same jak w męskiej Mantrze 88, różnią się długości i grafika. W 156 cm promień środkowy wynosi 11,9 m, więc narta skręca krótko i chętnie, a rocker w dziobie i piętce ułatwia wejście w skręt w muldach i na rozjeżdżonym śniegu. Tytanalowa rama jest węższa w krótszych długościach, co zmniejsza sztywność dla lżejszych osób."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla narciarki, która dobrze jeździ na trasie i chce mieć jedną nartę także na muldy, przetarte zjazdy obok tras i dzień po opadzie. To następczyni Secret 88, więc rozsądny wybór dla osób, które na Secrecie jeździły i chcą zostać przy podobnej szerokości."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Mimo damskiej etykiety to narta z metalem, wymagająca ruchu i nacisku na dziób. Narciarka średniozaawansowana, jeżdżąca spokojnie po łatwych trasach, będzie miała z nią więcej pracy niż z lżejszą nartą bez tytanalu. Wiązanie dokupuje się osobno (producent rekomenduje Marker Squire 12)."
+        }
+      ]
+    },
+    "image": "/images/skis-v/volkl-mantra-88-w-2026-27.webp",
+    "image_source": "https://cdn11.bigcommerce.com/s-6roegxc1uq/images/stencil/1280x1280/attribute_rule_images/4448_source_1780346129.jpg",
+    "source_url": "https://volkl.com/en-pl/p/mantra-88-w-skis-v2610117",
+    "note": "Zamiast Secret 88: linia Secret nie występuje w ofercie Völkla 2026/27, najbliższy damski odpowiednik o talii 88 mm to Mantra 88 W (\"Mantra 88 W Skis 2027\"). Następstwo Secret 88 to wniosek z oferty, producent nie pisze o tym wprost. W radius_m wpisano promień środkowy R3. Dla 156 cm producent podaje R4 14,9 m, co nie pasuje do pozostałych długości (prawdopodobnie błąd na stronie). Poziom odczytany ze skali na stronie (znacznik na 75%).",
+    "image_original": "/images/skis/volkl-mantra-88-w-2026-27.jpg"
+  },
+  {
+    "slug": "elan-wingman-86-ti-2026-27",
+    "brand": "Elan",
+    "model": "Wingman 86 Ti + EMX 12.0 GW Fusion X",
+    "family": "Elan Wingman 86 Ti",
+    "season": "2026/27",
+    "category": "all-mountain",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Elan EMX 12.0 GW Fusion X (warianty: ELX 11.0 GW Shift, Protector 11 GW Fusion X)",
+    "din": "3,5–12",
+    "rocker": "Amphibio (camber na wewnętrznej krawędzi, rocker na zewnętrznej; narty prawa/lewa)",
+    "construction": "Laminated Woodcore, Mono Ti (jedna warstwa tytanalu), SST (Slanted Sidewall Technology), PowerLine Technology, ślizg sintered",
+    "lengths": [
+      {
+        "length_cm": 152,
+        "radius_m": 13
+      },
+      {
+        "length_cm": 160,
+        "radius_m": 14
+      },
+      {
+        "length_cm": 168,
+        "radius_m": 15
+      },
+      {
+        "length_cm": 174,
+        "radius_m": 16
+      },
+      {
+        "length_cm": 182,
+        "radius_m": 17
+      }
+    ],
+    "description_pl": "Narta all-mountain z jedną warstwą tytanalu, profilem Amphibio i systemowym wiązaniem Fusion X. Talia 85 do 86 mm zależnie od długości, nastawiona głównie na jazdę po trasie i obok niej.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Elan stosuje tu asymetryczny profil Amphibio: wewnętrzna krawędź ma camber i trzyma na twardym, zewnętrzna ma rocker i łatwiej puszcza na wyjściu ze skrętu. Pojedyncza warstwa tytanalu i drewniany rdzeń dają nartę sprężystą, ale wyraźnie lżejszą w prowadzeniu niż modele z dwiema blachami. Promień 16 m w 174 cm ustawia ją na średnie i dłuższe skręty."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla narciarza, który jeździ szybko po przygotowanych trasach, a po południu wjeżdża w muldy i rozjeżdżony śnieg przy krawędziach stoku. Komplet z wiązaniem Fusion X oszczędza montażu i jest wygodny przy zakupie jednej pary na cały sezon."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Narty są oznaczone jako lewa i prawa, przy zakładaniu trzeba to pilnować, inaczej Amphibio działa odwrotnie. Talia 85 do 86 mm to wciąż narta głównie trasowa, w głębszym puchu zapada się szybciej niż modele 95 mm i szersze. Wiązanie systemowe ogranicza późniejszą zmianę wiązania na inne niż Elan."
+        }
+      ]
+    },
+    "image": "/images/skis-v/elan-wingman-86-ti-2026-27.webp",
+    "image_source": "https://cdn.shopify.com/s/files/1/1012/5931/3491/files/wingman_86_ti_emx12_gw_fusionx_web.png?v=1769759674",
+    "source_url": "https://elansports.com/products/wingman-86-ti",
+    "note": "Zamiast Wingman 86 CTi: w aktualnej ofercie Elana nie ma CTi, odpowiednikiem jest Wingman 86 Ti (jest też wersja Flat bez wiązania: https://elansports.com/products/wingman-86-ti-flat). Strona nie podaje sezonu; produkt opublikowany w styczniu 2026 i nadal w sprzedaży w październiku 2026, sezon 2026/27 przyjęty z tego. Producent podaje 4 zestawy wymiarów (130/85/110, 131/85/111, 132/86/112, 134/86/114) dla 5 długości bez jednoznacznego przypisania, dlatego tip/waist/tail pominięte. DIN 3,5–12 dotyczy wiązania EMX 12.0. Masa nie podana. Poziom: pasek na stronie obejmuje Advanced i Expert, opis mówi o \"expert skiers\".",
+    "image_original": "/images/skis/elan-wingman-86-ti-2026-27.png"
+  },
+  {
+    "slug": "atomic-maverick-88-cti-2026-27",
+    "brand": "Atomic",
+    "model": "Maverick 88 CTI",
+    "family": "Atomic Maverick 88",
+    "season": "2026/27",
+    "category": "all-mountain",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": false,
+    "rocker": "All Mountain Rocker 15/75/10",
+    "construction": "Power Woodcore (jesion/topola), CTI Powered (karbon + tytanal), dziób HRZN 3D, boki Duracap Sidewall, kąt krawędzi bocznej 87°",
+    "lengths": [
+      {
+        "length_cm": 159,
+        "tip_mm": 119,
+        "waist_mm": 87,
+        "tail_mm": 104,
+        "radius_m": 15
+      },
+      {
+        "length_cm": 165,
+        "tip_mm": 121,
+        "waist_mm": 87.5,
+        "tail_mm": 106,
+        "radius_m": 15.5
+      },
+      {
+        "length_cm": 172,
+        "tip_mm": 123,
+        "waist_mm": 88,
+        "tail_mm": 108,
+        "radius_m": 16
+      },
+      {
+        "length_cm": 179,
+        "tip_mm": 125,
+        "waist_mm": 88.5,
+        "tail_mm": 110,
+        "radius_m": 16.5,
+        "weight_g": 1770
+      },
+      {
+        "length_cm": 186,
+        "tip_mm": 127,
+        "waist_mm": 89,
+        "tail_mm": 112,
+        "radius_m": 17
+      }
+    ],
+    "weight_note": "sztuka bez wiązania (dla 179 cm)",
+    "description_pl": "Narta all-mountain z talią 88 mm, nastawiona głównie na twardą trasę, z karbonem i tytanalem w konstrukcji CTI. Dziób HRZN 3D i lekki rocker pomagają, gdy zjedzie się w rozjeżdżony śnieg obok trasy.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Rdzeń z jesionu i topoli z wkładką z tytanalu i karbonu daje nartę sztywną na skręcanie, ale nie tak ciężką jak konstrukcje z dwiema pełnymi blachami. Promień 16,5 m przy 179 cm pozwala na średnie i dłuższe skręty, a 75% długości na camberze trzyma krawędź na ubitym śniegu. Atomic deklaruje 1770 g na sztukę w 179 cm, co w tej szerokości jest wartością przeciętną."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla narciarza, który jeździ pewnie i szybko, spędza większość dnia na trasie, a po południu chętnie wjeżdża w muldy i rozjeżdżony puch przy brzegu. Sprawdzi się jako jedna para na cały sezon w Alpach przy przeciętnych opadach. Producent zaznacza poziom zaawansowany i ekspercki."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "To nie jest narta do nauki: przy małej prędkości i biernej jeździe dziób z rockerem potrafi pływać, a narta nie wybacza siedzenia na piętach. Na lodzie 88 mm pod butem przegra z wąską nartą slalomową. W głębokim puchu talia 88 mm to już granica jej możliwości."
+        }
+      ]
+    },
+    "image": "/images/skis-v/atomic-maverick-88-cti-2026-27.webp",
+    "image_source": "https://cdn.amersports.com/b6cbbc67-fda7-40b6-92ec-b49f00f0c9fd/ATP_AA0030934_3_GHO_Maverick_88CTI_FullImageWebOptimized.png?width=1600&height=1600&fit=bounds&quality=90",
+    "source_url": "https://www.atomic.com/en-us/products/maverick-88-cti-aa7355-202600",
+    "note": "Model 'Maverick 88 Ti' nie występuje już w ofercie Atomica; aktualny odpowiednik to Maverick 88 CTI (sklepy i Ski Essentials opisują go jako model 2027 z nową grafiką, konstrukcja bez zmian). Strona producenta nie podaje sezonu wprost, przyjęto 2026/27 na podstawie oznaczenia 202600 w adresie i listingów '2027'. Masa podana przez Atomica tylko dla 179 cm. Poziom wg skali Atomica: zaznaczone Advanced i Expert.",
+    "image_original": "/images/skis/atomic-maverick-88-cti-2026-27.png"
+  },
+  {
+    "slug": "atomic-bent-100-2026-27",
+    "brand": "Atomic",
+    "model": "Bent 100",
+    "family": "Atomic Bent 100",
+    "season": "2026/27",
+    "category": "freeride",
+    "levels": [
+      "intermediate",
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": false,
+    "rocker": "Powder Rocker 20/65/15",
+    "construction": "Light Woodcore (topola), HRZN 3D w dziobie i piętce, boki Duracap Sidewall, wzmocnione krawędzie Resist Edge Park, bez tytanalu",
+    "lengths": [
+      {
+        "length_cm": 158,
+        "tip_mm": 124.5,
+        "waist_mm": 100,
+        "tail_mm": 115,
+        "radius_m": 16.5
+      },
+      {
+        "length_cm": 165,
+        "tip_mm": 126,
+        "waist_mm": 100,
+        "tail_mm": 116.5,
+        "radius_m": 17
+      },
+      {
+        "length_cm": 172,
+        "tip_mm": 127.5,
+        "waist_mm": 100,
+        "tail_mm": 118,
+        "radius_m": 18
+      },
+      {
+        "length_cm": 179,
+        "tip_mm": 128.5,
+        "waist_mm": 100,
+        "tail_mm": 119,
+        "radius_m": 19,
+        "weight_g": 1700
+      },
+      {
+        "length_cm": 186,
+        "tip_mm": 129.5,
+        "waist_mm": 100,
+        "tail_mm": 120,
+        "radius_m": 19.5
+      }
+    ],
+    "weight_note": "sztuka bez wiązania (dla 179 cm)",
+    "description_pl": "Lekka narta freeride/freestyle z talią 100 mm, rdzeniem z topoli i wyraźnym rockerem z obu stron. Projektowana pod jazdę poza trasą, skoki i jazdę tyłem, z grubszymi krawędziami na poręcze w parku.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Topolowy rdzeń bez metalu i 1700 g na sztukę w 179 cm robią z Benta nartę zwrotną i łatwą do obracania w powietrzu. Profil 20/65/15 z podniesioną piętką ułatwia lądowanie tyłem i wyjście ze skrętu w miękkim śniegu. Promień 19 m w 179 cm i spore uniesienie dzioba powodują, że na trasie narta woli luźne, ślizgowe skręty niż ciasne cięcie."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla kogoś, kto szuka jednej pary na puch, las, muldy i park, i ceni zabawę wyżej niż stabilność przy dużej prędkości. Odnajdzie się tu też średnio zaawansowany narciarz, który zaczyna wyjeżdżać poza trasę, bo lekka konstrukcja nie męczy w zmiennym śniegu."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Bez tytanalu narta drga na zmrożonym stoku, a przy wysokiej prędkości w rozjeżdżonym śniegu traci spokój. Jeśli większość dni spędzasz na ubitych trasach, lepszy będzie węższy model z metalem. Rocker skraca efektywną krawędź, więc zwykle bierze się długość w okolicy wzrostu lub nieco dłuższą."
+        }
+      ]
+    },
+    "image": "/images/skis-v/atomic-bent-100-2026-27.webp",
+    "image_source": "https://cdn.amersports.com/91c26a43-9a91-4e49-a605-b49f00f0fb20/ATP_AA0030952_3_GHO_Bent_100_FullImageWebOptimized.png?width=1600&height=1600&fit=bounds&quality=90",
+    "source_url": "https://www.atomic.com/en-us/products/bent-100-aa7366-202600",
+    "note": "Strona Atomica opisuje Benta 100 jako przeprojektowanego (5% więcej rockera); sezonu nie podaje wprost, przyjęto 2026/27 na podstawie oznaczenia 202600 i listingu 'pre-launch 2026-2027' w sklepie Sommets. Skala Atomica ma trzy stopnie (Beginner/Advanced/Expert) i wszystkie są zaznaczone; przy talii 100 mm 'Beginner' przełożono na 'intermediate'. Masa podana tylko dla 179 cm.",
+    "image_original": "/images/skis/atomic-bent-100-2026-27.png"
+  },
+  {
+    "slug": "blizzard-anomaly-88-2026-27",
+    "brand": "Blizzard",
+    "model": "Anomaly 88",
+    "family": "Blizzard Anomaly 88",
+    "season": "2026/27",
+    "category": "all-mountain",
+    "levels": [
+      "intermediate",
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": false,
+    "rocker": "Early Rise w dziobie i piętce, camber 6 mm pod butem",
+    "construction": "2Ti FluxForm All Mountain (cztery elementy tytanalu), rdzeń Trueblend All Mountain Woodcore, pełne boki ABS, kąty krawędzi 0,9°/87,5°",
+    "lengths": [
+      {
+        "length_cm": 164,
+        "tip_mm": 126.5,
+        "waist_mm": 88,
+        "tail_mm": 108.5,
+        "radius_m": 14,
+        "weight_g": 3700
+      },
+      {
+        "length_cm": 170,
+        "tip_mm": 127.5,
+        "waist_mm": 88,
+        "tail_mm": 109.5,
+        "radius_m": 15,
+        "weight_g": 3860
+      },
+      {
+        "length_cm": 176,
+        "tip_mm": 127.5,
+        "waist_mm": 88,
+        "tail_mm": 109.5,
+        "radius_m": 16.5,
+        "weight_g": 4040
+      },
+      {
+        "length_cm": 182,
+        "tip_mm": 127.5,
+        "waist_mm": 88,
+        "tail_mm": 109.5,
+        "radius_m": 18,
+        "weight_g": 4200
+      },
+      {
+        "length_cm": 188,
+        "tip_mm": 128,
+        "waist_mm": 88,
+        "tail_mm": 110,
+        "radius_m": 19,
+        "weight_g": 4360
+      }
+    ],
+    "weight_note": "para bez wiązania",
+    "description_pl": "Następca Brahmy 88: narta all-mountain z talią 88 mm i tytanalem rozłożonym w czterech osobnych elementach. Mocna na ubitej trasie, a dzięki rockerowi z obu stron posłuszna w muldach i rozjeżdżonym śniegu.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "FluxForm dzieli tytanal na cztery elementy zamiast dwóch pełnych blach, więc pod butem narta jest sztywna skrętnie, a dziób i piętka pracują łagodniej niż w dawnej Brahmie. Promień 16,5 m w 176 cm i 6 mm cambru dają pewne trzymanie na twardym, a rocker z obu stron ułatwia wejście w skręt. Para 176 cm waży 4040 g bez wiązań, czyli to nadal narta z metalem, która lubi prędkość."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla narciarza, który jeździ równoległym skrętem po całym ośrodku i chce nartę na lata, z zapasem na rozwój. Blizzard zaznacza zakres od średnio zaawansowanych do ekspertów. Dobry wybór na Alpy przy mało śnieżnej zimie, gdy większość dnia to trasa i muldy."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Lżejszy narciarz w dłuższym rozmiarze będzie musiał mocno pracować, żeby wygiąć nartę z tytanalem. W głębokim puchu 88 mm pod butem szybko przestaje wystarczać. Przy promieniu od 16,5 do 19 m w typowych męskich długościach Anomaly woli średni i długi skręt, krótkie slalomowe cięcie nie jest jej mocną stroną."
+        }
+      ]
+    },
+    "image": "/images/skis-v/blizzard-anomaly-88-2026-27.webp",
+    "image_source": "https://www.blizzard-tecnica.com/storage/Product/8A637400-001_Anomaly_88_01.png",
+    "source_url": "https://www.blizzard-tecnica.com/us/en/collection/men/skis/anomaly/anomaly-88-2",
+    "note": "Linii Brahma nie ma już w ofercie Blizzarda (strona kolekcji brahma zwraca 404, w menu jej brak); najbliższy aktualny odpowiednik to Anomaly 88, oznaczony na stronie jako '2026/27'. Producent sugeruje wiązanie Griffon X 90, narta sprzedawana bez wiązania. Poziom odczytany z 5-stopniowej skali na stronie (zaznaczone 3 górne stopnie). Zdjęcie przeskalowane z 1800x6500 do 443x1600.",
+    "image_original": "/images/skis/blizzard-anomaly-88-2026-27.png"
+  },
+  {
+    "slug": "head-kore-94-ti-2026-27",
+    "brand": "Head",
+    "model": "Kore 94 Ti",
+    "family": "Head Kore 94",
+    "season": "2026/27",
+    "category": "all-mountain",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": false,
+    "rocker": "Powder Rocker: rocker dziobu 30%, camber 50%, rocker piętki 20%",
+    "construction": "Rdzeń karuba/buk, 2 warstwy tytanalu, grafen, len; ślizg UHM C",
+    "lengths": [
+      {
+        "length_cm": 156,
+        "tip_mm": 127,
+        "waist_mm": 91,
+        "tail_mm": 112,
+        "radius_m": 11.8
+      },
+      {
+        "length_cm": 163,
+        "tip_mm": 128,
+        "waist_mm": 92,
+        "tail_mm": 114,
+        "radius_m": 13.3
+      },
+      {
+        "length_cm": 170,
+        "tip_mm": 130,
+        "waist_mm": 93,
+        "tail_mm": 115,
+        "radius_m": 14.7
+      },
+      {
+        "length_cm": 177,
+        "tip_mm": 131,
+        "waist_mm": 94,
+        "tail_mm": 116,
+        "radius_m": 16.3,
+        "weight_g": 1905
+      },
+      {
+        "length_cm": 184,
+        "tip_mm": 132,
+        "waist_mm": 95,
+        "tail_mm": 117,
+        "radius_m": 17.9
+      },
+      {
+        "length_cm": 191,
+        "tip_mm": 134,
+        "waist_mm": 96,
+        "tail_mm": 118,
+        "radius_m": 19.5
+      }
+    ],
+    "weight_note": "sztuka bez wiązania (dla 177 cm)",
+    "description_pl": "Męski odpowiednik Kore 93 w nowej linii Kore: talia 94 mm przy 177 cm, dwie warstwy tytanalu i rdzeń karuba/buk. Narta na całą górę z naciskiem na stabilność przy prędkości.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Po przejściu z karbonu na dwie warstwy tytanalu Kore jest wyraźnie spokojniejsza na twardym i rozjeżdżonym śniegu. Szerokość rośnie razem z długością (91 mm w 156 cm, 96 mm w 191 cm), a promień od 11,8 do 19,5 m, więc krótsze rozmiary są dużo bardziej skrętne. Połowa długości to camber, 30% dziobu i 20% piętki na rockerze, co daje łatwe zainicjowanie skrętu i dobre unoszenie w miękkim śniegu."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla dobrego narciarza, który jeździ szybko po trasie, ale co chwilę zjeżdża między drzewa, w muldy i na pola z puchem po opadzie. Head oznacza model jako Advanced, testerzy Ski Essentials wskazują advanced i expert. Rozsądna jedna para na Alpy dla kogoś, kto ma za sobą kilka sezonów."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Przy 1905 g na sztukę w 177 cm to nie jest narta do podejść na fokach. Dwie blachy tytanalu wymagają aktywnej jazdy, przy niskich prędkościach narta bywa sztywna. Wybierając długość, sprawdź wymiary konkretnego rozmiaru, bo talia i promień zmieniają się z długością bardziej niż u większości konkurencji."
+        }
+      ]
+    },
+    "image": "/images/skis-v/head-kore-94-ti-2026-27.webp",
+    "image_source": "https://cdn-mdb.head.com/CDN3/D/315446.SET_WO/1/1820x2428/kore-94-ti-without-binding.webp",
+    "source_url": "https://www.head.com/en_US/product/kore-94-ti-315446-set",
+    "note": "Męskiego Kore 93 nie ma w aktualnej ofercie Heada (jest tylko damski Kore 93 Ti W); najbliższy odpowiednik to Kore 94 Ti. Head klasyfikuje go jako 'Freeride', tu przypisano all-mountain ze względu na talię 94 mm (Ski Essentials też opisuje go jako all-mountain). Strona Heada podaje poziom 'Advanced'; 'expert' dodano za testem Ski Essentials (https://www.skiessentials.com/2027-ski-test/skis/2027-head-kore-94-ti), który opisuje model 2027 jako drugi rok bez zmian konstrukcji. Rdzeń karuba/buk potwierdzony nadrukiem na narcie, len i ślizg UHM C wg Ski Essentials. Masa podana przez Heada tylko dla 177 cm.",
+    "image_original": "/images/skis/head-kore-94-ti-2026-27.webp"
+  },
+  {
+    "slug": "rossignol-super-arcade-84-2026-27",
+    "brand": "Rossignol",
+    "model": "Super Arcade 84 + SPX 12 Konect GW",
+    "family": "Rossignol Arcade 84",
+    "season": "2026/27",
+    "category": "all-mountain",
+    "levels": [
+      "advanced",
+      "expert"
+    ],
+    "gender": "unisex",
+    "system_binding": true,
+    "binding": "Look SPX 12 Konect GW B90",
+    "rocker": "Rocker w dziobie i piętce, camber pod butem",
+    "construction": "Rdzeń z topoli, wzmocnienie Titanal Beam, pełna prostokątna ścianka boczna, Extended Sidecut",
+    "lengths": [
+      {
+        "length_cm": 152,
+        "radius_m": 12
+      },
+      {
+        "length_cm": 160,
+        "radius_m": 13
+      },
+      {
+        "length_cm": 168,
+        "radius_m": 14
+      },
+      {
+        "length_cm": 176,
+        "radius_m": 15
+      },
+      {
+        "length_cm": 184,
+        "radius_m": 16
+      }
+    ],
+    "geometry_mm": {
+      "tip_mm": 132,
+      "waist_mm": 84,
+      "tail_mm": 120
+    },
+    "description_pl": "Wszechstronna narta all-mountain z talią 84 mm, drewnianym rdzeniem i belką z tytanalu, sprzedawana z wiązaniem SPX 12 na płycie Konect. Limitowana wersja Arcade 84 z grafiką nawiązującą do dawnej Bandit B3.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Talia 84 mm i stosunkowo krótki promień (15 m przy 176 cm) ustawiają tę nartę bliżej trasy niż terenu. Belka z tytanalu nad topolowym rdzeniem daje pewny chwyt krawędzi na twardym, a rocker w dziobie i piętce ułatwia wejście w skręt i wyprowadzenie go w muldach czy rozjeżdżonym śniegu. Płyta Konect z wiązaniem SPX 12 dokłada sztywności pod butem."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla sprawnego narciarza, który większość dnia spędza na przygotowanych trasach, ale chętnie zjeżdża na pobocza i do świeżego śniegu po opadzie. Rossignol kieruje ją do poziomu zaawansowanego i eksperckiego. Kto chce jedną parę na cały wyjazd w Alpy i nie szuka typowej narty do puchu, znajdzie tu rozsądny kompromis."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "To limitowana edycja graficzna, więc rozmiarówka w sklepach może się szybko kończyć. Przy 84 mm w talii w głębokim puchu narta będzie tonąć wyraźniej niż modele 94 i szersze. Rossignol podaje te same szerokości dla wszystkich długości oraz masę, której jednostka budzi wątpliwości, dlatego tych danych nie warto traktować jako dokładnych."
+        }
+      ]
+    },
+    "image": "/images/skis-v/rossignol-super-arcade-84-2026-27.webp",
+    "image_source": "https://www.rossignol.com/dw/image/v2/BJJZ_PRD/on/demandware.static/-/Sites-rossignol-catalog/default/dw7e2bec6e/images/large/RAPFV02000_72DPI_02_v00.jpg?sw=1200",
+    "source_url": "https://www.rossignol.com/us-en/super-arcade-84-skis-RAPFV02000.html",
+    "note": "Zamiennik: Sender 94 Ti nie występuje w kolekcji 2026/27 (Rossignol podzielił linię na Sender 100/110/118 i Soul), a jedyny Arcade 84 w sklepie rossignol.com z kodem sezonu 26/27 (Fall Winter 26/27) to limitowana edycja Super Arcade 84 z wiązaniem. Wymiary 132/84/120 mm podane identycznie dla wszystkich długości; Ski Essentials dla Arcade 84 2027 podaje 133/84/121 mm przy 176 cm. Masa 1,6–2,0 kg opisana jako 'kg/pair', co jest nierealne dla pary, dlatego pominięta. DIN wiązania nie podany na stronie.",
+    "image_original": "/images/skis/rossignol-super-arcade-84-2026-27.jpg"
+  },
+  {
+    "slug": "k2-mindbender-88-2026-27",
+    "brand": "K2",
+    "model": "Mindbender 88",
+    "family": "K2 Mindbender 88",
+    "season": "2026/27",
+    "category": "all-mountain",
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "gender": "unisex",
+    "system_binding": false,
+    "rocker": "All-Terrain Rocker (łagodny rocker w dziobie, camber pod butem)",
+    "construction": "Rdzeń osika/paulownia, Titanal I-Beam, wkładki Dark Matter (TPU z proszkiem stali nierdzewnej), Enhanced Stability Points",
+    "lengths": [
+      {
+        "length_cm": 164
+      },
+      {
+        "length_cm": 170
+      },
+      {
+        "length_cm": 176
+      },
+      {
+        "length_cm": 182,
+        "tip_mm": 129,
+        "waist_mm": 88,
+        "tail_mm": 113,
+        "radius_m": 17,
+        "weight_g": 1870
+      }
+    ],
+    "weight_note": "sztuka bez wiązania i bez płyty, 182 cm (K2: 'Product Weight (No Plate)'; wartość odpowiada jednej narcie)",
+    "description_pl": "Narta all-mountain z talią 88 mm i centralną belką z tytanalu, nastawiona na twardą trasę, ale bez kłopotu schodząca w teren. Następca Mindbendera 89Ti w kolekcji 2026/27.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Wąski tytanalowy pas nad środkiem rdzenia usztywnia nartę skrętnie, a osika z paulownią trzymają masę na rozsądnym poziomie (1870 g przy 182 cm). Promień 17 m przy 182 cm i łagodny rocker w dziobie dają skręt średni i długi, który łatwo zacząć i dobrze trzyma się na krawędzi na zbitym śniegu. K2 opisuje ją jako szybką z krawędzi na krawędź."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla narciarza średniozaawansowanego i zaawansowanego, który jeździ głównie po trasach, a po opadzie zjeżdża na boki i do lasu. Dobra jako pierwsza narta z metalem dla kogoś, kto wyrasta z miękkich nart rekreacyjnych. Rozmiarówka od 164 do 182 cm."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "To nowy model, K2 nie podaje jeszcze wymiarów i promienia dla krótszych długości ani opinii z dłuższych testów. Jeden pasek tytanalu zamiast pełnej warstwy oznacza mniej tłumienia przy dużych prędkościach niż w nartach typu Enforcer 94 czy Mantra. Sprzedawana bez wiązania."
+        }
+      ]
+    },
+    "image": "/images/skis-v/k2-mindbender-88-2026-27.webp",
+    "image_source": "https://cdn.media.amplience.net/i/k2/k2_2627_mindbender-88_KS261792_1?w=900&fmt=jpg&qlt=85",
+    "source_url": "https://k2snow.com/en-us/p/mindbender-88-mens-skis-ks261792",
+    "note": "Zamiennik: strona Mindbender 89Ti 2026 zwraca HTTP 410, w kolekcji 2027 (2026/27) K2 ma Mindbender 85/88/101/111; najbliższy odpowiednik to Mindbender 88. Strona sprzedaje go jako 'Men's', ale w katalogu przyjęto unisex jak dla innych nart męskich (istnieje osobny Mindbender 88 W). Wymiary, promień i masa podane tylko dla 182 cm.",
+    "image_original": "/images/skis/k2-mindbender-88-2026-27.jpg"
+  },
+  {
+    "slug": "nordica-santa-ana-87-2026-27",
+    "brand": "Nordica",
+    "model": "Santa Ana 87",
+    "family": "Nordica Santa Ana 87",
+    "season": "2026/27",
+    "category": "all-mountain",
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "gender": "women",
+    "system_binding": false,
+    "rocker": "All Mountain rocker",
+    "construction": "TSM Pulse Core: drewniany rdzeń + elastomerowy Pulse Core, arkusz metalu Terrain Specific Metal, ścianka boczna",
+    "lengths": [
+      {
+        "length_cm": 150,
+        "tip_mm": 115,
+        "waist_mm": 87,
+        "tail_mm": 103,
+        "radius_m": 15,
+        "weight_g": 3000
+      },
+      {
+        "length_cm": 155,
+        "tip_mm": 115.5,
+        "waist_mm": 87,
+        "tail_mm": 103.5,
+        "radius_m": 15.5,
+        "weight_g": 3200
+      },
+      {
+        "length_cm": 161,
+        "tip_mm": 117,
+        "waist_mm": 87,
+        "tail_mm": 105,
+        "radius_m": 16,
+        "weight_g": 3320
+      },
+      {
+        "length_cm": 167,
+        "tip_mm": 118,
+        "waist_mm": 87,
+        "tail_mm": 106,
+        "radius_m": 16.5,
+        "weight_g": 3500
+      },
+      {
+        "length_cm": 173,
+        "tip_mm": 119.5,
+        "waist_mm": 87,
+        "tail_mm": 107.5,
+        "radius_m": 17,
+        "weight_g": 3760
+      }
+    ],
+    "weight_note": "para bez wiązania (Nordica: 'Weight per pair')",
+    "description_pl": "Damska narta all-mountain z talią 87 mm, drewnianym rdzeniem, warstwą elastomeru i arkuszem metalu. Projektowana pod trasę i twardszy śnieg, z zapasem na wyjazdy poza nią.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Metal dopasowany do długości i elastomer Pulse Core tłumią drgania, więc narta jedzie spokojnie na zmrożonym i rozjeżdżonym śniegu. Promień od 15 m (150 cm) do 17 m (173 cm) i talia 87 mm dają średni skręt, który łatwo zacieśnić. Rocker All Mountain w dziobie pomaga w miękkim śniegu i przy wejściu w skręt."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla narciarki, która jeździ pewnie po wszystkich trasach i chce narty stabilnej przy wyższej prędkości, a od czasu do czasu zjeżdża w muldy lub świeży śnieg. Szeroka rozmiarówka od 150 do 173 cm pozwala dobrać długość także drobniejszym osobom. Nordica sugeruje wiązanie Marker Squire 11 albo Griffon 13."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Metal sprawia, że przy niskiej prędkości i niepewnej technice narta wymaga więcej pracy niż miękkie damskie modele rekreacyjne. Na typowo puchowe dni lepiej sprawdzi się szersza Santa Ana 92 lub 97. Sprzedawana bez wiązania, więc do ceny trzeba doliczyć montaż."
+        }
+      ]
+    },
+    "image": "/images/skis-v/nordica-santa-ana-87-2026-27.webp",
+    "image_source": "https://www.nordica.com/storage/Product/0A548800001_SANTA_ANA_87_FLAT.png",
+    "source_url": "https://www.nordica.com/usa/en/collection/women/skis/santa-ana/santa-ana-87",
+    "note": "Zamiennik: Santa Ana 88 nie występuje w ofercie, aktualny odpowiednik to Santa Ana 87 (strona Nordiki: 'Santa Ana 87 - 2026/27'). Poziom nieoznaczony wprost na stronie, przyjęty intermediate/advanced z opisu i ofert sklepów. Sugerowane wiązania wg Nordiki: Marker Griffon 13 Twincam / Marker Squire 11. Zdjęcie: PNG z przezroczystym tłem, bardzo wysokie (1800x6500).",
+    "image_original": "/images/skis/nordica-santa-ana-87-2026-27.png"
+  },
+  {
+    "slug": "salomon-stance-84-w-2026-27",
+    "brand": "Salomon",
+    "model": "Stance 84 W + M11",
+    "family": "Salomon Stance W 84",
+    "season": "2026/27",
+    "category": "all-mountain",
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "gender": "women",
+    "system_binding": true,
+    "binding": "Salomon M11 (płyta Easytrak)",
+    "rocker": "All-Mountain Profile: rocker 12% w dziobie, camber, rocker 15% w piętce",
+    "construction": "Rdzeń karuba/topola (full woodcore), wkładka z tytanalu (Ti-C Frame), pełne ścianki boczne sandwich",
+    "lengths": [
+      {
+        "length_cm": 151,
+        "tip_mm": 120,
+        "waist_mm": 84,
+        "tail_mm": 103,
+        "radius_m": 12,
+        "weight_g": 4560
+      },
+      {
+        "length_cm": 159,
+        "tip_mm": 121,
+        "waist_mm": 84,
+        "tail_mm": 104,
+        "radius_m": 13,
+        "weight_g": 4740
+      },
+      {
+        "length_cm": 167,
+        "tip_mm": 122,
+        "waist_mm": 84,
+        "tail_mm": 105,
+        "radius_m": 15,
+        "weight_g": 4920
+      },
+      {
+        "length_cm": 175,
+        "tip_mm": 123,
+        "waist_mm": 84,
+        "tail_mm": 106,
+        "radius_m": 16,
+        "weight_g": 5300
+      }
+    ],
+    "weight_note": "para z płytami i wiązaniami (Salomon: 'Net Weight', zestaw: narty + płyty + wiązania)",
+    "description_pl": "Damska narta all-mountain z talią 84 mm, rdzeniem karuba/topola i pojedynczą warstwą tytanalu, sprzedawana w zestawie z wiązaniem M11. Lepiej czuje się na twardej i mieszanej nawierzchni niż w głębokim śniegu.",
+    "review_pl": {
+      "sections": [
+        {
+          "title": "Charakter",
+          "text": "Pojedyncza warstwa tytanalu nad rdzeniem i pełne ścianki sandwich dają dobry chwyt na oblodzonej trasie, a karuba trzyma masę w ryzach. Krótki promień (13 m przy 159 cm, 15 m przy 167 cm) sprzyja skrętom średnim i krótszym. Rocker 12% w dziobie i 15% w piętce ułatwia wyjście ze skrętu i jazdę po muldach."
+        },
+        {
+          "title": "Dla kogo",
+          "text": "Dla narciarki średniozaawansowanej i zaawansowanej, która jeździ głównie po trasach i chce narty żywszej i pewniejszej niż typowy damski model rekreacyjny. Zestaw z wiązaniem M11 na płycie Easytrak upraszcza zakup i regulację. Rozmiarówka od 151 do 175 cm."
+        },
+        {
+          "title": "Na co uważać",
+          "text": "Masa zestawu jest wyraźna (4920 g za parę z wiązaniami przy 167 cm), co czuć przy noszeniu i na wyciągu orczykowym. Przy 84 mm w talii w głębokim puchu narta szybko tonie. Wiązanie systemowe ogranicza późniejszą zmianę na model z wyższym zakresem DIN."
+        }
+      ]
+    },
+    "image": "/images/skis-v/salomon-stance-84-w-2026-27.webp",
+    "image_source": "https://cdn.dam.salomon.com/7249d598-feb4-4d54-9225-b31b00bbcb20/L47952600%2B/PNG-2000px-max-72dpi.png",
+    "source_url": "https://www.salomon.com/en-us/product/stance-84-and-m11-li8839",
+    "note": "Strona Salomona nie podaje sezonu; Ski Essentials (test 2027) opisuje Stance W 84 na 2027 jako model bez zmian względem 2026 (ta sama konstrukcja, kształt i profil), więc przyjęto 2026/27. Salomon nazywa produkt 'Stance 84 (and M11) Women'. Zakres DIN wiązania M11 nie jest podany na stronie (na zdjęciu widać pięty GripWalk). Ski Essentials podaje poziom tylko intermediate, Salomon: Advanced, Intermediate.",
+    "image_original": "/images/skis/salomon-stance-84-w-2026-27.png"
+  }
+]

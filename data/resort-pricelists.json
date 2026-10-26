@@ -1,0 +1,7100 @@
+{
+ "szczyrk-mountain-resort": {
+  "season": "2026/27",
+  "source_url": "https://www.szczyrkowski.pl/cennik/zima/cennik-skipassow",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Dorosły",
+    "note": "18-59 lat"
+   },
+   {
+    "id": "junior_senior",
+    "label": "Junior / Senior",
+    "note": "junior 12-17 lat lub z kartą ISIC, ITIC, EURO26, GO26; senior od 60 lat"
+   },
+   {
+    "id": "child",
+    "label": "Dziecko",
+    "note": "6-11 lat"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Wspólny skipass SMR, COS, BSA 1-6 dni (kasa, 8:30-16:00)",
+    "period": "sezon niski: od otwarcia do 24.12.2026 oraz od 01.03.2027",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 175,
+       "junior_senior": 140,
+       "child": 123
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 340,
+       "junior_senior": 272,
+       "child": 238
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 510,
+       "junior_senior": 408,
+       "child": 357
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 665,
+       "junior_senior": 532,
+       "child": 466
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 788,
+       "junior_senior": 630,
+       "child": 552
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 945,
+       "junior_senior": 756,
+       "child": 662
+      }
+     }
+    ]
+   },
+   {
+    "title": "Wspólny skipass SMR, COS, BSA 1-6 dni (kasa, 8:30-16:00)",
+    "period": "sezon wysoki: 25.12.2026 - 28.02.2027",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 229,
+       "junior_senior": 184,
+       "child": 161
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 445,
+       "junior_senior": 356,
+       "child": 311
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 667,
+       "junior_senior": 534,
+       "child": 467
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 871,
+       "junior_senior": 697,
+       "child": 610
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 1031,
+       "junior_senior": 825,
+       "child": 722
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 1237,
+       "junior_senior": 990,
+       "child": 866
+      }
+     }
+    ]
+   },
+   {
+    "title": "Skipassy godzinowe, tylko w kasach (cennik 2025/26)",
+    "period": "sezon niski: od otwarcia do 24.12 i od 02.03",
+    "rows": [
+     {
+      "label": "12:00-16:00",
+      "prices": {
+       "adult": 124,
+       "junior_senior": 100,
+       "child": 87
+      }
+     },
+     {
+      "label": "13:00-16:00",
+      "prices": {
+       "adult": 114,
+       "junior_senior": 92,
+       "child": 80
+      }
+     },
+     {
+      "label": "14:00-16:00",
+      "prices": {
+       "adult": 74,
+       "junior_senior": 60,
+       "child": 52
+      }
+     }
+    ]
+   },
+   {
+    "title": "Skipassy godzinowe, tylko w kasach (cennik 2025/26)",
+    "period": "sezon wysoki: 25.12 - 01.03",
+    "rows": [
+     {
+      "label": "12:00-16:00",
+      "prices": {
+       "adult": 159,
+       "junior_senior": 128,
+       "child": 112
+      }
+     },
+     {
+      "label": "13:00-16:00",
+      "prices": {
+       "adult": 144,
+       "junior_senior": 116,
+       "child": 101
+      }
+     },
+     {
+      "label": "14:00-16:00",
+      "prices": {
+       "adult": 94,
+       "junior_senior": 76,
+       "child": 66
+      }
+     }
+    ]
+   },
+   {
+    "title": "Pojedyncze wjazdy i dodatki",
+    "rows": [
+     {
+      "label": "1 wjazd narciarski",
+      "prices": {
+       "adult": 59,
+       "junior_senior": 48,
+       "child": 42
+      }
+     },
+     {
+      "label": "Dopłata FAST PASS (1 dzień, tylko w kasie)",
+      "prices": {
+       "adult": 160,
+       "junior_senior": 160,
+       "child": 160
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Ceny skipassów 1-6 dni to stałe ceny kasowe 2026/27 z oficjalnego kalkulatora cen na szczyrkowski.pl (stan na 24.10.2026); karnety wielodniowe rozpoczęte 24.12 liczone częściowo po stawkach sezonu wysokiego",
+   "Ceny online w GOPASS są dynamiczne i zależą od terminu zakupu (np. 1 dzień 15.01.2027 kupowany 24.10.2026: 127 zł zamiast 229 zł w kasie); w automatach GOPASS Tickets ok. 20 zł taniej niż w kasie",
+   "Skipass 1-6 dni ważny w Szczyrk Mountain Resort, COS Skrzyczne i Beskid Sport Arena",
+   "Skipassy godzinowe pochodzą z części cennika oznaczonej jako 2025/26, cen godzinowych 2026/27 jeszcze nie opublikowano",
+   "Dzieci do 6 lat bezpłatnie w towarzystwie osoby dorosłej",
+   "Karnety sezonowe Gopass SKI Sezonówka 2026/27 sprzedawane na gopass.travel, cena rośnie od 01.12.2026; kwot nie podano w treści strony"
+  ]
+ },
+ "kotelnica-bialczanska": {
+  "season": "2026/27",
+  "source_url": "https://tatrysuperski.pl/api/pricelist.json",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "normal",
+    "label": "Normalny",
+    "note": "od 16 do 64 lat"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "dzieci i młodzież do 16. urodzin oraz seniorzy od 65 lat (tylko w kasach)"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety dzienne, wielodniowe i godzinowe",
+    "period": "Okres przedświąteczny: od otwarcia do 24.12.2026",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "normal": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "normal": 305,
+       "reduced": 265
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "normal": 440,
+       "reduced": 380
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "normal": 565,
+       "reduced": 485
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "normal": 685,
+       "reduced": 585
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "normal": 790,
+       "reduced": 670
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "normal": 875,
+       "reduced": 765
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "normal": 455,
+       "reduced": 395
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "normal": 705,
+       "reduced": 605
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "normal": 145,
+       "reduced": 120
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "normal": 140,
+       "reduced": 115
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety dzienne, wielodniowe i godzinowe",
+    "period": "Okres świąteczny: 25.12.2026 - 06.01.2027",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "normal": 200,
+       "reduced": 175
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "normal": 370,
+       "reduced": 330
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "normal": 540,
+       "reduced": 480
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "normal": 695,
+       "reduced": 615
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "normal": 845,
+       "reduced": 745
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "normal": 980,
+       "reduced": 860
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "normal": 1085,
+       "reduced": 985
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "normal": 555,
+       "reduced": 495
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "normal": 865,
+       "reduced": 765
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "normal": 185,
+       "reduced": 160
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "normal": 165,
+       "reduced": 140
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety dzienne, wielodniowe i godzinowe",
+    "period": "Sezon wysoki: 07.01.2027 - 07.03.2027",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "normal": 185,
+       "reduced": 160
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "normal": 345,
+       "reduced": 305
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "normal": 500,
+       "reduced": 440
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "normal": 645,
+       "reduced": 565
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "normal": 785,
+       "reduced": 685
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "normal": 905,
+       "reduced": 785
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "normal": 1000,
+       "reduced": 900
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "normal": 515,
+       "reduced": 455
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "normal": 805,
+       "reduced": 705
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "normal": 170,
+       "reduced": 145
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "normal": 165,
+       "reduced": 140
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety dzienne, wielodniowe i godzinowe",
+    "period": "Sezon niski: 08.03.2027 - koniec sezonu",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "normal": 180,
+       "reduced": 155
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "normal": 335,
+       "reduced": 295
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "normal": 480,
+       "reduced": 420
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "normal": 620,
+       "reduced": 540
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "normal": 750,
+       "reduced": 650
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "normal": 865,
+       "reduced": 745
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "normal": 960,
+       "reduced": 850
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "normal": 495,
+       "reduced": 435
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "normal": 770,
+       "reduced": 670
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "normal": 160,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "normal": 150,
+       "reduced": 130
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnet sezonowy (dowolne dni)",
+    "rows": [
+     {
+      "label": "14 dowolnych dni w sezonie",
+      "prices": {
+       "normal": 1939,
+       "reduced": 1659
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Ceny karnetu Tatry Super Ski, ważnego w 19 ośrodkach w Polsce i na Słowacji (m.in. Kotelnica Białczańska, Kaniówka, Bania, Jurgów-Ski, Rusiń-Ski, Czorsztyn-Ski)",
+   "Kaucja zwrotna za kartę KeyCard 10 zł (nie wliczona w ceny)",
+   "Karnet po 16:00 ważny od 16:00 do zamknięcia ośrodka",
+   "Karnet DZD (dziecko do 5 lat z opiekunem): cena karnetu normalnego plus 10 zł za każdy dzień, tylko w kasach",
+   "Seniorzy od 75 lat: karnet dzienny 20 zł za każdy dzień, tylko w kasach",
+   "Grupy od 20 osób: rabat 10% (do 13.12.2026 na okres przedświąteczny 15%), co 21. osoba za 10 zł za dzień",
+   "Karnety ulgowe, DZD, senior i grupowe sprzedawane wyłącznie w kasach ośrodków",
+   "Strona bialkatatrzanska.pl/zima/cennik odsyła do cennika Tatry Super Ski; lokalnego karnetu Kotelnicy nie opublikowano"
+  ]
+ },
+ "czarna-gora": {
+  "season": "2026/27",
+  "source_url": "https://czarnagora.pl/sprawdz-cene/",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "normal",
+    "label": "Normalny"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "dzieci do 12 lat, studenci z legitymacją, osoby niepełnosprawne, seniorzy powyżej 60 lat"
+   },
+   {
+    "id": "family",
+    "label": "Rodzinny",
+    "note": "cena za cały pakiet"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety godzinowe",
+    "rows": [
+     {
+      "label": "2 godziny",
+      "prices": {
+       "normal": 110,
+       "reduced": 100
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "normal": 140,
+       "reduced": 130
+      }
+     },
+     {
+      "label": "7 godzin",
+      "prices": {
+       "normal": 160,
+       "reduced": 145
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety wielodniowe (kolejne dni)",
+    "rows": [
+     {
+      "label": "2 dni",
+      "prices": {
+       "normal": 310,
+       "reduced": 270
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "normal": 490,
+       "reduced": 420
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "normal": 560,
+       "reduced": 500
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "normal": 690,
+       "reduced": 600
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "normal": 790,
+       "reduced": 690
+      }
+     },
+     {
+      "label": "6 dowolnych dni w sezonie",
+      "prices": {
+       "normal": 920,
+       "reduced": 820
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety rodzinne 7 godzin",
+    "rows": [
+     {
+      "label": "Rodzic + dziecko",
+      "prices": {
+       "family": 285
+      }
+     },
+     {
+      "label": "2 rodziców + dziecko",
+      "prices": {
+       "family": 440
+      }
+     },
+     {
+      "label": "2 rodziców + 2 dzieci",
+      "prices": {
+       "family": 550
+      }
+     },
+     {
+      "label": "2 rodziców + 3 dzieci",
+      "prices": {
+       "family": 690
+      }
+     }
+    ]
+   },
+   {
+    "title": "Sezonowe",
+    "rows": [
+     {
+      "label": "Karnet sezonowy 2026/27",
+      "prices": {
+       "normal": 1750,
+       "reduced": 1610
+      }
+     },
+     {
+      "label": "6 dowolnych dni + przejazd ratrakiem (limit 10 szt.)",
+      "prices": {
+       "normal": 699
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety punktowe",
+    "rows": [
+     {
+      "label": "1 punkt",
+      "prices": {
+       "normal": 7
+      }
+     },
+     {
+      "label": "30 pkt (15 + 15 gratis)",
+      "prices": {
+       "normal": 105
+      }
+     },
+     {
+      "label": "100 pkt (50 + 50 gratis)",
+      "prices": {
+       "normal": 350
+      }
+     },
+     {
+      "label": "200 pkt (100 + 100 gratis)",
+      "prices": {
+       "normal": 700
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Ceny regularne sezonu 2026/27; w sklepie online przedsprzedaż z rabatem do 20%",
+   "Brak karnetu 1-dniowego, najdłuższy karnet jednodniowy to 7 godzin",
+   "Punkty za przejazd: Efka 6, Żmija 9, Luxtorpeda 12, Biba 4, Proca 5, Bartuś 4, Baba 3, Jaga 3, Jędruś 3",
+   "Jednorazowy wjazd i zjazd turystyczny 50 zł"
+  ]
+ },
+ "kasprowy-wierch": {
+  "season": "2025/26",
+  "source_url": "https://www.pkl.pl/kasprowy-wierch/cennik-skipass.html",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "normal",
+    "label": "Normalny",
+    "note": "16-64 lata"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "5-15 lat, od 65 lat, osoby ze znacznym stopniem niepełnosprawności"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Kasy, skipassomaty, BOK Gubałówka",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "normal": 175,
+       "reduced": 149
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "normal": 199,
+       "reduced": 159
+      }
+     },
+     {
+      "label": "SKIpass TOP Skitour całodzienny (bez kolei Kasprowy Wierch)",
+      "prices": {
+       "normal": 132,
+       "reduced": 106
+      }
+     },
+     {
+      "label": "SKIpass TOP Skitour 10 przejazdów (bez kolei Kasprowy Wierch)",
+      "prices": {
+       "normal": 145,
+       "reduced": 116
+      }
+     },
+     {
+      "label": "1 przejazd koleją Gąsienicowa lub Goryczkowa",
+      "prices": {
+       "normal": 39
+      }
+     }
+    ]
+   },
+   {
+    "title": "Skipass ekspresowy (BOK Kuźnice)",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "normal": 269,
+       "reduced": 219
+      }
+     }
+    ]
+   },
+   {
+    "title": "Online, zakup min. 7 dni przed terminem (pula ograniczona)",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "normal": 155,
+       "reduced": 124
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "normal": 169,
+       "reduced": 135
+      }
+     }
+    ]
+   },
+   {
+    "title": "Online, zakup mniej niż 7 dni przed terminem",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "normal": 165,
+       "reduced": 135
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "normal": 189,
+       "reduced": 145
+      }
+     }
+    ]
+   },
+   {
+    "title": "Skipass sezonowy 2026/27 (Grupa PKL: Kasprowy Wierch, Jaworzyna Krynicka, Gubałówka, Palenica, Mosorny Groń)",
+    "rows": [
+     {
+      "label": "Zakup do 30.09.2026",
+      "prices": {
+       "normal": 2099,
+       "reduced": 1699
+      }
+     },
+     {
+      "label": "Zakup 01.10.2026 - 30.11.2026",
+      "prices": {
+       "normal": 2499,
+       "reduced": 1999
+      }
+     },
+     {
+      "label": "Od 01.12.2026 (cena regularna)",
+      "prices": {
+       "normal": 2799,
+       "reduced": 2299
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik skipassów dziennych z sezonu 2025/26 (potwierdzony w archiwum strony z 14.01.2026); cennika dziennego 2026/27 jeszcze nie opublikowano, polska podstrona cennika jest obecnie pusta",
+   "Skipass sezonowy dotyczy sezonu 2026/27 (pkl.pl/kasprowy-wierch/skipass-sezonowy.html); nie obejmuje przejazdu koleją na Kasprowy Wierch, miejscówka online 45 zł",
+   "Skipass 4h i 1 dzień obejmuje jeden wjazd koleją linową na Kasprowy Wierch oraz kartę czasową na koleje Gąsienicowa i Goryczkowa",
+   "Dzieci do 4 lat bezpłatnie",
+   "Kaucja za kartę PKLpass 10 zł",
+   "Karta Dużej Rodziny: 5% zniżki w kasie"
+  ]
+ },
+ "pilsko": {
+  "season": "2026/27",
+  "source_url": "https://pilsko-jontek.e-skipass.pl/",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "normal",
+    "label": "Normalny"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Ceny bazowe w sklepie online e-skipass",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "normal": 200
+      }
+     },
+     {
+      "label": "2 kolejne dni",
+      "prices": {
+       "normal": 350
+      }
+     },
+     {
+      "label": "3 kolejne dni",
+      "prices": {
+       "normal": 470
+      }
+     },
+     {
+      "label": "4 kolejne dni",
+      "prices": {
+       "normal": 570
+      }
+     },
+     {
+      "label": "5 kolejnych dni",
+      "prices": {
+       "normal": 645
+      }
+     },
+     {
+      "label": "6 kolejnych dni",
+      "prices": {
+       "normal": 750
+      }
+     }
+    ]
+   },
+   {
+    "title": "Sezonowe",
+    "rows": [
+     {
+      "label": "Karnet całosezonowy",
+      "prices": {
+       "normal": 1999
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Ośrodek nie publikuje kasowego cennika karnetów na stronie; podano ceny bazowe ze sklepu online, w przedsprzedaży 5% taniej (np. 1 dzień 190 zł)",
+   "Sklep online sprzedaje tylko karnety normalne; ulgi wg regulaminu 2025/26: dzieci i młodzież do 14 lat, kobiety od 60 lat, mężczyźni od 65 lat",
+   "Dzieci do 4 lat i 120 cm wzrostu jeżdżą bezpłatnie z opiekunem na kolejach Kamienna i Jontek - Buczynka",
+   "Kaucja za kartę 10 zł",
+   "Wyciągi czynne 8:30-20:30 (część wyciągów 8:30-16:00); w ofercie także karnety 3 i 5 godzinne oraz wieczorny 16:30-20:30, ich cen nie opublikowano"
+  ]
+ },
+ "dwie-doliny-wierchomla": {
+  "season": "2026/27",
+  "source_url": "https://www.wierchomla.com.pl/stacja-narciarska-zima/cennik-karnetow",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "normal",
+    "label": "Normalny"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "dzieci do 12 lat z legitymacją szkolną, osoby po 60. roku życia"
+   },
+   {
+    "id": "school",
+    "label": "S-COOL",
+    "note": "uczniowie szkół z powiatu nowosądeckiego biorących udział w projekcie"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety specjalne",
+    "rows": [
+     {
+      "label": "S-COOL karnet 3 godziny",
+      "prices": {
+       "school": 45
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety punktowe (cennik 2025/26)",
+    "rows": [
+     {
+      "label": "1 punkt",
+      "prices": {
+       "normal": 1.5
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik 2026/27 na stronie ośrodka ma pustą tabelę cen (wypisane są tylko rodzaje karnetów: 2, 4 i 6 godzinne ruchome, popołudniowy od 15:00, karnet mieszkańca, Sylwester, rodzinne 2+1, 2+2, 2+3, 1-7 dni, 3 i 5 dowolnych dni); ceny tych karnetów niedostępne",
+   "Punkty za przejazd: kolej krzesełkowa Wierchomla 20, Toczek 5, Polanki 7, Stonoga 3",
+   "Kaucja za kartę 10 zł"
+  ]
+ },
+ "szrenica": {
+  "season": "2025/26",
+  "source_url": "https://szrenicaskiarena.pl/zima/cennik/",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Dorośli"
+   },
+   {
+    "id": "youth",
+    "label": "Młodzież",
+    "note": "15-18 lat (roczniki 2007-2010)"
+   },
+   {
+    "id": "child",
+    "label": "Dzieci",
+    "note": "7-14 lat (roczniki 2011-2018)"
+   },
+   {
+    "id": "toddler",
+    "label": "Dzieci 0-6 lat",
+    "note": "rocznik 2019 i młodsze"
+   },
+   {
+    "id": "senior",
+    "label": "Seniorzy",
+    "note": "od 60 lat"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety czasowe i dzienne (8:30-16:00)",
+    "period": "06.12.2025 - 06.04.2026",
+    "rows": [
+     {
+      "label": "2 godziny",
+      "prices": {
+       "adult": 105,
+       "youth": 85,
+       "child": 58,
+       "toddler": 0,
+       "senior": 85
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 150,
+       "youth": 115,
+       "child": 85,
+       "toddler": 0,
+       "senior": 115
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 185,
+       "youth": 150,
+       "child": 105,
+       "toddler": 0,
+       "senior": 150
+      }
+     },
+     {
+      "label": "Baby Lift 10 przejazdów",
+      "prices": {
+       "adult": 42
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety wielodniowe (8:30-16:00)",
+    "rows": [
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 330,
+       "child": 190
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 470,
+       "child": 285
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 615,
+       "child": 370
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 740,
+       "child": 450
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 880,
+       "child": 545
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 1010,
+       "child": 620
+      }
+     },
+     {
+      "label": "3 dni z 5",
+      "prices": {
+       "adult": 540,
+       "child": 326
+      }
+     }
+    ]
+   },
+   {
+    "title": "Jazda nocna (Puchatek 18:00-21:00)",
+    "rows": [
+     {
+      "label": "Wieczór",
+      "prices": {
+       "adult": 115,
+       "child": 68
+      }
+     }
+    ]
+   },
+   {
+    "title": "Sezonowe",
+    "rows": [
+     {
+      "label": "Karnet sezonowy 06.12.2025 - 06.04.2026",
+      "prices": {
+       "adult": 3120,
+       "youth": 2500,
+       "child": 1780,
+       "toddler": 0,
+       "senior": 2500
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik 2026/27 jeszcze nie opublikowany, podano cennik 2025/26",
+   "W karnetach wielodniowych cennik podaje tylko cenę dla dorosłych i dzieci",
+   "Dzieci do 6 lat bezpłatnie",
+   "Kaucja zwrotna za kartę Free Hands 10 zł",
+   "Baby Lift: cena jednolita"
+  ]
+ },
+ "jaworzyna-krynicka": {
+  "season": "2025/26",
+  "source_url": "https://jaworzynakrynicka.pl/cennik-skipassow-2/",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "normal",
+    "label": "Normalny"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "dzieci do 15 lat, seniorzy 65+, osoby ze znacznym stopniem niepełnosprawności, niewidomi i ich opiekunowie"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Ceny kasowe",
+    "period": "sezon niski: 29.11 - 24.12.2025 oraz od 09.03.2026 (9:00-16:00)",
+    "rows": [
+     {
+      "label": "3 godziny (13:00-16:00)",
+      "prices": {
+       "normal": 80,
+       "reduced": 70
+      }
+     },
+     {
+      "label": "4 godziny (9:00-16:00)",
+      "prices": {
+       "normal": 120,
+       "reduced": 100
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "normal": 145,
+       "reduced": 120
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "normal": 260,
+       "reduced": 225
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "normal": 370,
+       "reduced": 315
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "normal": 460,
+       "reduced": 390
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "normal": 515,
+       "reduced": 440
+      }
+     },
+     {
+      "label": "Żółwik (gondola góra-dół + wyciąg szkoleniowy)",
+      "prices": {
+       "normal": 70,
+       "reduced": 60
+      }
+     },
+     {
+      "label": "Misiek 1 godzina",
+      "prices": {
+       "normal": 30
+      }
+     },
+     {
+      "label": "Misiek 4 godziny",
+      "prices": {
+       "normal": 50
+      }
+     }
+    ]
+   },
+   {
+    "title": "Ceny kasowe",
+    "period": "sezon wysoki: 25.12.2025 - 11.01.2026 (9:00-21:00)",
+    "rows": [
+     {
+      "label": "3 godziny (13:00-16:00)",
+      "prices": {
+       "normal": 120,
+       "reduced": 100
+      }
+     },
+     {
+      "label": "4 godziny (9:00-16:00)",
+      "prices": {
+       "normal": 170,
+       "reduced": 145
+      }
+     },
+     {
+      "label": "Wieczorny 18:00-21:00",
+      "prices": {
+       "normal": 95,
+       "reduced": 80
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "normal": 195,
+       "reduced": 165
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "normal": 360,
+       "reduced": 305
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "normal": 500,
+       "reduced": 420
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "normal": 625,
+       "reduced": 530
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "normal": 735,
+       "reduced": 625
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "normal": 835,
+       "reduced": 710
+      }
+     },
+     {
+      "label": "Żółwik",
+      "prices": {
+       "normal": 85,
+       "reduced": 75
+      }
+     },
+     {
+      "label": "Misiek 1 godzina",
+      "prices": {
+       "normal": 40
+      }
+     },
+     {
+      "label": "Misiek 4 godziny",
+      "prices": {
+       "normal": 60
+      }
+     }
+    ]
+   },
+   {
+    "title": "Ceny kasowe",
+    "period": "ferie zimowe: 12.01 - 08.03.2026 (9:00-21:00)",
+    "rows": [
+     {
+      "label": "3 godziny (13:00-16:00)",
+      "prices": {
+       "normal": 105,
+       "reduced": 90
+      }
+     },
+     {
+      "label": "4 godziny (9:00-16:00)",
+      "prices": {
+       "normal": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "Wieczorny 18:00-21:00",
+      "prices": {
+       "normal": 80,
+       "reduced": 70
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "normal": 185,
+       "reduced": 155
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "normal": 325,
+       "reduced": 275
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "normal": 480,
+       "reduced": 410
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "normal": 600,
+       "reduced": 505
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "normal": 710,
+       "reduced": 605
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "normal": 825,
+       "reduced": 700
+      }
+     },
+     {
+      "label": "Żółwik",
+      "prices": {
+       "normal": 80,
+       "reduced": 65
+      }
+     },
+     {
+      "label": "Misiek 1 godzina",
+      "prices": {
+       "normal": 30
+      }
+     },
+     {
+      "label": "Misiek 4 godziny",
+      "prices": {
+       "normal": 55
+      }
+     }
+    ]
+   },
+   {
+    "title": "Dowolne dni w sezonie (tylko online)",
+    "rows": [
+     {
+      "label": "5 dowolnych dni",
+      "prices": {
+       "normal": 755,
+       "reduced": 640
+      }
+     },
+     {
+      "label": "7 dowolnych dni",
+      "prices": {
+       "normal": 950,
+       "reduced": 810
+      }
+     }
+    ]
+   },
+   {
+    "title": "Skipass sezonowy 2026/27 (Grupa PKL: Kasprowy Wierch, Jaworzyna Krynicka, Gubałówka, Palenica, Mosorny Groń)",
+    "rows": [
+     {
+      "label": "Zakup do 30.09.2026",
+      "prices": {
+       "normal": 2099,
+       "reduced": 1699
+      }
+     },
+     {
+      "label": "Zakup 01.10.2026 - 30.11.2026",
+      "prices": {
+       "normal": 2499,
+       "reduced": 1999
+      }
+     },
+     {
+      "label": "Od 01.12.2026 (cena regularna)",
+      "prices": {
+       "normal": 2799,
+       "reduced": 2299
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik z sezonu 2025/26 (okresy wysoki i ferie z archiwum strony z 20.01.2026); cennika 2026/27 jeszcze nie opublikowano",
+   "Skipass sezonowy dotyczy sezonu 2026/27, wspólny dla ośrodków Grupy PKL, dostępny tylko online",
+   "Online taniej: np. 1 dzień w sezonie wysokim 190 zł normalny i 160 zł ulgowy, przy zakupie min. 7 dni wcześniej 170 zł i 140 zł",
+   "Skipassy 1-6 dniowe obejmują jazdę wieczorną (18:00-21:00, od 25.12 do 09.03)",
+   "Dzieci urodzone po 01.01.2022: skipass za 1 zł przy zakupie takiego samego skipassu dla opiekuna",
+   "Kaucja za kartę PKLpass 10 zł",
+   "Grupy powyżej 20 osób 5% rabatu, Karta Dużej Rodziny 5% w kasie"
+  ]
+ },
+ "slotwiny-arena": {
+  "season": "2026/27",
+  "source_url": "https://slotwinyarena.pl/cennik-karnetow-narciarskich/",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Dorosły"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "uczeń lub student (roczniki 2000-2010) z legitymacją, senior (rocznik 1967 i starsi)"
+   },
+   {
+    "id": "child",
+    "label": "Dziecko",
+    "note": "roczniki 2011-2021"
+   },
+   {
+    "id": "toddler",
+    "label": "Maluch",
+    "note": "rocznik 2022 i młodsze, tylko z takim samym karnetem dla opiekuna"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety godzinowe",
+    "rows": [
+     {
+      "label": "3 godziny",
+      "prices": {
+       "toddler": 1,
+       "child": 84,
+       "reduced": 126,
+       "adult": 140
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "toddler": 1,
+       "child": 90,
+       "reduced": 135,
+       "adult": 150
+      }
+     },
+     {
+      "label": "Dzienny (do 15:00)",
+      "prices": {
+       "toddler": 1,
+       "child": 108,
+       "reduced": 162,
+       "adult": 180
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety całodzienne (dzień + wieczór, 8:00-21:00)",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "toddler": 1,
+       "child": 123,
+       "reduced": 184,
+       "adult": 205
+      }
+     },
+     {
+      "label": "2 kolejne dni",
+      "prices": {
+       "toddler": 1,
+       "child": 209,
+       "reduced": 313,
+       "adult": 349
+      }
+     },
+     {
+      "label": "3 kolejne dni",
+      "prices": {
+       "toddler": 1,
+       "child": 295,
+       "reduced": 442,
+       "adult": 492
+      }
+     },
+     {
+      "label": "4 kolejne dni",
+      "prices": {
+       "toddler": 1,
+       "child": 393,
+       "reduced": 590,
+       "adult": 656
+      }
+     },
+     {
+      "label": "5 kolejnych dni",
+      "prices": {
+       "toddler": 1,
+       "child": 492,
+       "reduced": 738,
+       "adult": 820
+      }
+     },
+     {
+      "label": "6 kolejnych dni",
+      "prices": {
+       "toddler": 1,
+       "child": 590,
+       "reduced": 885,
+       "adult": 984
+      }
+     },
+     {
+      "label": "7 kolejnych dni",
+      "prices": {
+       "toddler": 1,
+       "child": 688,
+       "reduced": 1033,
+       "adult": 1148
+      }
+     }
+    ]
+   },
+   {
+    "title": "Sezonowe (Pingwin PASS)",
+    "rows": [
+     {
+      "label": "SKI Słotwiny Arena",
+      "prices": {
+       "toddler": 29,
+       "child": 1349,
+       "reduced": 2024,
+       "adult": 2249
+      }
+     },
+     {
+      "label": "SKI Grupa Pingwina",
+      "prices": {
+       "toddler": 29,
+       "child": 1499,
+       "reduced": 2249,
+       "adult": 2499
+      }
+     },
+     {
+      "label": "SKI & BIKE Grupa Pingwina",
+      "prices": {
+       "toddler": 29,
+       "child": 2099,
+       "reduced": 3149,
+       "adult": 3499
+      }
+     },
+     {
+      "label": "Grupa Pingwina GOLD",
+      "prices": {
+       "toddler": 29,
+       "child": 2399,
+       "reduced": 3599,
+       "adult": 3999
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik ważny od 01.09.2026, ulgi obowiązują 01.09.2026 - 15.04.2027",
+   "Kaucja za kartę 10 zł",
+   "Karnet rodzinny: 5% rabatu (max 2 dorosłych i min. 1 dziecko z rocznika 2011 lub młodsze)",
+   "Karta Dużej Rodziny: 5% rabatu; osoby z niepełnosprawnością: 10% rabatu; grupy od 15 osób: 10% rabatu",
+   "Karnet godzinowy aktywowany przy pierwszym przejściu przez bramkę, tylko w dniu zakupu"
+  ]
+ },
+ "karpacz-ski-arena": {
+  "season": "2025/26",
+  "source_url": "https://karpaczskiarena.pl/cennik-skiarena-karpacz/",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Normalny"
+   },
+   {
+    "id": "child",
+    "label": "Dziecięcy",
+    "note": "dzieci i młodzież do 18 lat"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety, poniedziałek - czwartek",
+    "period": "sezon wysoki: 28.11.2025 - 01.03.2026",
+    "rows": [
+     {
+      "label": "2 godziny",
+      "prices": {
+       "adult": 95,
+       "child": 85
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 120,
+       "child": 105
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 140,
+       "child": 120
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety, piątek - niedziela",
+    "period": "sezon wysoki: 28.11.2025 - 01.03.2026",
+    "rows": [
+     {
+      "label": "2 godziny",
+      "prices": {
+       "adult": 105,
+       "child": 95
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 130,
+       "child": 115
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 150,
+       "child": 130
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety wielodniowe (cały tydzień)",
+    "period": "sezon wysoki: 28.11.2025 - 01.03.2026",
+    "rows": [
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 280,
+       "child": 230
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 390,
+       "child": 330
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety, poniedziałek - czwartek",
+    "period": "sezon niski: od 02.03.2026 do końca sezonu",
+    "rows": [
+     {
+      "label": "2 godziny",
+      "prices": {
+       "adult": 85,
+       "child": 75
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 95,
+       "child": 85
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 100,
+       "child": 90
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety, piątek - niedziela",
+    "period": "sezon niski: od 02.03.2026 do końca sezonu",
+    "rows": [
+     {
+      "label": "2 godziny",
+      "prices": {
+       "adult": 95,
+       "child": 85
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 100,
+       "child": 90
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 110,
+       "child": 100
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety wielodniowe (cały tydzień)",
+    "period": "sezon niski: od 02.03.2026 do końca sezonu",
+    "rows": [
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 200,
+       "child": 180
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 290,
+       "child": 260
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik karnetów narciarskich 2025/26, nowego jeszcze nie opublikowano (strona pokazuje obecnie cennik kolei turystycznej)",
+   "Dzieci do 5 lat bezpłatnie",
+   "Karnet nie obejmuje taśmy Kubuś (prowadzi ją szkółka narciarska)",
+   "Rabaty dla gości hotelowych",
+   "Cennik nie podaje wysokości kaucji za kartę"
+  ]
+ },
+ "skrzyczne": {
+  "season": "2026/27",
+  "source_url": "https://www.szczyrkowski.pl/cennik/zima/cennik-skipassow",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Dorosły",
+    "note": "18-59 lat"
+   },
+   {
+    "id": "junior_senior",
+    "label": "Junior / Senior",
+    "note": "junior 12-17 lat lub z kartą ISIC, ITIC, EURO26, GO26; senior od 60 lat"
+   },
+   {
+    "id": "child",
+    "label": "Dziecko",
+    "note": "6-11 lat"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Wspólny skipass SMR, COS, BSA 1-6 dni (kasa, 8:30-16:00)",
+    "period": "sezon niski: od otwarcia do 24.12.2026 oraz od 01.03.2027",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 175,
+       "junior_senior": 140,
+       "child": 123
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 340,
+       "junior_senior": 272,
+       "child": 238
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 510,
+       "junior_senior": 408,
+       "child": 357
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 665,
+       "junior_senior": 532,
+       "child": 466
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 788,
+       "junior_senior": 630,
+       "child": 552
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 945,
+       "junior_senior": 756,
+       "child": 662
+      }
+     }
+    ]
+   },
+   {
+    "title": "Wspólny skipass SMR, COS, BSA 1-6 dni (kasa, 8:30-16:00)",
+    "period": "sezon wysoki: 25.12.2026 - 28.02.2027",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 229,
+       "junior_senior": 184,
+       "child": 161
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 445,
+       "junior_senior": 356,
+       "child": 311
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 667,
+       "junior_senior": 534,
+       "child": 467
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 871,
+       "junior_senior": 697,
+       "child": 610
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 1031,
+       "junior_senior": 825,
+       "child": 722
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 1237,
+       "junior_senior": 990,
+       "child": 866
+      }
+     }
+    ]
+   },
+   {
+    "title": "Skipassy godzinowe, tylko w kasach (cennik 2025/26)",
+    "period": "sezon niski: od otwarcia do 24.12 i od 02.03",
+    "rows": [
+     {
+      "label": "12:00-16:00",
+      "prices": {
+       "adult": 124,
+       "junior_senior": 100,
+       "child": 87
+      }
+     },
+     {
+      "label": "13:00-16:00",
+      "prices": {
+       "adult": 114,
+       "junior_senior": 92,
+       "child": 80
+      }
+     },
+     {
+      "label": "14:00-16:00",
+      "prices": {
+       "adult": 74,
+       "junior_senior": 60,
+       "child": 52
+      }
+     }
+    ]
+   },
+   {
+    "title": "Skipassy godzinowe, tylko w kasach (cennik 2025/26)",
+    "period": "sezon wysoki: 25.12 - 01.03",
+    "rows": [
+     {
+      "label": "12:00-16:00",
+      "prices": {
+       "adult": 159,
+       "junior_senior": 128,
+       "child": 112
+      }
+     },
+     {
+      "label": "13:00-16:00",
+      "prices": {
+       "adult": 144,
+       "junior_senior": 116,
+       "child": 101
+      }
+     },
+     {
+      "label": "14:00-16:00",
+      "prices": {
+       "adult": 94,
+       "junior_senior": 76,
+       "child": 66
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "COS Skrzyczne nie publikuje własnego zimowego cennika; skipassy 1-6 dni i godzinowe od 12, 13, 14 są wspólne z Szczyrk Mountain Resort i Beskid Sport Arena (cennik na szczyrkowski.pl)",
+   "Lokalny karnet 4-godzinny ważny tylko w COS Skrzyczne i BSA istnieje, ale jego ceny nie znaleziono w oficjalnych źródłach",
+   "Ceny 1-6 dni to stałe ceny kasowe 2026/27, online w GOPASS ceny dynamiczne",
+   "Skipassy godzinowe z cennika 2025/26",
+   "Na skrzyczne.cos.pl dostępny jest tylko cennik letni przejazdów turystycznych 2026 (np. Szczyrk - Skrzyczne - Szczyrk 79 zł normalny)"
+  ]
+ },
+ "zieleniec": {
+  "season": "2026/27",
+  "source_url": "https://zieleniec.pl/zima/cennik",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "normal",
+    "label": "Normalny"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "dzieci do 10 lat, seniorzy powyżej 65 lat, osoby z legitymacją osoby niepełnosprawnej"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety czasowe i wielodniowe",
+    "period": "wysoki sezon: 19.12.2026 - 28.02.2027",
+    "rows": [
+     {
+      "label": "2 godziny",
+      "prices": {
+       "normal": 110,
+       "reduced": 100
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "normal": 140,
+       "reduced": 125
+      }
+     },
+     {
+      "label": "5 godzin",
+      "prices": {
+       "normal": 150,
+       "reduced": 135
+      }
+     },
+     {
+      "label": "7 godzin",
+      "prices": {
+       "normal": 165,
+       "reduced": 145
+      }
+     },
+     {
+      "label": "4 godziny po 16:00",
+      "prices": {
+       "normal": 110,
+       "reduced": 100
+      }
+     },
+     {
+      "label": "2 dni (9:00-20:00)",
+      "prices": {
+       "normal": 320,
+       "reduced": 280
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "normal": 450,
+       "reduced": 380
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "normal": 575,
+       "reduced": 485
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "normal": 695,
+       "reduced": 590
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "normal": 775,
+       "reduced": 660
+      }
+     },
+     {
+      "label": "6 dowolnych dni",
+      "prices": {
+       "normal": 930,
+       "reduced": 790
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety czasowe i wielodniowe",
+    "period": "niski sezon: do 18.12.2026",
+    "rows": [
+     {
+      "label": "2 godziny",
+      "prices": {
+       "normal": 100,
+       "reduced": 90
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "normal": 125,
+       "reduced": 115
+      }
+     },
+     {
+      "label": "7 godzin",
+      "prices": {
+       "normal": 135,
+       "reduced": 120
+      }
+     },
+     {
+      "label": "4 godziny po 16:00",
+      "prices": {
+       "normal": 100,
+       "reduced": 90
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "normal": 220,
+       "reduced": 190
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "normal": 325,
+       "reduced": 275
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "normal": 420,
+       "reduced": 355
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "normal": 505,
+       "reduced": 425
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "normal": 580,
+       "reduced": 500
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety czasowe i wielodniowe",
+    "period": "super niski sezon: od 01.03.2027",
+    "rows": [
+     {
+      "label": "2 godziny",
+      "prices": {
+       "normal": 100,
+       "reduced": 90
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "normal": 125,
+       "reduced": 115
+      }
+     },
+     {
+      "label": "7 godzin",
+      "prices": {
+       "normal": 135,
+       "reduced": 120
+      }
+     },
+     {
+      "label": "4 godziny po 16:00",
+      "prices": {
+       "normal": 100,
+       "reduced": 90
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "normal": 160,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "normal": 225,
+       "reduced": 190
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "normal": 285,
+       "reduced": 240
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "normal": 345,
+       "reduced": 300
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "normal": 385,
+       "reduced": 330
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety punktowe (cały sezon)",
+    "rows": [
+     {
+      "label": "1 punkt",
+      "prices": {
+       "normal": 7.5
+      }
+     },
+     {
+      "label": "30 punktów",
+      "prices": {
+       "normal": 85
+      }
+     },
+     {
+      "label": "100 punktów",
+      "prices": {
+       "normal": 245
+      }
+     },
+     {
+      "label": "200 punktów",
+      "prices": {
+       "normal": 445
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Brak karnetu 1-dniowego, najdłuższy karnet jednodniowy to 7 godzin",
+   "Kaucja za kartę 10 zł płatna gotówką; karta papierowa bezzwrotna 3 zł",
+   "Dzieci do 5 lat bezpłatnie na kolejach krzesełkowych z opiekunem posiadającym karnet",
+   "W wysokim sezonie wyciągi czynne 9:00-21:00; w niskim i super niskim pn-czw 9:00-16:00, pt-nd 9:00-20:00",
+   "Karnety dniowe w super niskim sezonie to ok. 50% cen wysokiego sezonu i nie podlegają rabatom",
+   "Rabaty przy zakupie online; grupy od 22 osób 10-25% rabatu"
+  ]
+ },
+ "jurgow-ski": {
+  "season": "2026/27",
+  "source_url": "https://tatrysuperski.pl/api/pricelist.json",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "normal",
+    "label": "Normalny",
+    "note": "od 16 do 64 lat"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "dzieci i młodzież do 16. urodzin oraz seniorzy od 65 lat (tylko w kasach)"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety dzienne, wielodniowe i godzinowe",
+    "period": "Okres przedświąteczny: od otwarcia do 24.12.2026",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "normal": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "normal": 305,
+       "reduced": 265
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "normal": 440,
+       "reduced": 380
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "normal": 565,
+       "reduced": 485
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "normal": 685,
+       "reduced": 585
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "normal": 790,
+       "reduced": 670
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "normal": 875,
+       "reduced": 765
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "normal": 455,
+       "reduced": 395
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "normal": 705,
+       "reduced": 605
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "normal": 145,
+       "reduced": 120
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "normal": 140,
+       "reduced": 115
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety dzienne, wielodniowe i godzinowe",
+    "period": "Okres świąteczny: 25.12.2026 - 06.01.2027",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "normal": 200,
+       "reduced": 175
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "normal": 370,
+       "reduced": 330
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "normal": 540,
+       "reduced": 480
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "normal": 695,
+       "reduced": 615
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "normal": 845,
+       "reduced": 745
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "normal": 980,
+       "reduced": 860
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "normal": 1085,
+       "reduced": 985
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "normal": 555,
+       "reduced": 495
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "normal": 865,
+       "reduced": 765
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "normal": 185,
+       "reduced": 160
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "normal": 165,
+       "reduced": 140
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety dzienne, wielodniowe i godzinowe",
+    "period": "Sezon wysoki: 07.01.2027 - 07.03.2027",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "normal": 185,
+       "reduced": 160
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "normal": 345,
+       "reduced": 305
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "normal": 500,
+       "reduced": 440
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "normal": 645,
+       "reduced": 565
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "normal": 785,
+       "reduced": 685
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "normal": 905,
+       "reduced": 785
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "normal": 1000,
+       "reduced": 900
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "normal": 515,
+       "reduced": 455
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "normal": 805,
+       "reduced": 705
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "normal": 170,
+       "reduced": 145
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "normal": 165,
+       "reduced": 140
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety dzienne, wielodniowe i godzinowe",
+    "period": "Sezon niski: 08.03.2027 - koniec sezonu",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "normal": 180,
+       "reduced": 155
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "normal": 335,
+       "reduced": 295
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "normal": 480,
+       "reduced": 420
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "normal": 620,
+       "reduced": 540
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "normal": 750,
+       "reduced": 650
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "normal": 865,
+       "reduced": 745
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "normal": 960,
+       "reduced": 850
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "normal": 495,
+       "reduced": 435
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "normal": 770,
+       "reduced": 670
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "normal": 160,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "normal": 150,
+       "reduced": 130
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnet sezonowy (dowolne dni)",
+    "rows": [
+     {
+      "label": "14 dowolnych dni w sezonie",
+      "prices": {
+       "normal": 1939,
+       "reduced": 1659
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Ceny karnetu Tatry Super Ski, ważnego w 19 ośrodkach w Polsce i na Słowacji (m.in. Kotelnica Białczańska, Kaniówka, Bania, Jurgów-Ski, Rusiń-Ski, Czorsztyn-Ski)",
+   "Kaucja zwrotna za kartę KeyCard 10 zł (nie wliczona w ceny)",
+   "Karnet po 16:00 ważny od 16:00 do zamknięcia ośrodka",
+   "Karnet DZD (dziecko do 5 lat z opiekunem): cena karnetu normalnego plus 10 zł za każdy dzień, tylko w kasach",
+   "Seniorzy od 75 lat: karnet dzienny 20 zł za każdy dzień, tylko w kasach",
+   "Grupy od 20 osób: rabat 10% (do 13.12.2026 na okres przedświąteczny 15%), co 21. osoba za 10 zł za dzień",
+   "Karnety ulgowe, DZD, senior i grupowe sprzedawane wyłącznie w kasach ośrodków",
+   "Podstrona jurgowski.pl/cennik-jurgow-ski pokazuje jeszcze cennik 2025/26; ceny 2026/27 wzięte z oficjalnego API Tatry Super Ski"
+  ]
+ },
+ "czorsztyn-ski": {
+  "season": "2026/27",
+  "source_url": "https://tatrysuperski.pl/cennik/",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Normalny",
+    "note": "od 16 do 64 lat"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "dzieci i młodzież do ukończenia 16 lat oraz seniorzy od 65 lat"
+   },
+   {
+    "id": "family",
+    "label": "Pakiet dorosły + dziecko",
+    "note": "dziecko do 5 lat, tylko karnet lokalny"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Okres przedświąteczny od rozpoczęcia sezonu do 24 grudnia 2026",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 145,
+       "reduced": 120
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 140,
+       "reduced": 115
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 305,
+       "reduced": 265
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 440,
+       "reduced": 380
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 565,
+       "reduced": 485
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 685,
+       "reduced": 585
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 790,
+       "reduced": 670
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 875,
+       "reduced": 765
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 455,
+       "reduced": 395
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 705,
+       "reduced": 605
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Okres świąteczny od 25 grudnia 2026 do 06 stycznia 2027",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 185,
+       "reduced": 160
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 200,
+       "reduced": 175
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 370,
+       "reduced": 330
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 540,
+       "reduced": 480
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 695,
+       "reduced": 615
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 845,
+       "reduced": 745
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 980,
+       "reduced": 860
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 1085,
+       "reduced": 985
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 555,
+       "reduced": 495
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 865,
+       "reduced": 765
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Sezon wysoki od 07 stycznia 2027 do 07 marca 2027",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 170,
+       "reduced": 145
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 185,
+       "reduced": 160
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 345,
+       "reduced": 305
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 500,
+       "reduced": 440
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 645,
+       "reduced": 565
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 785,
+       "reduced": 685
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 905,
+       "reduced": 785
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 1000,
+       "reduced": 900
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 515,
+       "reduced": 455
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 805,
+       "reduced": 705
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Sezon niski od 08 marca 2027 do zakończenia sezonu",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 160,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 150,
+       "reduced": 130
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 180,
+       "reduced": 155
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 335,
+       "reduced": 295
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 480,
+       "reduced": 420
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 620,
+       "reduced": 540
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 750,
+       "reduced": 650
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 865,
+       "reduced": 745
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 960,
+       "reduced": 850
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 495,
+       "reduced": 435
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 770,
+       "reduced": 670
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnet sezonowy Tatry Super Ski",
+    "rows": [
+     {
+      "label": "14 dowolnych dni w sezonie",
+      "prices": {
+       "adult": 1939,
+       "reduced": 1659
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety lokalne Czorsztyn-Ski (cennik 2025/26)",
+    "period": "okres przedświąteczny do 24.12",
+    "rows": [
+     {
+      "label": "3 godziny",
+      "prices": {
+       "adult": 120,
+       "reduced": 110
+      }
+     },
+     {
+      "label": "Pakiet 3 godziny dorosły + dziecko do 5 lat",
+      "prices": {
+       "family": 130
+      }
+     },
+     {
+      "label": "Wieczorna jazda od 16:00",
+      "prices": {
+       "adult": 115,
+       "reduced": 105
+      }
+     },
+     {
+      "label": "Wieczorna jazda od 16:00 dorosły + dziecko do 5 lat",
+      "prices": {
+       "family": 125
+      }
+     },
+     {
+      "label": "1 godzina (wyciągi F, E, H)",
+      "prices": {
+       "adult": 60,
+       "reduced": 60
+      }
+     },
+     {
+      "label": "Karnet 5 wjazdów",
+      "prices": {
+       "adult": 110,
+       "reduced": 110
+      }
+     },
+     {
+      "label": "Wyjazd góra-dół",
+      "prices": {
+       "adult": 25,
+       "reduced": 25
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety lokalne Czorsztyn-Ski (cennik 2025/26)",
+    "period": "okres świąteczny 25.12-07.01",
+    "rows": [
+     {
+      "label": "3 godziny",
+      "prices": {
+       "adult": 160,
+       "reduced": 150
+      }
+     },
+     {
+      "label": "Pakiet 3 godziny dorosły + dziecko do 5 lat",
+      "prices": {
+       "family": 170
+      }
+     },
+     {
+      "label": "Wieczorna jazda od 16:00",
+      "prices": {
+       "adult": 135,
+       "reduced": 125
+      }
+     },
+     {
+      "label": "Wieczorna jazda od 16:00 dorosły + dziecko do 5 lat",
+      "prices": {
+       "family": 145
+      }
+     },
+     {
+      "label": "1 godzina (wyciągi F, E, H)",
+      "prices": {
+       "adult": 60,
+       "reduced": 60
+      }
+     },
+     {
+      "label": "Karnet 5 wjazdów",
+      "prices": {
+       "adult": 110,
+       "reduced": 110
+      }
+     },
+     {
+      "label": "Wyjazd góra-dół",
+      "prices": {
+       "adult": 25,
+       "reduced": 25
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety lokalne Czorsztyn-Ski (cennik 2025/26)",
+    "period": "sezon wysoki 08.01-09.03",
+    "rows": [
+     {
+      "label": "3 godziny",
+      "prices": {
+       "adult": 145,
+       "reduced": 135
+      }
+     },
+     {
+      "label": "Pakiet 3 godziny dorosły + dziecko do 5 lat",
+      "prices": {
+       "family": 155
+      }
+     },
+     {
+      "label": "Wieczorna jazda od 16:00",
+      "prices": {
+       "adult": 130,
+       "reduced": 120
+      }
+     },
+     {
+      "label": "Wieczorna jazda od 16:00 dorosły + dziecko do 5 lat",
+      "prices": {
+       "family": 140
+      }
+     },
+     {
+      "label": "1 godzina (wyciągi F, E, H)",
+      "prices": {
+       "adult": 60,
+       "reduced": 60
+      }
+     },
+     {
+      "label": "Karnet 5 wjazdów",
+      "prices": {
+       "adult": 110,
+       "reduced": 110
+      }
+     },
+     {
+      "label": "Wyjazd góra-dół",
+      "prices": {
+       "adult": 25,
+       "reduced": 25
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik Tatry Super Ski jest wspólny: karnet obowiązuje we wszystkich stacjach TSS w Polsce (m.in. Białka Tatrzańska: Bania, Kotelnica, Kaniówka, Horników Wierch; Rusiń-Ski; Czorsztyn-Ski; Polana Szymoszkowa; Harenda; Witów-Ski; Jurgów-Ski; Grapaski, Koziniec; Długa Polana; Ski-Suche) oraz na Słowacji (Bachledka, Meander Oravice, Strachan, Strednica).",
+   "Kaucja zwrotna za kartę RFID 10 zł, doliczana do ceny karnetu.",
+   "Karnet DZD (dziecko do 5 lat z dorosłym): cena karnetu normalnego plus 10 zł za każdy dzień, tylko w kasach.",
+   "Karnet SENIOR dla osób od 75 lat: 20 zł za każdy dzień karnetu dziennego, tylko w kasach.",
+   "Grupy od 20 osób: zniżka 10% (do 13.12.2026 zniżka 15% na okres przedświąteczny), co 21. osoba płaci 10 zł za dzień.",
+   "Karnet po 16:00 ważny od 16:00 do zakończenia pracy ośrodka.",
+   "Karnety ulgowe, DZD, senior i grupowe kupuje się wyłącznie w kasach, po okazaniu dokumentu potwierdzającego wiek.",
+   "Tabele \"Karnety lokalne\" pochodzą z cennika lokalnego Czorsztyn-Ski na sezon 2025/26 (https://www.czorsztyn-ski.com.pl/osrodek-narciarski/karnety); cennik lokalny 2026/27 nie był jeszcze opublikowany. Karnet lokalny ważny tylko w Kluszkowcach.",
+   "W cenniku lokalnym karnet 1h, 5 wjazdów i wyjazd góra-dół mają jedną cenę dla wszystkich."
+  ]
+ },
+ "ski-sun-swieradow": {
+  "season": "2025/26",
+  "source_url": "https://skisun.pl/fileadmin/user_upload/Cennik_slupy_20252026_Zima__80_x_160_cm___80_x_180_cm_.png",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Normalny"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "dzieci i młodzież poniżej 15 lat, seniorzy powyżej 65 lat, osoby z niepełnosprawnością"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety godzinowe",
+    "period": "sezon wysoki 23.12-28.02 oraz weekendy",
+    "rows": [
+     {
+      "label": "2 godziny (9:00-16:00 / 18:00-21:00)",
+      "prices": {
+       "adult": 120,
+       "reduced": 105
+      }
+     },
+     {
+      "label": "3 godziny (9:00-16:00 / 18:00-21:00)",
+      "prices": {
+       "adult": 140,
+       "reduced": 125
+      }
+     },
+     {
+      "label": "4 godziny (9:00-16:00)",
+      "prices": {
+       "adult": 150,
+       "reduced": 135
+      }
+     },
+     {
+      "label": "6 godzin (9:00-16:00)",
+      "prices": {
+       "adult": 170,
+       "reduced": 150
+      }
+     },
+     {
+      "label": "7 godzin, cały dzień 9:00-16:00",
+      "prices": {
+       "adult": 180,
+       "reduced": 160
+      }
+     },
+     {
+      "label": "2 godziny 14:00-16:00",
+      "prices": {
+       "adult": 80,
+       "reduced": 70
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety godzinowe",
+    "period": "sezon niski do 22.12 i od 01.03, oprócz weekendów",
+    "rows": [
+     {
+      "label": "2 godziny (9:00-16:00 / 18:00-21:00)",
+      "prices": {
+       "adult": 105,
+       "reduced": 95
+      }
+     },
+     {
+      "label": "3 godziny (9:00-16:00 / 18:00-21:00)",
+      "prices": {
+       "adult": 125,
+       "reduced": 110
+      }
+     },
+     {
+      "label": "4 godziny (9:00-16:00)",
+      "prices": {
+       "adult": 135,
+       "reduced": 120
+      }
+     },
+     {
+      "label": "6 godzin (9:00-16:00)",
+      "prices": {
+       "adult": 150,
+       "reduced": 130
+      }
+     },
+     {
+      "label": "7 godzin, cały dzień 9:00-16:00",
+      "prices": {
+       "adult": 160,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "2 godziny 14:00-16:00",
+      "prices": {
+       "adult": 80,
+       "reduced": 70
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety wielodniowe (9:00-16:00)",
+    "period": "sezon wysoki 23.12-28.02 oraz weekendy",
+    "rows": [
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 320,
+       "reduced": 280
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 460,
+       "reduced": 390
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 590,
+       "reduced": 510
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 740,
+       "reduced": 630
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety wielodniowe (9:00-16:00)",
+    "period": "sezon niski do 22.12 i od 01.03, oprócz weekendów",
+    "rows": [
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 280,
+       "reduced": 240
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 390,
+       "reduced": 320
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 510,
+       "reduced": 440
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 630,
+       "reduced": 520
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety punktowe (wjazdy)",
+    "rows": [
+     {
+      "label": "3 wjazdy",
+      "prices": {
+       "adult": 115,
+       "reduced": 100
+      }
+     },
+     {
+      "label": "5 wjazdów",
+      "prices": {
+       "adult": 130,
+       "reduced": 120
+      }
+     }
+    ]
+   },
+   {
+    "title": "Wyciąg orczykowy i taśmowy (wjazdy)",
+    "rows": [
+     {
+      "label": "10 wjazdów",
+      "prices": {
+       "adult": 80,
+       "reduced": 75
+      }
+     },
+     {
+      "label": "20 wjazdów",
+      "prices": {
+       "adult": 100,
+       "reduced": 90
+      }
+     },
+     {
+      "label": "30 wjazdów",
+      "prices": {
+       "adult": 125,
+       "reduced": 110
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik zima 2025/26; cennik na sezon 2026/27 nie był jeszcze opublikowany (na skisun.pl/cennik jest obecnie tylko cennik letni 2026).",
+   "Kaucja za kartę zbliżeniową 10 zł, zwracana do końca marca bieżącego sezonu.",
+   "Dzieci poniżej 4 lat pod opieką rodzica jeżdżą bezpłatnie.",
+   "Karnety 2- i 3-godzinne ważne 9:00-16:00 i 18:00-21:00; 4-, 6- i 7-godzinne tylko 9:00-16:00; wielodniowe tylko 9:00-16:00 (bez jazdy wieczornej).",
+   "Karnety punktowe i na orczyk/taśmę bez podziału na sezony (cennik podaje cenę normalną i ulgową). Karnety na orczyk i taśmę ważne cały sezon, nie obejmują kolei gondolowej.",
+   "Przerwa na ratrakowanie 16:00-18:00."
+  ]
+ },
+ "czantoria": {
+  "unavailable": true,
+  "notes": [
+   "Na czantoria.net/cennik jest komunikat \"Karnety narciarskie będą dostępne wkrótce\"; cennik skipassów 2026/27 nie jest opublikowany, a cennik zimowy 2025/26 nie jest już dostępny na stronie.",
+   "Sklep online ośrodka (widget Berg) oferuje obecnie tylko bilety na kolej i pakiety sylwestrowe, bez karnetów narciarskich."
+  ]
+ },
+ "zwardon-ski": {
+  "season": "2025/26",
+  "source_url": "https://www.zwardonski.pl/cennik",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Dorosły"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "dzieci i młodzież do 16 lat, seniorzy powyżej 65 lat"
+   },
+   {
+    "id": "family",
+    "label": "Rodzinny"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety czasowe i dzienne",
+    "rows": [
+     {
+      "label": "1 godzina",
+      "prices": {
+       "adult": 60,
+       "reduced": 50
+      }
+     },
+     {
+      "label": "2 godziny",
+      "prices": {
+       "adult": 80,
+       "reduced": 70
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 95,
+       "reduced": 80
+      }
+     },
+     {
+      "label": "Dzienny 9:00-16:00",
+      "prices": {
+       "adult": 115,
+       "reduced": 100
+      }
+     },
+     {
+      "label": "Całodzienny 9:00-21:00",
+      "prices": {
+       "adult": 135,
+       "reduced": 110
+      }
+     }
+    ]
+   },
+   {
+    "title": "Jazda wieczorna",
+    "rows": [
+     {
+      "label": "Wieczorny 16:00-21:00",
+      "prices": {
+       "adult": 90,
+       "reduced": 70
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety wielodniowe (9:00-21:00)",
+    "rows": [
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 220,
+       "reduced": 200
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 310,
+       "reduced": 260
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 400,
+       "reduced": 340
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 470,
+       "reduced": 400
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 530,
+       "reduced": 450
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 600,
+       "reduced": 500
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety rodzinne",
+    "rows": [
+     {
+      "label": "5 godzin, 2 dorosłych + 1 dziecko",
+      "prices": {
+       "family": 310
+      }
+     },
+     {
+      "label": "5 godzin, 2 dorosłych + 2 dzieci",
+      "prices": {
+       "family": 380
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety punktowe (wyjazdy)",
+    "rows": [
+     {
+      "label": "1 wyjazd (100 pkt)",
+      "prices": {
+       "adult": 15,
+       "reduced": 15
+      }
+     },
+     {
+      "label": "5 wyjazdów (400 pkt)",
+      "prices": {
+       "adult": 70,
+       "reduced": 70
+      }
+     },
+     {
+      "label": "10 wyjazdów (700 pkt)",
+      "prices": {
+       "adult": 100,
+       "reduced": 100
+      }
+     },
+     {
+      "label": "20 wyjazdów (1400 pkt)",
+      "prices": {
+       "adult": 150,
+       "reduced": 150
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik oznaczony jako 2025/2026; cennik 2026/27 nie był jeszcze opublikowany.",
+   "Kaucja za kartę 10 zł, płatna wyłącznie gotówką.",
+   "Dzieci do 120 cm w kasku, pod opieką dorosłego i z własnym sprzętem jeżdżą bezpłatnie.",
+   "Studenci do 26 lat: zniżka 10% za okazaniem legitymacji.",
+   "Cennik bez podziału na sezon wysoki i niski. Czas karnetu liczony od pierwszego odbicia.",
+   "Karnety punktowe: 1 zł = 10 pkt, wyjazd koleją 100 pkt; jedna cena dla wszystkich.",
+   "Jazda wieczorna 16:00-21:00, możliwa przerwa na ratrakowanie 16:00-16:30."
+  ]
+ },
+ "master-ski-tylicz": {
+  "season": "2026/27",
+  "source_url": "https://master-ski.pl/wp-content/uploads/2026/09/Cennik-2026_2027_Easy-Resize.com_.jpg",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Normalny"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "dzieci do 15 lat i seniorzy powyżej 65 lat"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety czasowe i dzienne",
+    "rows": [
+     {
+      "label": "2 godziny",
+      "prices": {
+       "adult": 70,
+       "reduced": 65
+      }
+     },
+     {
+      "label": "3 godziny",
+      "prices": {
+       "adult": 80,
+       "reduced": 75
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 90,
+       "reduced": 85
+      }
+     },
+     {
+      "label": "6 godzin",
+      "prices": {
+       "adult": 100,
+       "reduced": 95
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 125,
+       "reduced": 115
+      }
+     }
+    ]
+   },
+   {
+    "title": "Jazda wieczorna",
+    "rows": [
+     {
+      "label": "Wieczorny 15:00-20:00",
+      "prices": {
+       "adult": 60,
+       "reduced": 55
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety wielodniowe",
+    "rows": [
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 230,
+       "reduced": 210
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 325,
+       "reduced": 290
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 410,
+       "reduced": 370
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 485,
+       "reduced": 435
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 540,
+       "reduced": 480
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 570,
+       "reduced": 510
+      }
+     },
+     {
+      "label": "5 dowolnych dni w sezonie",
+      "prices": {
+       "adult": 550,
+       "reduced": 490
+      }
+     },
+     {
+      "label": "6 dowolnych dni w sezonie",
+      "prices": {
+       "adult": 630,
+       "reduced": 560
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karty punktowe (1 pkt = 1 zł), koszt jednego wjazdu",
+    "rows": [
+     {
+      "label": "W6 kolej krzesełkowa 1000 m",
+      "prices": {
+       "adult": 16,
+       "reduced": 16
+      }
+     },
+     {
+      "label": "W1 kolej krzesełkowa 700 m",
+      "prices": {
+       "adult": 12,
+       "reduced": 12
+      }
+     },
+     {
+      "label": "W2 wyciąg orczykowy 600 m",
+      "prices": {
+       "adult": 8,
+       "reduced": 8
+      }
+     },
+     {
+      "label": "W3 wyciąg orczykowy 500 m",
+      "prices": {
+       "adult": 7,
+       "reduced": 7
+      }
+     },
+     {
+      "label": "W4 i W5 wyciągi taśmowe 120 m",
+      "prices": {
+       "adult": 4,
+       "reduced": 4
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Kaucja zwrotna za kartę elektroniczną 10 zł (gotówka lub karta).",
+   "Cennik bez podziału na sezon wysoki i niski.",
+   "Przedsprzedaż online od 26.09.2026: karnet 5 dowolnych dni 475 zł normalny, 425 zł ulgowy; 6 dowolnych dni 525 zł normalny, 475 zł ulgowy (https://master-ski.pl/cennik/).",
+   "Karnety ważne do końca sezonu; karnety czasowe aktywowane przy pierwszym zbliżeniu do czytnika.",
+   "Karty punktowe: w tabeli liczba punktów (zł) za jeden wjazd, jednakowa dla wszystkich."
+  ]
+ },
+ "gora-zar": {
+  "unavailable": true,
+  "notes": [
+   "PKL na stronie Góry Żar publikuje tylko cennik kolei linowo-terenowej (bilety turystyczne) i karnetów rowerowych; strona pkl.pl/gora-zar/cennik.html zawiera nieaktualny cennik skipassów z sezonu 2015/2016.",
+   "Brak aktualnego oficjalnego cennika skipassów na sezon 2025/26 ani 2026/27; FAQ ośrodka wspomina stok narciarski tylko w kontekście letnim."
+  ]
+ },
+ "harenda": {
+  "season": "2026/27",
+  "source_url": "https://tatrysuperski.pl/cennik/",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Normalny",
+    "note": "od 16 do 64 lat"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "dzieci i młodzież do ukończenia 16 lat oraz seniorzy od 65 lat"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Okres przedświąteczny od rozpoczęcia sezonu do 24 grudnia 2026",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 145,
+       "reduced": 120
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 140,
+       "reduced": 115
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 305,
+       "reduced": 265
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 440,
+       "reduced": 380
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 565,
+       "reduced": 485
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 685,
+       "reduced": 585
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 790,
+       "reduced": 670
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 875,
+       "reduced": 765
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 455,
+       "reduced": 395
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 705,
+       "reduced": 605
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Okres świąteczny od 25 grudnia 2026 do 06 stycznia 2027",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 185,
+       "reduced": 160
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 200,
+       "reduced": 175
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 370,
+       "reduced": 330
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 540,
+       "reduced": 480
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 695,
+       "reduced": 615
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 845,
+       "reduced": 745
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 980,
+       "reduced": 860
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 1085,
+       "reduced": 985
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 555,
+       "reduced": 495
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 865,
+       "reduced": 765
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Sezon wysoki od 07 stycznia 2027 do 07 marca 2027",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 170,
+       "reduced": 145
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 185,
+       "reduced": 160
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 345,
+       "reduced": 305
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 500,
+       "reduced": 440
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 645,
+       "reduced": 565
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 785,
+       "reduced": 685
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 905,
+       "reduced": 785
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 1000,
+       "reduced": 900
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 515,
+       "reduced": 455
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 805,
+       "reduced": 705
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Sezon niski od 08 marca 2027 do zakończenia sezonu",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 160,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 150,
+       "reduced": 130
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 180,
+       "reduced": 155
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 335,
+       "reduced": 295
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 480,
+       "reduced": 420
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 620,
+       "reduced": 540
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 750,
+       "reduced": 650
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 865,
+       "reduced": 745
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 960,
+       "reduced": 850
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 495,
+       "reduced": 435
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 770,
+       "reduced": 670
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnet sezonowy Tatry Super Ski",
+    "rows": [
+     {
+      "label": "14 dowolnych dni w sezonie",
+      "prices": {
+       "adult": 1939,
+       "reduced": 1659
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik Tatry Super Ski jest wspólny: karnet obowiązuje we wszystkich stacjach TSS w Polsce (m.in. Białka Tatrzańska: Bania, Kotelnica, Kaniówka, Horników Wierch; Rusiń-Ski; Czorsztyn-Ski; Polana Szymoszkowa; Harenda; Witów-Ski; Jurgów-Ski; Grapaski, Koziniec; Długa Polana; Ski-Suche) oraz na Słowacji (Bachledka, Meander Oravice, Strachan, Strednica).",
+   "Kaucja zwrotna za kartę RFID 10 zł, doliczana do ceny karnetu.",
+   "Karnet DZD (dziecko do 5 lat z dorosłym): cena karnetu normalnego plus 10 zł za każdy dzień, tylko w kasach.",
+   "Karnet SENIOR dla osób od 75 lat: 20 zł za każdy dzień karnetu dziennego, tylko w kasach.",
+   "Grupy od 20 osób: zniżka 10% (do 13.12.2026 zniżka 15% na okres przedświąteczny), co 21. osoba płaci 10 zł za dzień.",
+   "Karnet po 16:00 ważny od 16:00 do zakończenia pracy ośrodka.",
+   "Karnety ulgowe, DZD, senior i grupowe kupuje się wyłącznie w kasach, po okazaniu dokumentu potwierdzającego wiek.",
+   "Cennik lokalny Harendy na sezon 2026/27 nie jest jeszcze opublikowany (harendazakopane.pl/cennik: \"już wkrótce\")."
+  ]
+ },
+ "polana-szymoszkowa": {
+  "season": "2026/27",
+  "source_url": "https://tatrysuperski.pl/cennik/",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Normalny",
+    "note": "od 16 do 64 lat"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "dzieci i młodzież do ukończenia 16 lat oraz seniorzy od 65 lat"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Okres przedświąteczny od rozpoczęcia sezonu do 24 grudnia 2026",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 145,
+       "reduced": 120
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 140,
+       "reduced": 115
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 305,
+       "reduced": 265
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 440,
+       "reduced": 380
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 565,
+       "reduced": 485
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 685,
+       "reduced": 585
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 790,
+       "reduced": 670
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 875,
+       "reduced": 765
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 455,
+       "reduced": 395
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 705,
+       "reduced": 605
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Okres świąteczny od 25 grudnia 2026 do 06 stycznia 2027",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 185,
+       "reduced": 160
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 200,
+       "reduced": 175
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 370,
+       "reduced": 330
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 540,
+       "reduced": 480
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 695,
+       "reduced": 615
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 845,
+       "reduced": 745
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 980,
+       "reduced": 860
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 1085,
+       "reduced": 985
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 555,
+       "reduced": 495
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 865,
+       "reduced": 765
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Sezon wysoki od 07 stycznia 2027 do 07 marca 2027",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 170,
+       "reduced": 145
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 185,
+       "reduced": 160
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 345,
+       "reduced": 305
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 500,
+       "reduced": 440
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 645,
+       "reduced": 565
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 785,
+       "reduced": 685
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 905,
+       "reduced": 785
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 1000,
+       "reduced": 900
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 515,
+       "reduced": 455
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 805,
+       "reduced": 705
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Sezon niski od 08 marca 2027 do zakończenia sezonu",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 160,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 150,
+       "reduced": 130
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 180,
+       "reduced": 155
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 335,
+       "reduced": 295
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 480,
+       "reduced": 420
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 620,
+       "reduced": 540
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 750,
+       "reduced": 650
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 865,
+       "reduced": 745
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 960,
+       "reduced": 850
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 495,
+       "reduced": 435
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 770,
+       "reduced": 670
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnet sezonowy Tatry Super Ski",
+    "rows": [
+     {
+      "label": "14 dowolnych dni w sezonie",
+      "prices": {
+       "adult": 1939,
+       "reduced": 1659
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnet lokalny Polana Szymoszkowa (cennik 2025/26)",
+    "rows": [
+     {
+      "label": "3 godziny, okres przedświąteczny (do 24.12)",
+      "prices": {
+       "adult": 125,
+       "reduced": 115
+      }
+     },
+     {
+      "label": "3 godziny, okres świąteczny (25.12-07.01)",
+      "prices": {
+       "adult": 165,
+       "reduced": 155
+      }
+     },
+     {
+      "label": "3 godziny, sezon wysoki (08.01-08.03)",
+      "prices": {
+       "adult": 150,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "3 godziny, sezon niski (od 09.03)",
+      "prices": {
+       "adult": 130,
+       "reduced": 120
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik Tatry Super Ski jest wspólny: karnet obowiązuje we wszystkich stacjach TSS w Polsce (m.in. Białka Tatrzańska: Bania, Kotelnica, Kaniówka, Horników Wierch; Rusiń-Ski; Czorsztyn-Ski; Polana Szymoszkowa; Harenda; Witów-Ski; Jurgów-Ski; Grapaski, Koziniec; Długa Polana; Ski-Suche) oraz na Słowacji (Bachledka, Meander Oravice, Strachan, Strednica).",
+   "Kaucja zwrotna za kartę RFID 10 zł, doliczana do ceny karnetu.",
+   "Karnet DZD (dziecko do 5 lat z dorosłym): cena karnetu normalnego plus 10 zł za każdy dzień, tylko w kasach.",
+   "Karnet SENIOR dla osób od 75 lat: 20 zł za każdy dzień karnetu dziennego, tylko w kasach.",
+   "Grupy od 20 osób: zniżka 10% (do 13.12.2026 zniżka 15% na okres przedświąteczny), co 21. osoba płaci 10 zł za dzień.",
+   "Karnet po 16:00 ważny od 16:00 do zakończenia pracy ośrodka.",
+   "Karnety ulgowe, DZD, senior i grupowe kupuje się wyłącznie w kasach, po okazaniu dokumentu potwierdzającego wiek.",
+   "Karnet lokalny 3-godzinny pochodzi z cennika 2025/26 na https://szymoszkowa.pl/cennik-skipassow/; lokalny cennik 2026/27 nie był jeszcze opublikowany. Karnet lokalny ważny tylko na Polanie Szymoszkowej."
+  ]
+ },
+ "bania-bialka": {
+  "season": "2026/27",
+  "source_url": "https://tatrysuperski.pl/cennik/",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Normalny",
+    "note": "od 16 do 64 lat"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "dzieci i młodzież do ukończenia 16 lat oraz seniorzy od 65 lat"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Okres przedświąteczny od rozpoczęcia sezonu do 24 grudnia 2026",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 145,
+       "reduced": 120
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 140,
+       "reduced": 115
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 305,
+       "reduced": 265
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 440,
+       "reduced": 380
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 565,
+       "reduced": 485
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 685,
+       "reduced": 585
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 790,
+       "reduced": 670
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 875,
+       "reduced": 765
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 455,
+       "reduced": 395
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 705,
+       "reduced": 605
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Okres świąteczny od 25 grudnia 2026 do 06 stycznia 2027",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 185,
+       "reduced": 160
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 200,
+       "reduced": 175
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 370,
+       "reduced": 330
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 540,
+       "reduced": 480
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 695,
+       "reduced": 615
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 845,
+       "reduced": 745
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 980,
+       "reduced": 860
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 1085,
+       "reduced": 985
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 555,
+       "reduced": 495
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 865,
+       "reduced": 765
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Sezon wysoki od 07 stycznia 2027 do 07 marca 2027",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 170,
+       "reduced": 145
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 185,
+       "reduced": 160
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 345,
+       "reduced": 305
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 500,
+       "reduced": 440
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 645,
+       "reduced": 565
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 785,
+       "reduced": 685
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 905,
+       "reduced": 785
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 1000,
+       "reduced": 900
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 515,
+       "reduced": 455
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 805,
+       "reduced": 705
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Sezon niski od 08 marca 2027 do zakończenia sezonu",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 160,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 150,
+       "reduced": 130
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 180,
+       "reduced": 155
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 335,
+       "reduced": 295
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 480,
+       "reduced": 420
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 620,
+       "reduced": 540
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 750,
+       "reduced": 650
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 865,
+       "reduced": 745
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 960,
+       "reduced": 850
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 495,
+       "reduced": 435
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 770,
+       "reduced": 670
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnet sezonowy Tatry Super Ski",
+    "rows": [
+     {
+      "label": "14 dowolnych dni w sezonie",
+      "prices": {
+       "adult": 1939,
+       "reduced": 1659
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik Tatry Super Ski jest wspólny: karnet obowiązuje we wszystkich stacjach TSS w Polsce (m.in. Białka Tatrzańska: Bania, Kotelnica, Kaniówka, Horników Wierch; Rusiń-Ski; Czorsztyn-Ski; Polana Szymoszkowa; Harenda; Witów-Ski; Jurgów-Ski; Grapaski, Koziniec; Długa Polana; Ski-Suche) oraz na Słowacji (Bachledka, Meander Oravice, Strachan, Strednica).",
+   "Kaucja zwrotna za kartę RFID 10 zł, doliczana do ceny karnetu.",
+   "Karnet DZD (dziecko do 5 lat z dorosłym): cena karnetu normalnego plus 10 zł za każdy dzień, tylko w kasach.",
+   "Karnet SENIOR dla osób od 75 lat: 20 zł za każdy dzień karnetu dziennego, tylko w kasach.",
+   "Grupy od 20 osób: zniżka 10% (do 13.12.2026 zniżka 15% na okres przedświąteczny), co 21. osoba płaci 10 zł za dzień.",
+   "Karnet po 16:00 ważny od 16:00 do zakończenia pracy ośrodka.",
+   "Karnety ulgowe, DZD, senior i grupowe kupuje się wyłącznie w kasach, po okazaniu dokumentu potwierdzającego wiek.",
+   "Bania Ski sprzedaje karnety Tatry Super Ski; osobnego cennika lokalnego nie znaleziono."
+  ]
+ },
+ "rusin-ski": {
+  "season": "2026/27",
+  "source_url": "https://tatrysuperski.pl/cennik/",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Normalny",
+    "note": "od 16 do 64 lat"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "dzieci i młodzież do ukończenia 16 lat oraz seniorzy od 65 lat"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Okres przedświąteczny od rozpoczęcia sezonu do 24 grudnia 2026",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 145,
+       "reduced": 120
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 140,
+       "reduced": 115
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 305,
+       "reduced": 265
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 440,
+       "reduced": 380
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 565,
+       "reduced": 485
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 685,
+       "reduced": 585
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 790,
+       "reduced": 670
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 875,
+       "reduced": 765
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 455,
+       "reduced": 395
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 705,
+       "reduced": 605
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Okres świąteczny od 25 grudnia 2026 do 06 stycznia 2027",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 185,
+       "reduced": 160
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 200,
+       "reduced": 175
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 370,
+       "reduced": 330
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 540,
+       "reduced": 480
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 695,
+       "reduced": 615
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 845,
+       "reduced": 745
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 980,
+       "reduced": 860
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 1085,
+       "reduced": 985
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 555,
+       "reduced": 495
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 865,
+       "reduced": 765
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Sezon wysoki od 07 stycznia 2027 do 07 marca 2027",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 170,
+       "reduced": 145
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 185,
+       "reduced": 160
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 345,
+       "reduced": 305
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 500,
+       "reduced": 440
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 645,
+       "reduced": 565
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 785,
+       "reduced": 685
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 905,
+       "reduced": 785
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 1000,
+       "reduced": 900
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 515,
+       "reduced": 455
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 805,
+       "reduced": 705
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Sezon niski od 08 marca 2027 do zakończenia sezonu",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 160,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 150,
+       "reduced": 130
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 180,
+       "reduced": 155
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 335,
+       "reduced": 295
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 480,
+       "reduced": 420
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 620,
+       "reduced": 540
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 750,
+       "reduced": 650
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 865,
+       "reduced": 745
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 960,
+       "reduced": 850
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 495,
+       "reduced": 435
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 770,
+       "reduced": 670
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnet sezonowy Tatry Super Ski",
+    "rows": [
+     {
+      "label": "14 dowolnych dni w sezonie",
+      "prices": {
+       "adult": 1939,
+       "reduced": 1659
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety lokalne Rusiń-Ski (cennik 2025/26)",
+    "period": "sezon niski do 24.12 i od 09.03",
+    "rows": [
+     {
+      "label": "3 godziny",
+      "prices": {
+       "adult": 120,
+       "reduced": 110
+      }
+     },
+     {
+      "label": "Ostatnie 3 godziny pracy stacji",
+      "prices": {
+       "adult": 95,
+       "reduced": 95
+      }
+     },
+     {
+      "label": "Baby lift 1 godzina",
+      "prices": {
+       "adult": 70,
+       "reduced": 70
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety lokalne Rusiń-Ski (cennik 2025/26)",
+    "period": "top sezon 25.12-07.01",
+    "rows": [
+     {
+      "label": "3 godziny",
+      "prices": {
+       "adult": 155,
+       "reduced": 145
+      }
+     },
+     {
+      "label": "Ostatnie 3 godziny pracy stacji",
+      "prices": {
+       "adult": 125,
+       "reduced": 125
+      }
+     },
+     {
+      "label": "Baby lift 1 godzina",
+      "prices": {
+       "adult": 70,
+       "reduced": 70
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety lokalne Rusiń-Ski (cennik 2025/26)",
+    "period": "sezon wysoki 08.01-08.03",
+    "rows": [
+     {
+      "label": "3 godziny",
+      "prices": {
+       "adult": 145,
+       "reduced": 135
+      }
+     },
+     {
+      "label": "Ostatnie 3 godziny pracy stacji",
+      "prices": {
+       "adult": 115,
+       "reduced": 115
+      }
+     },
+     {
+      "label": "Baby lift 1 godzina",
+      "prices": {
+       "adult": 70,
+       "reduced": 70
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik Tatry Super Ski jest wspólny: karnet obowiązuje we wszystkich stacjach TSS w Polsce (m.in. Białka Tatrzańska: Bania, Kotelnica, Kaniówka, Horników Wierch; Rusiń-Ski; Czorsztyn-Ski; Polana Szymoszkowa; Harenda; Witów-Ski; Jurgów-Ski; Grapaski, Koziniec; Długa Polana; Ski-Suche) oraz na Słowacji (Bachledka, Meander Oravice, Strachan, Strednica).",
+   "Kaucja zwrotna za kartę RFID 10 zł, doliczana do ceny karnetu.",
+   "Karnet DZD (dziecko do 5 lat z dorosłym): cena karnetu normalnego plus 10 zł za każdy dzień, tylko w kasach.",
+   "Karnet SENIOR dla osób od 75 lat: 20 zł za każdy dzień karnetu dziennego, tylko w kasach.",
+   "Grupy od 20 osób: zniżka 10% (do 13.12.2026 zniżka 15% na okres przedświąteczny), co 21. osoba płaci 10 zł za dzień.",
+   "Karnet po 16:00 ważny od 16:00 do zakończenia pracy ośrodka.",
+   "Karnety ulgowe, DZD, senior i grupowe kupuje się wyłącznie w kasach, po okazaniu dokumentu potwierdzającego wiek.",
+   "Tabele \"Karnety lokalne\" pochodzą z cennika lokalnego Rusiń-Ski 2025/26 (https://www.rusin-ski.pl/cennik-lokalny-rusin-ski); cennik lokalny 2026/27 nie był jeszcze opublikowany. W cenniku lokalnym ulga dotyczy młodzieży do 15 lat."
+  ]
+ },
+ "witow-ski": {
+  "season": "2026/27",
+  "source_url": "https://tatrysuperski.pl/cennik/",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Normalny",
+    "note": "od 16 do 64 lat"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "dzieci i młodzież do ukończenia 16 lat oraz seniorzy od 65 lat"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Okres przedświąteczny od rozpoczęcia sezonu do 24 grudnia 2026",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 145,
+       "reduced": 120
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 140,
+       "reduced": 115
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 305,
+       "reduced": 265
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 440,
+       "reduced": 380
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 565,
+       "reduced": 485
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 685,
+       "reduced": 585
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 790,
+       "reduced": 670
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 875,
+       "reduced": 765
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 455,
+       "reduced": 395
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 705,
+       "reduced": 605
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Okres świąteczny od 25 grudnia 2026 do 06 stycznia 2027",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 185,
+       "reduced": 160
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 200,
+       "reduced": 175
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 370,
+       "reduced": 330
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 540,
+       "reduced": 480
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 695,
+       "reduced": 615
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 845,
+       "reduced": 745
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 980,
+       "reduced": 860
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 1085,
+       "reduced": 985
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 555,
+       "reduced": 495
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 865,
+       "reduced": 765
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Sezon wysoki od 07 stycznia 2027 do 07 marca 2027",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 170,
+       "reduced": 145
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 165,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 185,
+       "reduced": 160
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 345,
+       "reduced": 305
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 500,
+       "reduced": 440
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 645,
+       "reduced": 565
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 785,
+       "reduced": 685
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 905,
+       "reduced": 785
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 1000,
+       "reduced": 900
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 515,
+       "reduced": 455
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 805,
+       "reduced": 705
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety Tatry Super Ski (godzinowe, dzienne i wielodniowe)",
+    "period": "Sezon niski od 08 marca 2027 do zakończenia sezonu",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 160,
+       "reduced": 140
+      }
+     },
+     {
+      "label": "Po 16:00 (do zamknięcia)",
+      "prices": {
+       "adult": 150,
+       "reduced": 130
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 180,
+       "reduced": 155
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 335,
+       "reduced": 295
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 480,
+       "reduced": 420
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 620,
+       "reduced": 540
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 750,
+       "reduced": 650
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 865,
+       "reduced": 745
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 960,
+       "reduced": 850
+      }
+     },
+     {
+      "label": "3 dni z 5 dni",
+      "prices": {
+       "adult": 495,
+       "reduced": 435
+      }
+     },
+     {
+      "label": "5 dni z 7 dni",
+      "prices": {
+       "adult": 770,
+       "reduced": 670
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnet sezonowy Tatry Super Ski",
+    "rows": [
+     {
+      "label": "14 dowolnych dni w sezonie",
+      "prices": {
+       "adult": 1939,
+       "reduced": 1659
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety lokalne Witów-Ski (cennik 2025/26)",
+    "period": "okres świąteczny 25.12-08.01",
+    "rows": [
+     {
+      "label": "3 godziny",
+      "prices": {
+       "adult": 155,
+       "reduced": 145
+      }
+     },
+     {
+      "label": "Białe Godziny 17:00-20:00",
+      "prices": {
+       "adult": 120,
+       "reduced": 120
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety lokalne Witów-Ski (cennik 2025/26)",
+    "period": "sezon wysoki 08.01-08.03",
+    "rows": [
+     {
+      "label": "3 godziny",
+      "prices": {
+       "adult": 140,
+       "reduced": 130
+      }
+     },
+     {
+      "label": "Białe Godziny 17:00-20:00",
+      "prices": {
+       "adult": 100,
+       "reduced": 100
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety lokalne Witów-Ski (cennik 2025/26)",
+    "period": "sezon niski od 09.03",
+    "rows": [
+     {
+      "label": "3 godziny",
+      "prices": {
+       "adult": 110,
+       "reduced": 100
+      }
+     },
+     {
+      "label": "Białe Godziny 17:00-20:00",
+      "prices": {
+       "adult": 80,
+       "reduced": 80
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik Tatry Super Ski jest wspólny: karnet obowiązuje we wszystkich stacjach TSS w Polsce (m.in. Białka Tatrzańska: Bania, Kotelnica, Kaniówka, Horników Wierch; Rusiń-Ski; Czorsztyn-Ski; Polana Szymoszkowa; Harenda; Witów-Ski; Jurgów-Ski; Grapaski, Koziniec; Długa Polana; Ski-Suche) oraz na Słowacji (Bachledka, Meander Oravice, Strachan, Strednica).",
+   "Kaucja zwrotna za kartę RFID 10 zł, doliczana do ceny karnetu.",
+   "Karnet DZD (dziecko do 5 lat z dorosłym): cena karnetu normalnego plus 10 zł za każdy dzień, tylko w kasach.",
+   "Karnet SENIOR dla osób od 75 lat: 20 zł za każdy dzień karnetu dziennego, tylko w kasach.",
+   "Grupy od 20 osób: zniżka 10% (do 13.12.2026 zniżka 15% na okres przedświąteczny), co 21. osoba płaci 10 zł za dzień.",
+   "Karnet po 16:00 ważny od 16:00 do zakończenia pracy ośrodka.",
+   "Karnety ulgowe, DZD, senior i grupowe kupuje się wyłącznie w kasach, po okazaniu dokumentu potwierdzającego wiek.",
+   "Tabele \"Karnety lokalne\" pochodzą z cennika 2025/26 na https://www.witow-ski.pl/cennik/; cennik lokalny 2026/27 nie był jeszcze opublikowany. Lokalny karnet DZD: cena normalna plus 10 zł."
+  ]
+ },
+ "laskowa-kamionna": {
+  "season": "2025/26",
+  "source_url": "https://www.laskowa-ski.pl/karnety-cennik/",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Normalny"
+   },
+   {
+    "id": "student_senior",
+    "label": "Uczeń/student/senior",
+    "note": "uczniowie i studenci do 26 lat, seniorzy od 60 lat"
+   },
+   {
+    "id": "child",
+    "label": "Dziecko",
+    "note": "do 9 lat"
+   },
+   {
+    "id": "toddler",
+    "label": "Maluch",
+    "note": "do 5 lat, tylko przy zakupie karnetu dla opiekuna"
+   },
+   {
+    "id": "family",
+    "label": "Rodzinny",
+    "note": "2 dorosłych i dzieci do 16 lat"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Karnety czasowe i dzienne",
+    "rows": [
+     {
+      "label": "2 godziny",
+      "prices": {
+       "adult": 100,
+       "student_senior": 95,
+       "child": 55,
+       "toddler": 1
+      }
+     },
+     {
+      "label": "3 godziny",
+      "prices": {
+       "adult": 110,
+       "student_senior": 105,
+       "child": 60,
+       "toddler": 1
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 120,
+       "student_senior": 115,
+       "child": 65,
+       "toddler": 1
+      }
+     },
+     {
+      "label": "Dzienny 9:00-17:00 (soboty i święta 9:00-19:00)",
+      "prices": {
+       "adult": 160,
+       "student_senior": 145,
+       "child": 95,
+       "toddler": 1
+      }
+     }
+    ]
+   },
+   {
+    "title": "Jazda wieczorna",
+    "rows": [
+     {
+      "label": "Wieczorny 16:00-19:00",
+      "prices": {
+       "adult": 105,
+       "student_senior": 100,
+       "child": 60,
+       "toddler": 1
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety wielodniowe (9:00-19:00)",
+    "rows": [
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 256,
+       "student_senior": 236,
+       "child": 128,
+       "toddler": 1
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 384,
+       "student_senior": 354,
+       "child": 192,
+       "toddler": 1
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 512,
+       "student_senior": 482,
+       "child": 256,
+       "toddler": 1
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 640,
+       "student_senior": 600,
+       "child": 320,
+       "toddler": 1
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 768,
+       "student_senior": 718,
+       "child": 384,
+       "toddler": 1
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 896,
+       "student_senior": 836,
+       "child": 448,
+       "toddler": 1
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety rodzinne 4 godziny",
+    "rows": [
+     {
+      "label": "2 dorosłych + 1 dziecko",
+      "prices": {
+       "family": 320
+      }
+     },
+     {
+      "label": "2 dorosłych + 2 dzieci",
+      "prices": {
+       "family": 435
+      }
+     },
+     {
+      "label": "2 dorosłych + 3 dzieci",
+      "prices": {
+       "family": 540
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety grupowe (powyżej 15 osób, cena za osobę)",
+    "rows": [
+     {
+      "label": "3 godziny",
+      "prices": {
+       "adult": 85
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 90
+      }
+     },
+     {
+      "label": "5 godzin",
+      "prices": {
+       "adult": 95
+      }
+     },
+     {
+      "label": "6 godzin",
+      "prices": {
+       "adult": 100
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik na stronie nie ma oznaczenia sezonu; obowiązywał w sezonie 2025/26, cennik 2026/27 nie był jeszcze ogłoszony.",
+   "Kaucja za kartę 10 zł, zwracana tylko w sezonie, w którym została pobrana.",
+   "Dziecko do 5 lat dostaje taki sam karnet za 1 zł wyłącznie przy zakupie karnetu dla opiekuna (nie dotyczy Groupon i e-skipass).",
+   "Bez przerwy na ratrakowanie; stacja czynna 9:00-19:00."
+  ]
+ },
+ "mosorny-gron": {
+  "season": "2026/27",
+  "source_url": "https://www.pkl.pl/mosorny-gron/skipassy-sezonowe.html",
+  "checked_at": "2026-10-24",
+  "currency": "PLN",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Normalny",
+    "note": "16-64 lata"
+   },
+   {
+    "id": "reduced",
+    "label": "Ulgowy",
+    "note": "dzieci 5-15 lat, seniorzy 65+, osoby ze znacznym stopniem niepełnosprawności"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Skipass sezonowy PKL 2026/27 (Palenica, Mosorny Groń, Gubałówka, Kasprowy Wierch, Jaworzyna Krynicka)",
+    "rows": [
+     {
+      "label": "Zakup do 30.09.2026 (online)",
+      "prices": {
+       "adult": 2099,
+       "reduced": 1699
+      }
+     },
+     {
+      "label": "Zakup 01.10-30.11.2026 (online)",
+      "prices": {
+       "adult": 2499,
+       "reduced": 1999
+      }
+     },
+     {
+      "label": "Od 01.12.2026, cena regularna",
+      "prices": {
+       "adult": 2799,
+       "reduced": 2299
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik skipassów godzinowych i dziennych Mosornego Gronia na sezon 2026/27 nie jest jeszcze opublikowany; strona cennika pokazuje obecnie tylko bilety turystyczne na kolej. Cennik zimowy 2025/26 nie jest już dostępny na pkl.pl.",
+   "Kaucja za kartę PKL Pass 10 zł, zwrot karty możliwy do 15.05.2027.",
+   "Skipass sezonowy nie obejmuje przejazdu koleją na Kasprowy Wierch; Miejscówka KL Kasprowy Wierch 45 zł, tylko online.",
+   "Posiadacze kart Multisport i Medicover Sport: 15 zł zniżki na skipass 2-godzinny, 4-godzinny i 1-dniowy; Karta Dużej Rodziny: 5%."
+  ]
+ },
+ "donovaly": {
+  "season": "2026/27",
+  "source_url": "https://www.parksnow.sk/sk/zima/cennik/",
+  "checked_at": "2026-10-26",
+  "currency": "EUR",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Dorosły",
+    "note": "18-59 lat"
+   },
+   {
+    "id": "junior_senior",
+    "label": "Junior / Senior",
+    "note": "junior 13-17 lat, z kartą EURO<26, GO<26, ISIC, ITIC (tylko karnet 4-godzinny i 1-dniowy w kasie) lub z legitymacją ZŤP; senior od 60 lat"
+   },
+   {
+    "id": "child",
+    "label": "Dziecko",
+    "note": "6-12 lat"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Skipassy Park Snow Donovaly, ceny w kasie",
+    "period": "pierwszy śnieg: od otwarcia do 20.12.2026",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 33,
+       "junior_senior": 29,
+       "child": 25
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 34,
+       "junior_senior": 30,
+       "child": 26
+      }
+     },
+     {
+      "label": "Wieczorny (16:00-20:00)",
+      "prices": {
+       "adult": 26,
+       "junior_senior": 25,
+       "child": 23
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 61,
+       "junior_senior": 54,
+       "child": 47
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 89,
+       "junior_senior": 77,
+       "child": 68
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 115,
+       "junior_senior": 101,
+       "child": 86
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 141,
+       "junior_senior": 123,
+       "child": 108
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 167,
+       "junior_senior": 145,
+       "child": 124
+      }
+     }
+    ]
+   },
+   {
+    "title": "Skipassy Park Snow Donovaly, ceny w kasie",
+    "period": "sezon świąteczny: 21.12.2026 - 06.01.2027",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 54,
+       "junior_senior": 47,
+       "child": 41
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 57,
+       "junior_senior": 50,
+       "child": 43
+      }
+     },
+     {
+      "label": "Wieczorny (16:00-20:00)",
+      "prices": {
+       "adult": 43,
+       "junior_senior": 41,
+       "child": 37
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 104,
+       "junior_senior": 91,
+       "child": 79
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 154,
+       "junior_senior": 132,
+       "child": 117
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 200,
+       "junior_senior": 174,
+       "child": 148
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 245,
+       "junior_senior": 213,
+       "child": 187
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 291,
+       "junior_senior": 252,
+       "child": 216
+      }
+     }
+    ]
+   },
+   {
+    "title": "Skipassy Park Snow Donovaly, ceny w kasie",
+    "period": "sezon główny: 07.01.2027 - 07.03.2027",
+    "rows": [
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 45,
+       "junior_senior": 39,
+       "child": 34
+      }
+     },
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 47,
+       "junior_senior": 41,
+       "child": 36
+      }
+     },
+     {
+      "label": "Wieczorny (16:00-20:00)",
+      "prices": {
+       "adult": 36,
+       "junior_senior": 34,
+       "child": 31
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 85,
+       "junior_senior": 75,
+       "child": 65
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 126,
+       "junior_senior": 108,
+       "child": 96
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 163,
+       "junior_senior": 142,
+       "child": 121
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 200,
+       "junior_senior": 174,
+       "child": 153
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 237,
+       "junior_senior": 206,
+       "child": 176
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnet 8-godzinny wybieralny (8 hodinový výberový), cena w kasie",
+    "rows": [
+     {
+      "label": "8 godzin do wykorzystania w sezonie",
+      "prices": {
+       "adult": 90,
+       "junior_senior": 85,
+       "child": 75
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnet sezonowy",
+    "rows": [
+     {
+      "label": "Donovalská sezónka (kasa)",
+      "prices": {
+       "adult": 495,
+       "junior_senior": 495,
+       "child": 495
+      }
+     }
+    ]
+   },
+   {
+    "title": "Przejazdy pojedyncze",
+    "period": "21.12.2026 - 07.03.2027",
+    "rows": [
+     {
+      "label": "1 przejazd Telemix Nová hoľa",
+      "prices": {
+       "adult": 12,
+       "junior_senior": 12,
+       "child": 12
+      }
+     },
+     {
+      "label": "Telemix Nová hoľa w obie strony",
+      "prices": {
+       "adult": 17,
+       "junior_senior": 17,
+       "child": 17
+      }
+     },
+     {
+      "label": "1 przejazd Bully Express Záhradište",
+      "prices": {
+       "adult": 10,
+       "junior_senior": 10,
+       "child": 10
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Ceny kasowe z oficjalnego cennika 2026/27 na parksnow.sk (stan na 26.10.2026). Przy zakupie online co najmniej dzień przed jazdą karnety godzinowe, wieczorne, 1-6 dni i 8-godzinny są o 4 € tańsze; w dniu jazdy online obowiązuje cena kasowa",
+   "Karnet wieczorny ważny na oświetlonych trasach Záhradište w godz. 16:00-20:00",
+   "Karnet 8-godzinny wybieralny: przy każdym przejściu przez bramkę odliczana jest godzina jazdy, aż do wyczerpania 8 godzin; ważny do końca sezonu i jako jedyny przenośny (zasady z cennika 2025/26). Cena taka sama we wszystkich okresach",
+   "W okresie pierwszego śniegu pojedyncze przejazdy w kasie kosztują 14 € (Telemix), 18 € (Telemix w obie strony) i 12 € (Bully Express), online 12, 16 i 10 €",
+   "Karnet sezonowy Donovalská sezónka kosztuje w kasie 495 €; w przedsprzedaży online jest tańszy, cena rośnie z każdą fazą sprzedaży (w chwili sprawdzania 345 €)",
+   "Dzieci do 6 lat bezpłatnie, z dokumentem potwierdzającym datę urodzenia (zasady zniżek 2025/26)",
+   "Karnety wydawane na karcie chipowej, kaucja 4 €",
+   "Cennika wiosennego (od 8.03.2027) nie podano: słowacka i angielska wersja strony podają różne kwoty"
+  ]
+ },
+ "vratna": {
+  "season": "2025/26",
+  "source_url": "https://vratna.sk/cennik-skipasov-2025-26/",
+  "checked_at": "2026-10-26",
+  "currency": "EUR",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Dorosły",
+    "note": "20-59 lat"
+   },
+   {
+    "id": "junior_senior",
+    "label": "Junior / Senior / ZŤP / ISIC",
+    "note": "junior 13-19 lat; senior od 60 lat; osoby z orzeczeniem ZŤP/ZŤP-S; karty ISIC, ITIC, Euro26"
+   },
+   {
+    "id": "child",
+    "label": "Dziecko",
+    "note": "7-12 lat"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Skipass 1-dniowy (kasa i e-sklep)",
+    "period": "sezon TOP: 27.12.2025 - 11.01.2026",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 39,
+       "junior_senior": 33,
+       "child": 26
+      }
+     }
+    ]
+   },
+   {
+    "title": "Skipass 1-dniowy (kasa i e-sklep)",
+    "period": "sezon główny: 12.01.2026 - 28.02.2026",
+    "rows": [
+     {
+      "label": "1 dzień, weekend (sob.-niedz.)",
+      "prices": {
+       "adult": 35,
+       "junior_senior": 30,
+       "child": 24
+      }
+     },
+     {
+      "label": "1 dzień, dni robocze (pon.-pt.)",
+      "prices": {
+       "adult": 25,
+       "junior_senior": 22,
+       "child": 20
+      }
+     },
+     {
+      "label": "Środa (każda środa od 12.01)",
+      "prices": {
+       "adult": 19,
+       "junior_senior": 19,
+       "child": 19
+      }
+     }
+    ]
+   },
+   {
+    "title": "Skipass 1-dniowy (kasa i e-sklep)",
+    "period": "poza sezonem: od 01.03.2026",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 19,
+       "junior_senior": 19,
+       "child": 19
+      }
+     }
+    ]
+   },
+   {
+    "title": "Bilety czasowe, wieczorne i strefa dziecięca (bez względu na wiek)",
+    "rows": [
+     {
+      "label": "8-godzinny Flexi (przenośny, ważny cały sezon)",
+      "prices": {
+       "adult": 80,
+       "junior_senior": 80,
+       "child": 80
+      }
+     },
+     {
+      "label": "Wieczór 17:00-20:00: strefa dziecięca + Leitner",
+      "prices": {
+       "adult": 12,
+       "junior_senior": 12,
+       "child": 12
+      }
+     },
+     {
+      "label": "Wieczór 17:00-20:00: strefa dziecięca + Leitner + Slovan",
+      "prices": {
+       "adult": 17,
+       "junior_senior": 17,
+       "child": 17
+      }
+     },
+     {
+      "label": "Strefa dziecięca Mini, 2 godz.",
+      "prices": {
+       "adult": 10,
+       "junior_senior": 10,
+       "child": 10
+      }
+     },
+     {
+      "label": "Strefa dziecięca Maxi (Mini + wyciąg Leitner), 4 godz.",
+      "prices": {
+       "adult": 20,
+       "junior_senior": 20,
+       "child": 20
+      }
+     },
+     {
+      "label": "Skitury Paseky (podejście po trasie)",
+      "prices": {
+       "adult": 5,
+       "junior_senior": 5,
+       "child": 5
+      }
+     },
+     {
+      "label": "Karnet sezonowy skiturowy",
+      "prices": {
+       "adult": 99,
+       "junior_senior": 99,
+       "child": 99
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety sezonowe 2026/27",
+    "period": "zakup do 01.12.2026",
+    "rows": [
+     {
+      "label": "Moja sezónka (pon.-pt., od 1.10.)",
+      "prices": {
+       "adult": 299,
+       "junior_senior": 299,
+       "child": 299
+      }
+     },
+     {
+      "label": "Moja sezónka Plus (cały tydzień + wieczory)",
+      "prices": {
+       "adult": 349,
+       "junior_senior": 249,
+       "child": 199
+      }
+     },
+     {
+      "label": "Moja sezónka Benefit (bez ograniczeń, z rabatami)",
+      "prices": {
+       "adult": 379,
+       "junior_senior": 279,
+       "child": 229
+      }
+     }
+    ]
+   },
+   {
+    "title": "Karnety sezonowe 2026/27",
+    "period": "zakup od 02.12.2026",
+    "rows": [
+     {
+      "label": "Moja sezónka (pon.-pt.)",
+      "prices": {
+       "adult": 299,
+       "junior_senior": 299,
+       "child": 299
+      }
+     },
+     {
+      "label": "Moja sezónka Plus (cały tydzień + wieczory)",
+      "prices": {
+       "adult": 389,
+       "junior_senior": 279,
+       "child": 249
+      }
+     },
+     {
+      "label": "Moja sezónka Benefit (bez ograniczeń, z rabatami)",
+      "prices": {
+       "adult": 419,
+       "junior_senior": 319,
+       "child": 279
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Ośrodek nie opublikował jeszcze cen karnetów dziennych na sezon 2026/27; tabele dzienne pochodzą z cennika 2025/26 (ważny od 1.12.2025). Opublikowane są tylko karnety sezonowe 2026/27.",
+   "Ceny w cenniku 2025/26 to ceny maksymalne, takie same w kasie i w e-sklepie; w trakcie sezonu mogą tylko spaść",
+   "Skipass ważny na wszystkich wyciągach i kolejach ośrodka, także na gondoli na Chleb",
+   "Na stronie ośrodka nie ma cennika karnetów wielodniowych, podano tylko karnety 1-dniowe",
+   "Dzieci do 6 lat włącznie jeżdżą za 1 EUR w towarzystwie dorosłego z ważnym skipassem (tylko w kasie, nie obejmuje strefy Mini)",
+   "Zwrotna kaucja za kartę chipową 5 EUR",
+   "Wieczorna jazda w środy, piątki i soboty, w sezonie TOP codziennie; cena zależy od uruchomionych wyciągów",
+   "Karnety sezonowe 2026/27 ważne od 1.12.2026 (Benefit od dnia zakupu) do końca sezonu, z bezpłatnym parkowaniem; w październiku 2026 dziecięca sezónka Benefit za 39 EUR przy zakupie dwóch dorosłych Benefit",
+   "Karnety sezonowe 2026/27 źródło: https://vratna.sk/sezonky-zima-2026-27/"
+  ]
+ },
+ "spindleruv-mlyn": {
+  "season": "2025/26",
+  "source_url": "https://www.skiareal.cz/ceniky/jizdenky/denni-skipasy",
+  "checked_at": "2026-10-26",
+  "currency": "CZK",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Dorosły",
+    "note": "18-59 lat"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Skipass 1-6 dni, kasa w ośrodku",
+    "period": "przykładowy dzień sezonu wysokiego: 1.01.2026",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 1990
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 3870
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 5800
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 7570
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 8960
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 10750
+      }
+     }
+    ]
+   },
+   {
+    "title": "Skipass 1-6 dni, online na gopass.travel",
+    "period": "przykładowy dzień sezonu wysokiego: 1.01.2026",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 1590
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 3120
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 4680
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 6170
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 7460
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 8750
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik 2025/26: ceny na sezon 2026/27 nie zostały jeszcze opublikowane.",
+   "Ceny dynamiczne: zależą od dnia, obłożenia i pogody, a w kasie, automatach GOPASS Tickets i online się różnią. Tabela pokazuje ceny dla dorosłych z 1.01.2026 zapisane przez archiwum internetu z kalkulatora na skiareal.cz; innego dnia mogą być inne",
+   "Tego samego dnia w automatach GOPASS Tickets: 1790, 3510, 5270, 6950, 8240 i 9890 Kč za 1-6 dni",
+   "Kalkulator nie podaje karnetu 7-dniowego. Ceny dla dzieci (6-11 lat), juniorów (12-17 lat) i seniorów (od 60 lat) wyświetlane są osobno i nie zostały zapisane",
+   "Dzieci do 6 lat bezpłatnie",
+   "Karnet popołudniowy ważny od 13:00 (kwot nie zapisano)",
+   "W kasie karnet wydawany na kartę Axess, kaucja 50 Kč; w automatach GOPASS Tickets opłata 75 Kč za kartę GOPASS",
+   "Karnet sezonowy GOPASS SKI 2026/27 od 16 490 Kč w przedsprzedaży na gopass.travel"
+  ]
+ },
+ "cerna-hora-pec": {
+  "season": "2025/26",
+  "source_url": "https://web.archive.org/web/20260206214151/https://www.skiresort.cz/cenik/31-skiresort-skipas/",
+  "checked_at": "2026-10-26",
+  "currency": "CZK",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Dorosły",
+    "note": "rocznik 1964-2007"
+   },
+   {
+    "id": "junior_senior",
+    "label": "Junior / Senior",
+    "note": "junior rocznik 2008-2013, senior rocznik 1963 i starsi"
+   },
+   {
+    "id": "child",
+    "label": "Dziecko",
+    "note": "rocznik 2014-2019"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Skipass całego ośrodka, kasa",
+    "period": "sezon główny: od początku sezonu do 8.03.2026",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 1490,
+       "junior_senior": 1270,
+       "child": 970
+      }
+     },
+     {
+      "label": "Od 13:00",
+      "prices": {
+       "adult": 1070,
+       "junior_senior": 970,
+       "child": 700
+      }
+     },
+     {
+      "label": "Od 14:00",
+      "prices": {
+       "adult": 820,
+       "junior_senior": 700,
+       "child": 530
+      }
+     },
+     {
+      "label": "4 godziny",
+      "prices": {
+       "adult": 1310,
+       "junior_senior": 1120,
+       "child": 850
+      }
+     }
+    ]
+   },
+   {
+    "title": "Flexiskipas 2026/27, tylko online do 18.12.2026",
+    "period": "dowolny dzień sezonu 2026/27",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 1250,
+       "junior_senior": 990,
+       "child": 790
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Cennik 2025/26: cennika karnetów na sezon 2026/27 jeszcze nie opublikowano, poza Flexiskipasem.",
+   "Ceny karnetów są dynamiczne i zależą od dnia; w tabeli ceny kasowe z kalkulatora na skiresort.cz zapisane przez archiwum internetu 6.02.2026 (taka sama cena 3.01.2026)",
+   "Online w sezonie 2025/26 karnet 1-dniowy był tańszy: Standard 1349/1150/880 Kč, Last Minute 1249/1060/810 Kč, First Minute 1149/980/750 Kč (dorosły / junior, senior / dziecko)",
+   "Ceny karnetów 2-7 dni kalkulator pokazuje dla wybranej daty; nie zostały zapisane",
+   "W sezonie bocznym od 9.03.2026 karnet 1-dniowy w kasie: 1250/1060/810 Kč",
+   "Pakiet 1+1 (dorosły lub senior z dzieckiem z rocznika 2020 i młodszym): 1590 Kč w kasie w sezonie głównym",
+   "Karnety 5, 6 i 7 dni obejmują jazdę wieczorną i jeden zjazd na torze bobslejowym w Relaxparku Pec; karnety wielodniowe na kolejne dni",
+   "Flexiskipas 2026/27: kategorie według roczników, dorosły 1965-2008, junior 2009-2014, senior 1964 i starsi, dziecko 2015 i młodsze",
+   "Karnet 4-godzinny tylko w kasie i automatach, ważny 4 godziny od pierwszego przejścia, najdłużej do 16:00"
+  ]
+ },
+ "kitzsteinhorn-kaprun": {
+  "season": "2026/27",
+  "source_url": "https://www.kitzsteinhorn.at/de/tickets-preise/ski-board",
+  "checked_at": "2026-10-26",
+  "currency": "EUR",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Dorosły",
+    "note": "rocznik 2007 i starsi"
+   },
+   {
+    "id": "youth",
+    "label": "Młodzież",
+    "note": "rocznik 2008-2010"
+   },
+   {
+    "id": "child",
+    "label": "Dziecko",
+    "note": "rocznik 2011-2020"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Ski ALPIN CARD 1-7 dni (Kitzsteinhorn, Maiskogel, Saalbach Hinterglemm Leogang Fieberbrunn, Zell am See)",
+    "period": "sezon wysoki: 19.12.2026 - 12.03.2027",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 82,
+       "youth": 61.5,
+       "child": 41
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 161,
+       "youth": 120.5,
+       "child": 80.5
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 240,
+       "youth": 180,
+       "child": 120
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 316,
+       "youth": 237,
+       "child": 158
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 381,
+       "youth": 285.5,
+       "child": 190.5
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 440,
+       "youth": 330,
+       "child": 220
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 489,
+       "youth": 366.5,
+       "child": 244.5
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Ceny z oficjalnej strony kitzsteinhorn.at (stan na 26.10.2026), z 10% VAT",
+   "Poza sezonem wysokim (27.11-18.12.2026 i 13.03-4.04.2027) Ski ALPIN CARD jest tańsza, np. 1 dzień 74 €, 7 dni 440 € dla dorosłego",
+   "Jesienią (do 26.11.2026) czynny tylko Kitzsteinhorn: karnet dzienny 74 € (17-22.10) lub 77 € (od 23.10) dla dorosłego",
+   "Karnety 1-dniowe i wielodniowe ważne już od 15:00 dnia poprzedniego; wielodniowe tylko w kolejne dni; jazda wieczorna w cenie",
+   "Dzieci z rocznika 2021 i młodsze bezpłatnie w towarzystwie dorosłego; ulgi dla dzieci i młodzieży tylko z dokumentem potwierdzającym wiek",
+   "Kaucja za kartę KeyCard 2 €"
+  ]
+ },
+ "nassfeld": {
+  "season": "2026/27",
+  "source_url": "https://www.nassfeld.at/en/Winter-World/Sun-Ski-World/Skigebiet-Nassfeld/Skipasspreise/Tages-Mehrtageskarten",
+  "checked_at": "2026-10-26",
+  "currency": "EUR",
+  "categories": [
+   {
+    "id": "adult",
+    "label": "Dorosły",
+    "note": "rocznik 1962-2007"
+   },
+   {
+    "id": "youth",
+    "label": "Młodzież",
+    "note": "rocznik 2008-2011"
+   },
+   {
+    "id": "senior",
+    "label": "Senior",
+    "note": "rocznik 1961 i starsi"
+   },
+   {
+    "id": "child",
+    "label": "Dziecko",
+    "note": "rocznik 2012-2020"
+   }
+  ],
+  "tables": [
+   {
+    "title": "Skipass Nassfeld 1-7 dni",
+    "period": "sezon wysoki: 25.12.2026 - 13.03.2027",
+    "rows": [
+     {
+      "label": "1 dzień",
+      "prices": {
+       "adult": 73,
+       "youth": 55,
+       "senior": 65.5,
+       "child": 36.5
+      }
+     },
+     {
+      "label": "2 dni",
+      "prices": {
+       "adult": 143,
+       "youth": 107,
+       "senior": 129,
+       "child": 72
+      }
+     },
+     {
+      "label": "3 dni",
+      "prices": {
+       "adult": 213,
+       "youth": 160,
+       "senior": 192,
+       "child": 107
+      }
+     },
+     {
+      "label": "4 dni",
+      "prices": {
+       "adult": 278,
+       "youth": 209,
+       "senior": 251,
+       "child": 139
+      }
+     },
+     {
+      "label": "5 dni",
+      "prices": {
+       "adult": 336,
+       "youth": 252,
+       "senior": 303,
+       "child": 168
+      }
+     },
+     {
+      "label": "6 dni",
+      "prices": {
+       "adult": 381,
+       "youth": 286,
+       "senior": 343,
+       "child": 191
+      }
+     },
+     {
+      "label": "7 dni",
+      "prices": {
+       "adult": 414,
+       "youth": 311,
+       "senior": 373,
+       "child": 207
+      }
+     }
+    ]
+   }
+  ],
+  "notes": [
+   "Ceny z oficjalnej strony nassfeld.at (stan na 26.10.2026); ośrodek zastrzega możliwość zmian",
+   "Sezon niski (4-24.12.2026 i 14.03-4.04.2027) jest tańszy, np. 1 dzień 67,50 €, 7 dni 373 € dla dorosłego",
+   "Są też karnety od 12:00 (1,5, 2,5 i 3,5 dnia), 5 i 6 z 7 dni oraz karnety na 5 lub 10 dowolnych dni sezonu (dorosły 355 i 657 €)",
+   "Dzieci z rocznika 2021 i młodsze jadące z rodzicami nie potrzebują karnetu; karnet Bambini na 7 dni kosztuje 30 €",
+   "Pakiet rodzinny: przy zakupie 2 pełnopłatnych karnetów dziennych dla dorosłych i 2 dla dzieci lub młodzieży trzecie i kolejne dziecko (rocznik do 2011) bezpłatnie",
+   "Jazda wieczorna w soboty stycznia i lutego: 10 € (dziecko 5 €)",
+   "Kaucja za kartę 5 €; ulgi wymagają dokumentu ze zdjęciem"
+  ]
+ }
+}
