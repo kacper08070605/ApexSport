@@ -53,6 +53,7 @@ export interface Profile {
   radius: [number, number];
   baseLength: number;
   lengthSteps: { label: string; cm: number }[];
+  slalomMax: number;
 }
 
 export interface Recommendation {
@@ -86,19 +87,24 @@ export function buildProfile(input: SelectorInput): Profile {
   const waistMid = 70 + input.offPiste * 0.28 + (input.where === "alps" ? 3 : 0) + (input.snow === "soft" ? 4 : input.snow === "hard" ? -2 : 0) - (input.turn === "short" ? 2 : 0);
   const radius: Record<Turn, [number, number]> = { short: [10.5, 13.5], medium: [13, 16.5], long: [16, 21], mixed: [12.5, 17] };
 
-  // długość bazowa: od wzrostu, potem korekty
+  // długość bazowa: wzrost minus odjęcie za poziom (tabele producentów i sklepów: od −20 cm dla
+  // zaczynających do ~wzrostu dla ekspertów), potem korekty
   const steps: { label: string; cm: number }[] = [];
-  const levelOffset = { first: -18, beginner: -14, intermediate: -9, advanced: -5, expert: -2 }[input.level];
+  const levelOffset = { first: -20, beginner: -16, intermediate: -12, advanced: -7, expert: -3 }[input.level];
   steps.push({ label: `wzrost ${input.heightCm} cm, poziom`, cm: input.heightCm + levelOffset });
-  const w = Math.max(-6, Math.min(6, Math.round(heavy * 0.35)));
-  if (w !== 0) steps.push({ label: heavy > 0 ? "waga powyżej typowej dla wzrostu" : "waga poniżej typowej dla wzrostu", cm: w });
+  // waga: odchylenie od BMI 23 dla danego wzrostu; ±5 kg bez korekty, potem łagodnie, najwyżej ±4 cm
+  const dev = input.weightKg - 23 * (input.heightCm / 100) ** 2;
+  const over = Math.abs(dev) - 5;
+  const w = over > 0 ? Math.sign(dev) * Math.min(4, Math.round(over * 0.3)) : 0;
+  if (w !== 0) steps.push({ label: dev > 0 ? "waga powyżej typowej dla wzrostu" : "waga poniżej typowej dla wzrostu", cm: w });
   if (input.speed === "fast") steps.push({ label: "szybka jazda", cm: 3 });
   if (input.speed === "calm") steps.push({ label: "spokojna jazda", cm: -2 });
   if (input.turn === "short") steps.push({ label: "krótki skręt", cm: -3 });
   if (input.turn === "long") steps.push({ label: "długi skręt", cm: 3 });
   if (input.offPiste >= 50) steps.push({ label: "dużo jazdy poza trasą", cm: 3 });
   if (input.age >= 60) steps.push({ label: "wiek 60+", cm: -2 });
-  const baseLength = steps.reduce((s, x) => s + x.cm, 0);
+  // korekty się sumują, ale narta zjazdowa nie powinna wyjść krótsza niż wzrost −25 ani dłuższa niż wzrost +5
+  const baseLength = Math.max(input.heightCm - 25, Math.min(input.heightCm + 5, steps.reduce((s, x) => s + x.cm, 0)));
 
   return {
     needs: {
@@ -112,6 +118,8 @@ export function buildProfile(input: SelectorInput): Profile {
     radius: radius[input.turn],
     baseLength: Math.round(baseLength),
     lengthSteps: steps,
+    // slalomki: typowo 165–170 cm u mężczyzn i 150–165 cm u kobiet (Atomic Redster S)
+    slalomMax: input.sex === "female" ? 163 : 170,
   };
 }
 
@@ -122,19 +130,21 @@ function lengthFor(ski: Ski, traits: SkiTraits, profile: Profile): { length: num
   let target = profile.baseLength;
   const notes: string[] = [];
   if (ski.category === "slalom") {
-    target -= 5;
-    notes.push("slalomka −5 cm");
+    target = Math.min(target - 6, profile.slalomMax);
+    notes.push(target === profile.slalomMax ? `slalomka, najwyżej ${profile.slalomMax} cm` : "slalomka −6 cm");
   }
   if (ski.category === "giant-slalom") {
     target += 5;
     notes.push("gigant +5 cm");
   }
+  // rocker skraca krawędź w kontakcie ze śniegiem; przy nartach trasowych z lekkim rockerem na dziobie
+  // producenci nie zalecają dłuższej narty, więc korekta tylko dla szerszych nart i pełnego rockera
   if (traits.rocker === "full") {
-    target += 4;
-    notes.push("rocker z przodu i z tyłu +4 cm");
-  } else if (traits.rocker === "tip") {
+    target += 3;
+    notes.push("rocker z przodu i z tyłu +3 cm");
+  } else if (traits.rocker === "tip" && traits.waist >= 90) {
     target += 2;
-    notes.push("rocker na dziobie +2 cm");
+    notes.push("szeroka narta z rockerem na dziobie +2 cm");
   }
   const lengths = ski.lengths.map((l) => l.length_cm).sort((a, b) => a - b);
   const sorted = lengths.slice().sort((a, b) => Math.abs(a - target) - Math.abs(b - target));
