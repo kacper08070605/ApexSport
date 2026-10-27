@@ -43,7 +43,7 @@ function samples(): Sample[] {
   };
   return [
     ski("atomic-redster-s9-revoshock-s-2025-26", 165, 1850, "olx", "jak nowe, 1 sezon", "4 min temu"),
-    { title: "Tecnica Mach1 MV 120", detail: "rozmiar 27.5 (EU 43), stan bardzo dobry", price: 690, source: "vinted", ago: "11 min temu" },
+    { title: "Tecnica Mach1 MV 120", detail: "rozmiar 27.5 (EU 43), stan bardzo dobry", price: 690, source: "vinted", ago: "11 min temu", image: "/images/photos/radar-tecnica-mach1-mv-120.png" },
     ski("volkl-mantra-88-2026-27", 177, 1490, "vinted", "stan bardzo dobry", "26 min temu"),
   ].filter((s): s is Sample => s !== null);
 }
@@ -176,11 +176,7 @@ export default function RadarPage() {
               {samples().map((s) => (
                 <li key={s.title} className="grid grid-cols-[56px_1fr_auto] items-center gap-3 px-4 py-3">
                   <span className="relative flex h-16 w-14 items-center justify-center rounded-sm bg-muted">
-                    {s.image ? (
-                      <Image src={s.image} alt="" fill sizes="56px" className="object-contain py-1" />
-                    ) : (
-                      <span className="font-mono text-[11px] text-muted-foreground">buty</span>
-                    )}
+                    {s.image && <Image src={s.image} alt="" fill sizes="56px" className="object-contain p-1" />}
                   </span>
                   <span className="min-w-0">
                     <span className="block truncate text-sm font-medium">
@@ -215,9 +211,15 @@ export default function RadarPage() {
             playsInline
             poster="/video/apex-radar-poster.jpg"
           >
-            <source src="/video/apex-radar.mp4" type="video/mp4" />
+            <source src="/video/apex-radar.mp4?v=2" type="video/mp4" />
             <track kind="captions" src="/video/apex-radar.vtt" srcLang="pl" label="Polski" default />
           </video>
+          <p className="mt-2 text-xs text-muted-foreground">
+            Muzyka: „Inspired”, Kevin MacLeod (
+            <a href="https://incompetech.com" className="underline" target="_blank" rel="noopener noreferrer">incompetech.com</a>
+            ), licencja{" "}
+            <a href="https://creativecommons.org/licenses/by/4.0/deed.pl" className="underline" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>
+          </p>
         </section>
 
         <section>

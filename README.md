@@ -53,7 +53,7 @@ Bez `RESEND_API_KEY` e-mail trafia tylko do bazy, a status widać na `/alerty`.
 
 ## Apex Radar (monitor ogłoszeń)
 
-Strona `/radar`, konto `/radar/rejestracja`, panel `/panel`: wyszukiwania (modele z katalogu, słowa kluczowe, cena, długość, stan, serwisy), znalezione ogłoszenia (zapisz/odrzuć), historia powiadomień, plan i konto. Plan Free: 2 wyszukiwania i dzienne podsumowanie. Plan Pro (19 zł/mies.): 25 wyszukiwań i powiadomienie od razu. Płatność jest atrapą, przycisk włącza Pro bez obciążenia.
+Strona `/radar`, konto `/radar/rejestracja`, panel `/panel`: wyszukiwania (modele z katalogu, słowa kluczowe, cena, długość, stan, serwisy), znalezione ogłoszenia (zapisz/odrzuć), historia powiadomień, plan i konto. Plan Free: 2 wyszukiwania i dzienne podsumowanie. Plan Pro (39 zł/mies., 349 zł/rok): 25 wyszukiwań i powiadomienie od razu. Płatność jest atrapą, przycisk włącza Pro bez obciążenia.
 
 - Prawdziwe ogłoszenia: Vinted, z publicznej strony katalogu (`src/lib/radar/vinted.ts`, wyłączenie `RADAR_VINTED=false`). Najwyżej 8 fraz na skan, 1,5 s przerwy, bot przedstawia się jako ApexRadar. OLX blokuje automatyczne pobieranie (403) i wymaga zgody serwisu. Allegro ma oficjalne REST API: adapter `src/lib/radar/allegro.ts` działa po ustawieniu `ALLEGRO_CLIENT_ID`, `ALLEGRO_CLIENT_SECRET` i weryfikacji aplikacji przez Allegro. Generator przykładowych ogłoszeń (`src/lib/radar/demo-source.ts`) włącza `RADAR_DEMO=true`.
 - OLX: jednorazowa próbka 40 publicznych ogłoszeń w `data/olx-snapshot.json` (`src/lib/radar/olx-snapshot.ts`, wyłączenie `RADAR_OLX_SNAPSHOT=false`). Bot nie łączy się z OLX.

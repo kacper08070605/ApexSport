@@ -25,8 +25,8 @@ export const PLANS: Record<PlanId, Plan> = {
   pro: {
     id: "pro",
     name: "Pro",
-    priceMonthly: 19,
-    priceYearly: 149,
+    priceMonthly: 39,
+    priceYearly: 349,
     maxWatches: 25,
     instant: true,
     scanEvery: "co 15 minut",
